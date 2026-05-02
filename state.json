@@ -483,7 +483,7 @@
     "initialized": true
   },
   "DGE.L": {
-    "ath": 4098.2421875,
+    "ath": 4098.24267578125,
     "ath_date": "2022-01-04",
     "ath_disarmed": [
       15,
@@ -759,7 +759,7 @@
     "initialized": true
   },
   "HSY": {
-    "ath": 254.3101348876953,
+    "ath": 254.31015014648438,
     "ath_date": "2023-05-01",
     "ath_disarmed": [
       15,
@@ -1135,7 +1135,7 @@
     "initialized": true
   },
   "NKE": {
-    "ath": 165.15061950683594,
+    "ath": 165.15065002441406,
     "ath_date": "2021-11-05",
     "ath_disarmed": [
       15,
@@ -1258,7 +1258,7 @@
     "initialized": true
   },
   "PFE": {
-    "ath": 49.04943084716797,
+    "ath": 49.049434661865234,
     "ath_date": "2021-12-16",
     "ath_disarmed": [
       15,
@@ -1274,7 +1274,7 @@
     "initialized": true
   },
   "PGR": {
-    "ath": 273.37158203125,
+    "ath": 273.3716125488281,
     "ath_date": "2025-03-17",
     "ath_disarmed": [
       15,
@@ -1518,7 +1518,7 @@
     "initialized": true
   },
   "SLB": {
-    "ath": 58.090492248535156,
+    "ath": 58.09049606323242,
     "ath_date": "2023-09-12",
     "ath_disarmed": [],
     "initialized": true
@@ -1616,7 +1616,7 @@
     "initialized": true
   },
   "TMO": {
-    "ath": 659.2048950195312,
+    "ath": 659.205078125,
     "ath_date": "2021-12-31",
     "ath_disarmed": [
       15,
