@@ -343,7 +343,7 @@
     "initialized": true
   },
   "CI": {
-    "ath": 355.9977111816406,
+    "ath": 355.99774169921875,
     "ath_date": "2024-09-16",
     "ath_disarmed": [
       15
@@ -909,7 +909,7 @@
     "initialized": true
   },
   "LGEN.L": {
-    "ath": 316.7431335449219,
+    "ath": 316.7431640625,
     "ath_date": "2020-02-14",
     "ath_disarmed": [
       15
@@ -1026,7 +1026,7 @@
     "initialized": true
   },
   "MET": {
-    "ath": 85.15361785888672,
+    "ath": 85.15362548828125,
     "ath_date": "2024-11-27",
     "ath_disarmed": [],
     "initialized": true
@@ -1066,7 +1066,7 @@
     "initialized": true
   },
   "MRK": {
-    "ath": 125.35166931152344,
+    "ath": 125.35167694091797,
     "ath_date": "2024-06-24",
     "ath_disarmed": [],
     "initialized": true
@@ -1336,7 +1336,7 @@
     "initialized": true
   },
   "PLD": {
-    "ath": 152.97898864746094,
+    "ath": 152.97900390625,
     "ath_date": "2022-04-28",
     "ath_disarmed": [],
     "initialized": true
@@ -1442,7 +1442,7 @@
     "initialized": true
   },
   "RMS.PA": {
-    "ath": 2781.453369140625,
+    "ath": 2781.45361328125,
     "ath_date": "2025-02-14",
     "ath_disarmed": [
       15,
@@ -1523,7 +1523,7 @@
     "initialized": true
   },
   "SGSN.SW": {
-    "ath": 97.85120391845703,
+    "ath": 97.85121154785156,
     "ath_date": "2021-12-29",
     "ath_disarmed": [],
     "initialized": true
@@ -1560,7 +1560,7 @@
     "initialized": true
   },
   "SLB": {
-    "ath": 58.09049606323242,
+    "ath": 58.09049987792969,
     "ath_date": "2023-09-12",
     "ath_disarmed": [],
     "initialized": true
