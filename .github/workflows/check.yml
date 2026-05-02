@@ -2,15 +2,16 @@ name: Stock 250 Dip Alert
 
 on:
   schedule:
-    # Every 4 hours (UTC). Translates to 02/06/10/14/18/22 UTC.
-    # Paris time: in CET (winter) UTC+1, in CEST (summer) UTC+2.
-    # The heartbeat fires whenever the local hour is within 1 of
-    # config.heartbeat_hour_local (default 22), at most once per day.
+    # Every 4 hours (UTC) at 02/06/10/14/18/22 UTC.
+    # Threshold-crossing alerts can fire on any of these runs, immediately
+    # when a stock crosses -15/-25/-35/-45% from ATH.
+    # Weekly heartbeat fires only on the Friday 18:00 UTC run (or any run
+    # after that point if Friday's run was missed), once per ISO week.
     - cron: "0 */4 * * *"
   workflow_dispatch:  # allow manual trigger from the GitHub UI
     inputs:
       force_heartbeat:
-        description: "Force send heartbeat (full status of all stocks down >=10%) regardless of time"
+        description: "Force send weekly heartbeat (4 group messages) regardless of time"
         type: boolean
         default: false
 
@@ -59,3 +60,4 @@ jobs:
           else
             echo "state.json not present after run."
           fi
+
