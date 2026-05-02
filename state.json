@@ -877,7 +877,7 @@
     "initialized": true
   },
   "KER.PA": {
-    "ath": 700.62255859375,
+    "ath": 700.6226196289062,
     "ath_date": "2021-08-12",
     "ath_disarmed": [
       15,
@@ -909,7 +909,7 @@
     "initialized": true
   },
   "LGEN.L": {
-    "ath": 316.7431640625,
+    "ath": 316.7431945800781,
     "ath_date": "2020-02-14",
     "ath_disarmed": [
       15
@@ -1432,7 +1432,7 @@
     "initialized": true
   },
   "RKT.L": {
-    "ath": 8271.3486328125,
+    "ath": 8271.349609375,
     "ath_date": "2020-07-23",
     "ath_disarmed": [
       15,
@@ -1511,7 +1511,7 @@
     "initialized": true
   },
   "SBUX": {
-    "ath": 112.83761596679688,
+    "ath": 112.8376235961914,
     "ath_date": "2021-07-26",
     "ath_disarmed": [],
     "initialized": true
