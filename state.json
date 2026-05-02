@@ -139,7 +139,7 @@
     "initialized": true
   },
   "AMT": {
-    "ath": 262.1724853515625,
+    "ath": 262.1725158691406,
     "ath_date": "2021-09-08",
     "ath_disarmed": [
       15,
@@ -310,7 +310,9 @@
   "CARL-B.CO": {
     "ath": 1040.78857421875,
     "ath_date": "2023-05-15",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "CAT": {
@@ -560,7 +562,7 @@
     "initialized": true
   },
   "EL": {
-    "ath": 347.4117431640625,
+    "ath": 347.4117736816406,
     "ath_date": "2022-01-04",
     "ath_disarmed": [
       15,
@@ -757,7 +759,7 @@
     "initialized": true
   },
   "HSY": {
-    "ath": 254.31008911132812,
+    "ath": 254.3101348876953,
     "ath_date": "2023-05-01",
     "ath_disarmed": [
       15,
@@ -957,7 +959,9 @@
   "MAERSK-B.CO": {
     "ath": 18091.587890625,
     "ath_date": "2026-03-18",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "MBG.DE": {
@@ -969,7 +973,7 @@
     "initialized": true
   },
   "MC.PA": {
-    "ath": 837.3729858398438,
+    "ath": 837.373046875,
     "ath_date": "2023-04-24",
     "ath_disarmed": [
       15,
@@ -987,7 +991,7 @@
     "initialized": true
   },
   "MCHP": {
-    "ath": 94.70343780517578,
+    "ath": 94.70344543457031,
     "ath_date": "2024-05-22",
     "ath_disarmed": [],
     "initialized": true
@@ -1075,7 +1079,7 @@
     "initialized": true
   },
   "MSCI": {
-    "ath": 643.203369140625,
+    "ath": 643.2034912109375,
     "ath_date": "2021-11-16",
     "ath_disarmed": [],
     "initialized": true
@@ -1156,9 +1160,13 @@
     "initialized": true
   },
   "NOVO-B.CO": {
-    "ath": 962.3806762695312,
+    "ath": 962.3807983398438,
     "ath_date": "2024-06-25",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15,
+      25,
+      40
+    ],
     "initialized": true
   },
   "NOW": {
@@ -1218,7 +1226,7 @@
     "initialized": true
   },
   "ORCL": {
-    "ath": 325.7593078613281,
+    "ath": 325.75933837890625,
     "ath_date": "2025-09-10",
     "ath_disarmed": [
       15,
@@ -1244,7 +1252,7 @@
     "initialized": true
   },
   "PEP": {
-    "ath": 177.2497100830078,
+    "ath": 177.24972534179688,
     "ath_date": "2023-05-12",
     "ath_disarmed": [],
     "initialized": true
@@ -1260,7 +1268,7 @@
     "initialized": true
   },
   "PG": {
-    "ath": 172.54100036621094,
+    "ath": 172.541015625,
     "ath_date": "2024-12-02",
     "ath_disarmed": [],
     "initialized": true
@@ -1340,7 +1348,7 @@
     "initialized": true
   },
   "QCOM": {
-    "ath": 218.4236602783203,
+    "ath": 218.42367553710938,
     "ath_date": "2024-06-18",
     "ath_disarmed": [
       15
@@ -1461,7 +1469,7 @@
     "initialized": true
   },
   "SBUX": {
-    "ath": 112.83761596679688,
+    "ath": 112.83763885498047,
     "ath_date": "2021-07-26",
     "ath_disarmed": [],
     "initialized": true
@@ -1725,7 +1733,7 @@
     "initialized": true
   },
   "VOW3.DE": {
-    "ath": 158.73040771484375,
+    "ath": 158.7304229736328,
     "ath_date": "2021-04-06",
     "ath_disarmed": [
       15,
