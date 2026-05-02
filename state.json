@@ -65,7 +65,7 @@
     "initialized": true
   },
   "ADS.DE": {
-    "ath": 324.7272644042969,
+    "ath": 324.727294921875,
     "ath_date": "2021-08-04",
     "ath_disarmed": [
       15,
@@ -359,7 +359,7 @@
     "initialized": true
   },
   "CMCSA": {
-    "ath": 49.84008026123047,
+    "ath": 49.840084075927734,
     "ath_date": "2021-09-02",
     "ath_disarmed": [
       15,
@@ -471,7 +471,7 @@
     "initialized": true
   },
   "DG": {
-    "ath": 243.31253051757812,
+    "ath": 243.3125457763672,
     "ath_date": "2022-10-28",
     "ath_disarmed": [
       15,
@@ -719,7 +719,7 @@
     "initialized": true
   },
   "HD": {
-    "ath": 418.0818786621094,
+    "ath": 418.0819091796875,
     "ath_date": "2024-12-06",
     "ath_disarmed": [
       15
@@ -978,7 +978,7 @@
     "initialized": true
   },
   "MC.PA": {
-    "ath": 837.3729858398438,
+    "ath": 837.373046875,
     "ath_date": "2023-04-24",
     "ath_disarmed": [
       15,
@@ -1271,7 +1271,7 @@
     "initialized": true
   },
   "OXY": {
-    "ath": 71.7988052368164,
+    "ath": 71.79882049560547,
     "ath_date": "2022-11-07",
     "ath_disarmed": [
       15
@@ -1783,7 +1783,7 @@
     "initialized": true
   },
   "UNH": {
-    "ath": 603.2012329101562,
+    "ath": 603.2012939453125,
     "ath_date": "2024-11-11",
     "ath_disarmed": [
       15,
