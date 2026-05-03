@@ -133,7 +133,7 @@
     "initialized": true
   },
   "AMT": {
-    "ath": 262.1724548339844,
+    "ath": 262.1724853515625,
     "ath_date": "2021-09-08",
     "ath_disarmed": [
       15,
@@ -482,7 +482,7 @@
     "initialized": true
   },
   "DGE.L": {
-    "ath": 4098.2421875,
+    "ath": 4098.24267578125,
     "ath_date": "2022-01-04",
     "ath_disarmed": [
       15,
@@ -1560,7 +1560,7 @@
     "initialized": true
   },
   "SLB": {
-    "ath": 58.09049987792969,
+    "ath": 58.09050369262695,
     "ath_date": "2023-09-12",
     "ath_disarmed": [],
     "initialized": true
