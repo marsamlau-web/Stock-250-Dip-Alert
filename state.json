@@ -351,7 +351,7 @@
     "initialized": true
   },
   "CL": {
-    "ath": 104.38202667236328,
+    "ath": 104.38203430175781,
     "ath_date": "2024-09-04",
     "ath_disarmed": [
       15
@@ -1095,7 +1095,7 @@
     "initialized": true
   },
   "MSCI": {
-    "ath": 643.203369140625,
+    "ath": 643.2034301757812,
     "ath_date": "2021-11-16",
     "ath_disarmed": [],
     "initialized": true
@@ -1357,7 +1357,7 @@
     "initialized": true
   },
   "PRU.L": {
-    "ath": 1552.169189453125,
+    "ath": 1552.1693115234375,
     "ath_date": "2021-09-06",
     "ath_disarmed": [
       15,
