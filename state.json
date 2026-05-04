@@ -6,8 +6,8 @@
     "initialized": true
   },
   "ABBN.SW": {
-    "ath": 78.44000244140625,
-    "ath_date": "2026-04-30",
+    "ath": 79.12000274658203,
+    "ath_date": "2026-05-04",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -253,7 +253,8 @@
     "ath": 102.52613067626953,
     "ath_date": "2024-04-08",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
@@ -801,8 +802,8 @@
     "initialized": true
   },
   "IFX.DE": {
-    "ath": 57.130001068115234,
-    "ath_date": "2026-04-30",
+    "ath": 57.7400016784668,
+    "ath_date": "2026-05-04",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1171,8 +1172,8 @@
     "initialized": true
   },
   "NOKIA.HE": {
-    "ath": 10.604999542236328,
-    "ath_date": "2026-04-30",
+    "ath": 11.359999656677246,
+    "ath_date": "2026-05-04",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1271,7 +1272,7 @@
     "initialized": true
   },
   "OXY": {
-    "ath": 71.79882049560547,
+    "ath": 71.798828125,
     "ath_date": "2022-11-07",
     "ath_disarmed": [
       15
@@ -1287,7 +1288,7 @@
     "initialized": true
   },
   "PEP": {
-    "ath": 177.24972534179688,
+    "ath": 177.24974060058594,
     "ath_date": "2023-05-12",
     "ath_disarmed": [],
     "initialized": true
@@ -1366,8 +1367,8 @@
     "initialized": true
   },
   "PRY.MI": {
-    "ath": 127.94999694824219,
-    "ath_date": "2026-04-30",
+    "ath": 128.75,
+    "ath_date": "2026-05-04",
     "ath_disarmed": [],
     "initialized": true
   },
