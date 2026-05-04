@@ -103,8 +103,8 @@
     "initialized": true
   },
   "ALL": {
-    "ath": 218.22999572753906,
-    "ath_date": "2026-04-15",
+    "ath": 219.8699951171875,
+    "ath_date": "2026-05-04",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -144,7 +144,7 @@
     "initialized": true
   },
   "AMZN": {
-    "ath": 270.8900146484375,
+    "ath": 272.04998779296875,
     "ath_date": "2026-05-04",
     "ath_disarmed": [],
     "initialized": true
@@ -599,7 +599,9 @@
   "EMR": {
     "ath": 161.07102966308594,
     "ath_date": "2026-02-10",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "ENEL.MI": {
@@ -731,7 +733,8 @@
     "ath": 418.0819091796875,
     "ath_date": "2024-12-06",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
@@ -790,8 +793,8 @@
     "initialized": true
   },
   "IBKR": {
-    "ath": 81.70999908447266,
-    "ath_date": "2026-04-17",
+    "ath": 81.72000122070312,
+    "ath_date": "2026-05-04",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -923,7 +926,7 @@
     "initialized": true
   },
   "LGEN.L": {
-    "ath": 316.7431945800781,
+    "ath": 316.74322509765625,
     "ath_date": "2020-02-14",
     "ath_disarmed": [
       15
@@ -1011,7 +1014,7 @@
     "initialized": true
   },
   "MCHP": {
-    "ath": 95.2300033569336,
+    "ath": 95.30000305175781,
     "ath_date": "2026-05-04",
     "ath_disarmed": [],
     "initialized": true
@@ -1076,8 +1079,8 @@
     "initialized": true
   },
   "MPC": {
-    "ath": 251.91000366210938,
-    "ath_date": "2026-03-27",
+    "ath": 252.5399932861328,
+    "ath_date": "2026-05-04",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1657,7 +1660,7 @@
     "initialized": true
   },
   "STMPA.PA": {
-    "ath": 48.832298278808594,
+    "ath": 48.83230209350586,
     "ath_date": "2023-07-27",
     "ath_disarmed": [],
     "initialized": true
@@ -1707,7 +1710,8 @@
     "ath_disarmed": [
       15,
       25,
-      35
+      35,
+      45
     ],
     "initialized": true
   },
