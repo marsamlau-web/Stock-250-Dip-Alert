@@ -61,8 +61,8 @@
     "initialized": true
   },
   "ADI": {
-    "ath": 403.8800048828125,
-    "ath_date": "2026-04-23",
+    "ath": 404.7699890136719,
+    "ath_date": "2026-05-05",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -144,7 +144,7 @@
     "initialized": true
   },
   "AMZN": {
-    "ath": 272.7254943847656,
+    "ath": 273.54998779296875,
     "ath_date": "2026-05-05",
     "ath_disarmed": [],
     "initialized": true
@@ -325,7 +325,7 @@
     "initialized": true
   },
   "CAT": {
-    "ath": 900.8900146484375,
+    "ath": 904.5900268554688,
     "ath_date": "2026-05-05",
     "ath_disarmed": [],
     "initialized": true
@@ -706,7 +706,7 @@
     "initialized": true
   },
   "GOOGL": {
-    "ath": 385.7749938964844,
+    "ath": 388.42999267578125,
     "ath_date": "2026-05-05",
     "ath_disarmed": [],
     "initialized": true
@@ -1083,7 +1083,7 @@
     "initialized": true
   },
   "MPC": {
-    "ath": 258.19000244140625,
+    "ath": 260.510009765625,
     "ath_date": "2026-05-05",
     "ath_disarmed": [],
     "initialized": true
