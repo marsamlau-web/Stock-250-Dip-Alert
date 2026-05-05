@@ -212,7 +212,9 @@
   "BARC.L": {
     "ath": 501.5422058105469,
     "ath_date": "2026-02-03",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "BATS.L": {
@@ -936,7 +938,9 @@
   "LLOY.L": {
     "ath": 112.57321166992188,
     "ath_date": "2026-02-03",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "LLY": {
@@ -1192,8 +1196,8 @@
     "initialized": true
   },
   "NOKIA.HE": {
-    "ath": 11.390000343322754,
-    "ath_date": "2026-05-04",
+    "ath": 11.395000457763672,
+    "ath_date": "2026-05-05",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1361,7 +1365,7 @@
     "initialized": true
   },
   "PLD": {
-    "ath": 152.97900390625,
+    "ath": 152.97903442382812,
     "ath_date": "2022-04-28",
     "ath_disarmed": [],
     "initialized": true
@@ -1855,7 +1859,7 @@
     "initialized": true
   },
   "VWS.CO": {
-    "ath": 306.2527160644531,
+    "ath": 306.25274658203125,
     "ath_date": "2021-01-07",
     "ath_disarmed": [
       15,
