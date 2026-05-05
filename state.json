@@ -6,7 +6,7 @@
     "initialized": true
   },
   "ABBN.SW": {
-    "ath": 79.76000213623047,
+    "ath": 80.58000183105469,
     "ath_date": "2026-05-05",
     "ath_disarmed": [],
     "initialized": true
@@ -144,8 +144,8 @@
     "initialized": true
   },
   "AMZN": {
-    "ath": 272.04998779296875,
-    "ath_date": "2026-05-04",
+    "ath": 272.7254943847656,
+    "ath_date": "2026-05-05",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -168,8 +168,8 @@
     "initialized": true
   },
   "AVGO": {
-    "ath": 422.760009765625,
-    "ath_date": "2026-04-24",
+    "ath": 430.8550109863281,
+    "ath_date": "2026-05-05",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -266,7 +266,7 @@
     "initialized": true
   },
   "BMY": {
-    "ath": 69.49034118652344,
+    "ath": 69.49034881591797,
     "ath_date": "2022-12-02",
     "ath_disarmed": [
       15
@@ -325,8 +325,8 @@
     "initialized": true
   },
   "CAT": {
-    "ath": 890.1099853515625,
-    "ath_date": "2026-04-30",
+    "ath": 900.8900146484375,
+    "ath_date": "2026-05-05",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -445,8 +445,8 @@
     "initialized": true
   },
   "CSCO": {
-    "ath": 92.88999938964844,
-    "ath_date": "2026-05-04",
+    "ath": 94.44999694824219,
+    "ath_date": "2026-05-05",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -706,8 +706,8 @@
     "initialized": true
   },
   "GOOGL": {
-    "ath": 385.69000244140625,
-    "ath_date": "2026-05-01",
+    "ath": 385.7749938964844,
+    "ath_date": "2026-05-05",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -795,8 +795,8 @@
     "initialized": true
   },
   "IBKR": {
-    "ath": 81.72000122070312,
-    "ath_date": "2026-05-04",
+    "ath": 84.37000274658203,
+    "ath_date": "2026-05-05",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -818,7 +818,7 @@
     "initialized": true
   },
   "IFX.DE": {
-    "ath": 59.470001220703125,
+    "ath": 60.5,
     "ath_date": "2026-05-05",
     "ath_disarmed": [],
     "initialized": true
@@ -838,8 +838,8 @@
     "initialized": true
   },
   "INTC": {
-    "ath": 99.62000274658203,
-    "ath_date": "2026-05-01",
+    "ath": 108.80500030517578,
+    "ath_date": "2026-05-05",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -928,7 +928,7 @@
     "initialized": true
   },
   "LGEN.L": {
-    "ath": 316.74322509765625,
+    "ath": 316.7432556152344,
     "ath_date": "2020-02-14",
     "ath_disarmed": [
       15
@@ -966,8 +966,8 @@
     "initialized": true
   },
   "LRCX": {
-    "ath": 272.4100036621094,
-    "ath_date": "2026-04-14",
+    "ath": 277.68499755859375,
+    "ath_date": "2026-05-05",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1018,8 +1018,8 @@
     "initialized": true
   },
   "MCHP": {
-    "ath": 95.30000305175781,
-    "ath_date": "2026-05-04",
+    "ath": 98.73999786376953,
+    "ath_date": "2026-05-05",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1040,7 +1040,7 @@
     "initialized": true
   },
   "MDT": {
-    "ath": 116.61370849609375,
+    "ath": 116.61371612548828,
     "ath_date": "2021-09-08",
     "ath_disarmed": [
       15,
@@ -1083,8 +1083,8 @@
     "initialized": true
   },
   "MPC": {
-    "ath": 252.5399932861328,
-    "ath_date": "2026-05-04",
+    "ath": 258.19000244140625,
+    "ath_date": "2026-05-05",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1106,8 +1106,8 @@
     "initialized": true
   },
   "MRVL": {
-    "ath": 165.55999755859375,
-    "ath_date": "2026-04-23",
+    "ath": 172.41000366210938,
+    "ath_date": "2026-05-05",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1140,8 +1140,8 @@
     "initialized": true
   },
   "MU": {
-    "ath": 580.5651245117188,
-    "ath_date": "2026-05-04",
+    "ath": 640.6199951171875,
+    "ath_date": "2026-05-05",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1196,7 +1196,7 @@
     "initialized": true
   },
   "NOKIA.HE": {
-    "ath": 11.399999618530273,
+    "ath": 11.425000190734863,
     "ath_date": "2026-05-05",
     "ath_disarmed": [],
     "initialized": true
@@ -1395,7 +1395,7 @@
     "initialized": true
   },
   "PRY.MI": {
-    "ath": 133.1999969482422,
+    "ath": 139.60000610351562,
     "ath_date": "2026-05-05",
     "ath_disarmed": [],
     "initialized": true
@@ -1439,7 +1439,8 @@
     "ath_date": "2025-02-13",
     "ath_disarmed": [
       15,
-      25
+      25,
+      35
     ],
     "initialized": true
   },
@@ -1579,12 +1580,13 @@
     "ath_date": "2025-10-29",
     "ath_disarmed": [
       15,
-      25
+      25,
+      35
     ],
     "initialized": true
   },
   "SIE.DE": {
-    "ath": 258.5,
+    "ath": 260.5,
     "ath_date": "2026-05-05",
     "ath_disarmed": [],
     "initialized": true
@@ -1631,7 +1633,8 @@
     "ath_disarmed": [
       15,
       25,
-      35
+      35,
+      45
     ],
     "initialized": true
   },
