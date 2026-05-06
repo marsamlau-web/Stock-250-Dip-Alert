@@ -1,7 +1,7 @@
 {
   "AAPL": {
-    "ath": 285.9224548339844,
-    "ath_date": "2025-12-02",
+    "ath": 287.510009765625,
+    "ath_date": "2026-05-06",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -61,7 +61,7 @@
     "initialized": true
   },
   "ADI": {
-    "ath": 415.42999267578125,
+    "ath": 415.6300048828125,
     "ath_date": "2026-05-06",
     "ath_disarmed": [],
     "initialized": true
@@ -115,13 +115,13 @@
     "initialized": true
   },
   "AMAT": {
-    "ath": 427.2300109863281,
+    "ath": 428.6199951171875,
     "ath_date": "2026-05-06",
     "ath_disarmed": [],
     "initialized": true
   },
   "AMD": {
-    "ath": 416.17999267578125,
+    "ath": 421.3900146484375,
     "ath_date": "2026-05-06",
     "ath_disarmed": [],
     "initialized": true
@@ -144,7 +144,7 @@
     "initialized": true
   },
   "AMZN": {
-    "ath": 274.4800109863281,
+    "ath": 274.989990234375,
     "ath_date": "2026-05-06",
     "ath_disarmed": [],
     "initialized": true
@@ -325,7 +325,7 @@
     "initialized": true
   },
   "CAT": {
-    "ath": 921.02001953125,
+    "ath": 926.9299926757812,
     "ath_date": "2026-05-06",
     "ath_disarmed": [],
     "initialized": true
@@ -708,7 +708,7 @@
     "initialized": true
   },
   "GOOGL": {
-    "ath": 397.5199890136719,
+    "ath": 398.0400085449219,
     "ath_date": "2026-05-06",
     "ath_disarmed": [],
     "initialized": true
@@ -797,7 +797,7 @@
     "initialized": true
   },
   "IBKR": {
-    "ath": 86.90499877929688,
+    "ath": 87.04000091552734,
     "ath_date": "2026-05-06",
     "ath_disarmed": [],
     "initialized": true
@@ -840,7 +840,7 @@
     "initialized": true
   },
   "INTC": {
-    "ath": 110.87999725341797,
+    "ath": 113.01000213623047,
     "ath_date": "2026-05-06",
     "ath_disarmed": [],
     "initialized": true
@@ -968,7 +968,7 @@
     "initialized": true
   },
   "LRCX": {
-    "ath": 296.2799987792969,
+    "ath": 297.1700134277344,
     "ath_date": "2026-05-06",
     "ath_disarmed": [],
     "initialized": true
@@ -1001,13 +1001,12 @@
     "initialized": true
   },
   "MC.PA": {
-    "ath": 837.373046875,
+    "ath": 837.3731079101562,
     "ath_date": "2023-04-24",
     "ath_disarmed": [
       15,
       25,
-      35,
-      45
+      35
     ],
     "initialized": true
   },
@@ -1020,7 +1019,7 @@
     "initialized": true
   },
   "MCHP": {
-    "ath": 101.33000183105469,
+    "ath": 102.91999816894531,
     "ath_date": "2026-05-06",
     "ath_disarmed": [],
     "initialized": true
@@ -1142,7 +1141,7 @@
     "initialized": true
   },
   "MU": {
-    "ath": 660.280029296875,
+    "ath": 666.5900268554688,
     "ath_date": "2026-05-06",
     "ath_disarmed": [],
     "initialized": true
@@ -1246,7 +1245,7 @@
     "initialized": true
   },
   "NXPI": {
-    "ath": 299.25,
+    "ath": 303.54998779296875,
     "ath_date": "2026-05-06",
     "ath_disarmed": [],
     "initialized": true
@@ -1491,8 +1490,8 @@
     "initialized": true
   },
   "ROST": {
-    "ath": 228.83999633789062,
-    "ath_date": "2026-05-01",
+    "ath": 228.91000366210938,
+    "ath_date": "2026-05-06",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1778,7 +1777,7 @@
     "initialized": true
   },
   "TXN": {
-    "ath": 288.6326904296875,
+    "ath": 289.44000244140625,
     "ath_date": "2026-05-06",
     "ath_disarmed": [],
     "initialized": true
