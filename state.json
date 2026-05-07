@@ -1,7 +1,7 @@
 {
   "AAPL": {
-    "ath": 287.510009765625,
-    "ath_date": "2026-05-06",
+    "ath": 289.05999755859375,
+    "ath_date": "2026-05-07",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -14,7 +14,9 @@
   "ABBV": {
     "ath": 238.71388244628906,
     "ath_date": "2025-10-01",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "ABNB": {
@@ -1552,7 +1554,9 @@
   "SCHW": {
     "ath": 106.84917449951172,
     "ath_date": "2026-02-09",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "SGSN.SW": {
@@ -1719,7 +1723,8 @@
     "ath_disarmed": [
       15,
       25,
-      35
+      35,
+      45
     ],
     "initialized": true
   },
