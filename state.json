@@ -202,7 +202,9 @@
   "BA.L": {
     "ath": 2330.74853515625,
     "ath_date": "2026-03-17",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "BAC": {
@@ -757,7 +759,9 @@
   "HO.PA": {
     "ath": 271.8184509277344,
     "ath_date": "2025-10-02",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "HOLN.SW": {
@@ -1393,13 +1397,14 @@
     "ath": 1552.16943359375,
     "ath_date": "2021-09-06",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
   "PRY.MI": {
-    "ath": 145.5,
-    "ath_date": "2026-05-07",
+    "ath": 149.10000610351562,
+    "ath_date": "2026-05-08",
     "ath_disarmed": [],
     "initialized": true
   },
