@@ -687,7 +687,7 @@
     "initialized": true
   },
   "GIS": {
-    "ath": 79.69744873046875,
+    "ath": 79.69745635986328,
     "ath_date": "2023-05-12",
     "ath_disarmed": [
       15,
@@ -1390,11 +1390,10 @@
     "initialized": true
   },
   "PRU.L": {
-    "ath": 1552.1693115234375,
+    "ath": 1552.16943359375,
     "ath_date": "2021-09-06",
     "ath_disarmed": [
-      15,
-      25
+      15
     ],
     "initialized": true
   },
@@ -1429,7 +1428,7 @@
     "initialized": true
   },
   "REGN": {
-    "ath": 1193.69580078125,
+    "ath": 1193.6959228515625,
     "ath_date": "2024-08-27",
     "ath_disarmed": [
       15,
