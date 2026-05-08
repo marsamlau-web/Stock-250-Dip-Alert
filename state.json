@@ -1,7 +1,7 @@
 {
   "AAPL": {
-    "ath": 289.05999755859375,
-    "ath_date": "2026-05-07",
+    "ath": 293.2569885253906,
+    "ath_date": "2026-05-08",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -63,8 +63,8 @@
     "initialized": true
   },
   "ADI": {
-    "ath": 415.6300048828125,
-    "ath_date": "2026-05-06",
+    "ath": 416.5199890136719,
+    "ath_date": "2026-05-08",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -117,14 +117,14 @@
     "initialized": true
   },
   "AMAT": {
-    "ath": 428.6199951171875,
-    "ath_date": "2026-05-06",
+    "ath": 435.3575134277344,
+    "ath_date": "2026-05-08",
     "ath_disarmed": [],
     "initialized": true
   },
   "AMD": {
-    "ath": 421.3900146484375,
-    "ath_date": "2026-05-06",
+    "ath": 455.19000244140625,
+    "ath_date": "2026-05-08",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -418,7 +418,7 @@
     "initialized": true
   },
   "COST": {
-    "ath": 1069.438720703125,
+    "ath": 1069.4388427734375,
     "ath_date": "2025-02-13",
     "ath_disarmed": [],
     "initialized": true
@@ -449,8 +449,8 @@
     "initialized": true
   },
   "CSCO": {
-    "ath": 94.44999694824219,
-    "ath_date": "2026-05-05",
+    "ath": 96.56999969482422,
+    "ath_date": "2026-05-08",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -712,8 +712,8 @@
     "initialized": true
   },
   "GOOGL": {
-    "ath": 398.0400085449219,
-    "ath_date": "2026-05-06",
+    "ath": 400.7130126953125,
+    "ath_date": "2026-05-08",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -826,8 +826,8 @@
     "initialized": true
   },
   "IFX.DE": {
-    "ath": 61.36000061035156,
-    "ath_date": "2026-05-07",
+    "ath": 61.65999984741211,
+    "ath_date": "2026-05-08",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -846,8 +846,8 @@
     "initialized": true
   },
   "INTC": {
-    "ath": 113.01000213623047,
-    "ath_date": "2026-05-06",
+    "ath": 124.8949966430664,
+    "ath_date": "2026-05-08",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -961,7 +961,8 @@
     "ath": 676.7000122070312,
     "ath_date": "2026-03-02",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
@@ -1147,8 +1148,8 @@
     "initialized": true
   },
   "MU": {
-    "ath": 666.5900268554688,
-    "ath_date": "2026-05-06",
+    "ath": 746.7899780273438,
+    "ath_date": "2026-05-08",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1306,7 +1307,8 @@
     "ath": 71.798828125,
     "ath_date": "2022-11-07",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
@@ -1403,7 +1405,7 @@
     "initialized": true
   },
   "PRY.MI": {
-    "ath": 149.10000610351562,
+    "ath": 152.0500030517578,
     "ath_date": "2026-05-08",
     "ath_disarmed": [],
     "initialized": true
@@ -1415,11 +1417,9 @@
     "initialized": true
   },
   "QCOM": {
-    "ath": 218.42367553710938,
-    "ath_date": "2024-06-18",
-    "ath_disarmed": [
-      15
-    ],
+    "ath": 219.08999633789062,
+    "ath_date": "2026-05-08",
+    "ath_disarmed": [],
     "initialized": true
   },
   "RACE.MI": {
@@ -1581,7 +1581,8 @@
     "ath_disarmed": [
       15,
       25,
-      35
+      35,
+      45
     ],
     "initialized": true
   },
@@ -1622,7 +1623,8 @@
     "ath": 560.7598266601562,
     "ath_date": "2025-08-14",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
@@ -1677,8 +1679,8 @@
     "initialized": true
   },
   "STMPA.PA": {
-    "ath": 48.939998626708984,
-    "ath_date": "2026-05-07",
+    "ath": 49.03499984741211,
+    "ath_date": "2026-05-08",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1748,7 +1750,7 @@
     "initialized": true
   },
   "TMUS": {
-    "ath": 268.2467956542969,
+    "ath": 268.246826171875,
     "ath_date": "2025-03-03",
     "ath_disarmed": [
       15,
@@ -1927,7 +1929,9 @@
   "XOM": {
     "ath": 171.47000122070312,
     "ath_date": "2026-03-30",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "XYZ": {
@@ -1953,5 +1957,5 @@
     "ath_disarmed": [],
     "initialized": true
   },
-  "last_heartbeat_week": "2026-W18"
+  "last_heartbeat_week": "2026-W19"
 }
