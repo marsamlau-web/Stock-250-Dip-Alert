@@ -1,6 +1,6 @@
 {
   "AAPL": {
-    "ath": 293.2569885253906,
+    "ath": 293.32000732421875,
     "ath_date": "2026-05-08",
     "ath_disarmed": [],
     "initialized": true
@@ -117,7 +117,7 @@
     "initialized": true
   },
   "AMAT": {
-    "ath": 435.3575134277344,
+    "ath": 435.44000244140625,
     "ath_date": "2026-05-08",
     "ath_disarmed": [],
     "initialized": true
@@ -712,7 +712,7 @@
     "initialized": true
   },
   "GOOGL": {
-    "ath": 400.7130126953125,
+    "ath": 400.79998779296875,
     "ath_date": "2026-05-08",
     "ath_disarmed": [],
     "initialized": true
@@ -846,7 +846,7 @@
     "initialized": true
   },
   "INTC": {
-    "ath": 124.8949966430664,
+    "ath": 124.91999816894531,
     "ath_date": "2026-05-08",
     "ath_disarmed": [],
     "initialized": true
@@ -1148,7 +1148,7 @@
     "initialized": true
   },
   "MU": {
-    "ath": 746.7899780273438,
+    "ath": 746.8099975585938,
     "ath_date": "2026-05-08",
     "ath_disarmed": [],
     "initialized": true
