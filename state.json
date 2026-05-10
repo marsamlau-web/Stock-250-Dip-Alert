@@ -1855,13 +1855,12 @@
     "initialized": true
   },
   "VOW3.DE": {
-    "ath": 158.7304229736328,
+    "ath": 158.73043823242188,
     "ath_date": "2021-04-06",
     "ath_disarmed": [
       15,
       25,
-      35,
-      45
+      35
     ],
     "initialized": true
   },
