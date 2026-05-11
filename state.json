@@ -6,8 +6,8 @@
     "initialized": true
   },
   "ABBN.SW": {
-    "ath": 82.83999633789062,
-    "ath_date": "2026-05-07",
+    "ath": 83.23999786376953,
+    "ath_date": "2026-05-11",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -643,8 +643,8 @@
     "initialized": true
   },
   "ERIC-B.ST": {
-    "ath": 111.4000015258789,
-    "ath_date": "2026-05-05",
+    "ath": 112.1500015258789,
+    "ath_date": "2026-05-11",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -661,8 +661,8 @@
     "initialized": true
   },
   "G.MI": {
-    "ath": 39.09000015258789,
-    "ath_date": "2026-05-06",
+    "ath": 39.209999084472656,
+    "ath_date": "2026-05-11",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -826,8 +826,8 @@
     "initialized": true
   },
   "IFX.DE": {
-    "ath": 61.65999984741211,
-    "ath_date": "2026-05-08",
+    "ath": 61.7599983215332,
+    "ath_date": "2026-05-11",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1013,7 +1013,8 @@
     "ath_disarmed": [
       15,
       25,
-      35
+      35,
+      45
     ],
     "initialized": true
   },
@@ -1097,7 +1098,7 @@
     "initialized": true
   },
   "MRK": {
-    "ath": 125.35167694091797,
+    "ath": 125.3516845703125,
     "ath_date": "2024-06-24",
     "ath_disarmed": [],
     "initialized": true
@@ -1405,8 +1406,8 @@
     "initialized": true
   },
   "PRY.MI": {
-    "ath": 152.0500030517578,
-    "ath_date": "2026-05-08",
+    "ath": 154.25,
+    "ath_date": "2026-05-11",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1679,8 +1680,8 @@
     "initialized": true
   },
   "STMPA.PA": {
-    "ath": 49.03499984741211,
-    "ath_date": "2026-05-08",
+    "ath": 50.02000045776367,
+    "ath_date": "2026-05-11",
     "ath_disarmed": [],
     "initialized": true
   },
