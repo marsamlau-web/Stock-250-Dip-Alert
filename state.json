@@ -63,7 +63,7 @@
     "initialized": true
   },
   "ADI": {
-    "ath": 418.1499938964844,
+    "ath": 422.7300109863281,
     "ath_date": "2026-05-11",
     "ath_disarmed": [],
     "initialized": true
@@ -449,7 +449,7 @@
     "initialized": true
   },
   "CSCO": {
-    "ath": 98.26000213623047,
+    "ath": 98.72000122070312,
     "ath_date": "2026-05-11",
     "ath_disarmed": [],
     "initialized": true
@@ -846,7 +846,7 @@
     "initialized": true
   },
   "INTC": {
-    "ath": 127.87999725341797,
+    "ath": 129.44000244140625,
     "ath_date": "2026-05-11",
     "ath_disarmed": [],
     "initialized": true
@@ -1255,8 +1255,8 @@
     "initialized": true
   },
   "NXPI": {
-    "ath": 303.54998779296875,
-    "ath_date": "2026-05-06",
+    "ath": 305.989990234375,
+    "ath_date": "2026-05-11",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1422,7 +1422,7 @@
     "initialized": true
   },
   "QCOM": {
-    "ath": 236.30999755859375,
+    "ath": 237.52999877929688,
     "ath_date": "2026-05-11",
     "ath_disarmed": [],
     "initialized": true
@@ -1793,7 +1793,7 @@
     "initialized": true
   },
   "TXN": {
-    "ath": 295.3699951171875,
+    "ath": 297.760009765625,
     "ath_date": "2026-05-11",
     "ath_disarmed": [],
     "initialized": true
