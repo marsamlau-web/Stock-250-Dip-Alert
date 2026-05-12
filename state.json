@@ -6,8 +6,8 @@
     "initialized": true
   },
   "ABBN.SW": {
-    "ath": 83.55999755859375,
-    "ath_date": "2026-05-11",
+    "ath": 83.62000274658203,
+    "ath_date": "2026-05-12",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -643,8 +643,8 @@
     "initialized": true
   },
   "ERIC-B.ST": {
-    "ath": 114.6500015258789,
-    "ath_date": "2026-05-11",
+    "ath": 116.5,
+    "ath_date": "2026-05-12",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1158,7 +1158,9 @@
   "MUV2.DE": {
     "ath": 580.0992431640625,
     "ath_date": "2025-08-07",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "NEE": {
@@ -1207,8 +1209,8 @@
     "initialized": true
   },
   "NOKIA.HE": {
-    "ath": 11.425000190734863,
-    "ath_date": "2026-05-05",
+    "ath": 11.545000076293945,
+    "ath_date": "2026-05-12",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1281,8 +1283,8 @@
     "initialized": true
   },
   "ORA.PA": {
-    "ath": 18.25,
-    "ath_date": "2026-05-11",
+    "ath": 18.350000381469727,
+    "ath_date": "2026-05-12",
     "ath_disarmed": [],
     "initialized": true
   },
