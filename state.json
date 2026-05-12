@@ -1,6 +1,6 @@
 {
   "AAPL": {
-    "ath": 294.17999267578125,
+    "ath": 294.79998779296875,
     "ath_date": "2026-05-12",
     "ath_disarmed": [],
     "initialized": true
@@ -449,7 +449,7 @@
     "initialized": true
   },
   "CSCO": {
-    "ath": 98.98999786376953,
+    "ath": 99.29000091552734,
     "ath_date": "2026-05-12",
     "ath_disarmed": [],
     "initialized": true
@@ -1243,8 +1243,8 @@
     "initialized": true
   },
   "NVDA": {
-    "ath": 220.7100067138672,
-    "ath_date": "2026-05-11",
+    "ath": 220.77999877929688,
+    "ath_date": "2026-05-12",
     "ath_disarmed": [],
     "initialized": true
   },
