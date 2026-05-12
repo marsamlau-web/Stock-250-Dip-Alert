@@ -1,7 +1,7 @@
 {
   "AAPL": {
-    "ath": 293.32000732421875,
-    "ath_date": "2026-05-08",
+    "ath": 294.17999267578125,
+    "ath_date": "2026-05-12",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -449,8 +449,8 @@
     "initialized": true
   },
   "CSCO": {
-    "ath": 98.72000122070312,
-    "ath_date": "2026-05-11",
+    "ath": 98.98999786376953,
+    "ath_date": "2026-05-12",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1397,8 +1397,8 @@
     "initialized": true
   },
   "PM": {
-    "ath": 188.12066650390625,
-    "ath_date": "2026-02-25",
+    "ath": 189.96499633789062,
+    "ath_date": "2026-05-12",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1868,7 +1868,8 @@
     "ath_disarmed": [
       15,
       25,
-      35
+      35,
+      45
     ],
     "initialized": true
   },
