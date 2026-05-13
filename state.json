@@ -222,8 +222,8 @@
     "initialized": true
   },
   "BATS.L": {
-    "ath": 4639.3447265625,
-    "ath_date": "2026-02-27",
+    "ath": 4706.0,
+    "ath_date": "2026-05-13",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -643,8 +643,8 @@
     "initialized": true
   },
   "ERIC-B.ST": {
-    "ath": 116.5,
-    "ath_date": "2026-05-12",
+    "ath": 117.44999694824219,
+    "ath_date": "2026-05-13",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -826,8 +826,8 @@
     "initialized": true
   },
   "IFX.DE": {
-    "ath": 61.790000915527344,
-    "ath_date": "2026-05-11",
+    "ath": 61.880001068115234,
+    "ath_date": "2026-05-13",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -888,7 +888,9 @@
   "ITX.MC": {
     "ath": 56.942752838134766,
     "ath_date": "2026-02-19",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "JNJ": {
@@ -1076,7 +1078,8 @@
     "ath": 411.257568359375,
     "ath_date": "2025-04-17",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
@@ -1209,8 +1212,8 @@
     "initialized": true
   },
   "NOKIA.HE": {
-    "ath": 11.545000076293945,
-    "ath_date": "2026-05-12",
+    "ath": 11.720000267028809,
+    "ath_date": "2026-05-13",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1265,7 +1268,9 @@
   "NXT.L": {
     "ath": 14575.3525390625,
     "ath_date": "2025-10-29",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "ON": {
@@ -1283,8 +1288,8 @@
     "initialized": true
   },
   "ORA.PA": {
-    "ath": 18.350000381469727,
-    "ath_date": "2026-05-12",
+    "ath": 18.489999771118164,
+    "ath_date": "2026-05-13",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1687,8 +1692,8 @@
     "initialized": true
   },
   "STMPA.PA": {
-    "ath": 50.29999923706055,
-    "ath_date": "2026-05-11",
+    "ath": 50.349998474121094,
+    "ath_date": "2026-05-13",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1732,7 +1737,7 @@
     "initialized": true
   },
   "TGT": {
-    "ath": 232.6782989501953,
+    "ath": 232.67831420898438,
     "ath_date": "2021-11-16",
     "ath_disarmed": [
       15,
