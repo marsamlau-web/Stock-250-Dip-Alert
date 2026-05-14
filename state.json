@@ -152,8 +152,8 @@
     "initialized": true
   },
   "ASML.AS": {
-    "ath": 1329.5999755859375,
-    "ath_date": "2026-05-07",
+    "ath": 1341.0,
+    "ath_date": "2026-05-14",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -222,8 +222,8 @@
     "initialized": true
   },
   "BATS.L": {
-    "ath": 4807.0,
-    "ath_date": "2026-05-13",
+    "ath": 4893.0,
+    "ath_date": "2026-05-14",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -825,8 +825,8 @@
     "initialized": true
   },
   "IFX.DE": {
-    "ath": 64.36000061035156,
-    "ath_date": "2026-05-13",
+    "ath": 66.33999633789062,
+    "ath_date": "2026-05-14",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1050,12 +1050,11 @@
     "initialized": true
   },
   "MDT": {
-    "ath": 116.61371612548828,
+    "ath": 116.61372375488281,
     "ath_date": "2021-09-08",
     "ath_disarmed": [
       15,
-      25,
-      35
+      25
     ],
     "initialized": true
   },
@@ -1287,8 +1286,8 @@
     "initialized": true
   },
   "ORA.PA": {
-    "ath": 18.489999771118164,
-    "ath_date": "2026-05-13",
+    "ath": 18.649999618530273,
+    "ath_date": "2026-05-14",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1608,8 +1607,8 @@
     "initialized": true
   },
   "SIE.DE": {
-    "ath": 270.0,
-    "ath_date": "2026-05-07",
+    "ath": 275.8999938964844,
+    "ath_date": "2026-05-14",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1690,8 +1689,8 @@
     "initialized": true
   },
   "STMPA.PA": {
-    "ath": 52.34000015258789,
-    "ath_date": "2026-05-13",
+    "ath": 53.619998931884766,
+    "ath_date": "2026-05-14",
     "ath_disarmed": [],
     "initialized": true
   },
