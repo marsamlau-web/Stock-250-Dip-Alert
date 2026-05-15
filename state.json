@@ -642,8 +642,8 @@
     "initialized": true
   },
   "ERIC-B.ST": {
-    "ath": 118.0,
-    "ath_date": "2026-05-13",
+    "ath": 119.55000305175781,
+    "ath_date": "2026-05-15",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1210,8 +1210,8 @@
     "initialized": true
   },
   "NOKIA.HE": {
-    "ath": 11.920000076293945,
-    "ath_date": "2026-05-13",
+    "ath": 11.944999694824219,
+    "ath_date": "2026-05-15",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1924,7 +1924,9 @@
   "WISE.L": {
     "ath": 1160.0,
     "ath_date": "2025-06-05",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "WM": {
