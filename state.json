@@ -436,7 +436,7 @@
     "initialized": true
   },
   "CRWD": {
-    "ath": 591.3099975585938,
+    "ath": 594.0800170898438,
     "ath_date": "2026-05-15",
     "ath_disarmed": [],
     "initialized": true
@@ -448,7 +448,7 @@
     "initialized": true
   },
   "CSCO": {
-    "ath": 117.07099914550781,
+    "ath": 118.20999908447266,
     "ath_date": "2026-05-15",
     "ath_disarmed": [],
     "initialized": true
@@ -1732,7 +1732,9 @@
   "T": {
     "ath": 28.79859161376953,
     "ath_date": "2026-03-27",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "TEF.MC": {
@@ -1979,5 +1981,5 @@
     "ath_disarmed": [],
     "initialized": true
   },
-  "last_heartbeat_week": "2026-W19"
+  "last_heartbeat_week": "2026-W20"
 }
