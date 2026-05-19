@@ -105,8 +105,8 @@
     "initialized": true
   },
   "ALL": {
-    "ath": 221.2100067138672,
-    "ath_date": "2026-05-18",
+    "ath": 226.09500122070312,
+    "ath_date": "2026-05-19",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -419,8 +419,8 @@
     "initialized": true
   },
   "COST": {
-    "ath": 1076.469970703125,
-    "ath_date": "2026-05-18",
+    "ath": 1088.324951171875,
+    "ath_date": "2026-05-19",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -436,8 +436,8 @@
     "initialized": true
   },
   "CRWD": {
-    "ath": 618.8300170898438,
-    "ath_date": "2026-05-18",
+    "ath": 620.1300048828125,
+    "ath_date": "2026-05-19",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -938,8 +938,8 @@
     "initialized": true
   },
   "KO": {
-    "ath": 81.19999694824219,
-    "ath_date": "2026-05-18",
+    "ath": 81.88500213623047,
+    "ath_date": "2026-05-19",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1101,8 +1101,8 @@
     "initialized": true
   },
   "MPC": {
-    "ath": 260.510009765625,
-    "ath_date": "2026-05-05",
+    "ath": 262.1499938964844,
+    "ath_date": "2026-05-19",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1295,8 +1295,8 @@
     "initialized": true
   },
   "ORA.PA": {
-    "ath": 18.649999618530273,
-    "ath_date": "2026-05-14",
+    "ath": 18.739999771118164,
+    "ath_date": "2026-05-19",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1407,8 +1407,8 @@
     "initialized": true
   },
   "PM": {
-    "ath": 191.86000061035156,
-    "ath_date": "2026-05-14",
+    "ath": 192.09500122070312,
+    "ath_date": "2026-05-19",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1950,8 +1950,8 @@
     "initialized": true
   },
   "WMT": {
-    "ath": 133.61578369140625,
-    "ath_date": "2026-02-13",
+    "ath": 134.1300048828125,
+    "ath_date": "2026-05-19",
     "ath_disarmed": [],
     "initialized": true
   },
