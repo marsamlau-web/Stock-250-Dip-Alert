@@ -722,7 +722,7 @@
     "initialized": true
   },
   "GS": {
-    "ath": 981.8499755859375,
+    "ath": 982.1199951171875,
     "ath_date": "2026-05-20",
     "ath_disarmed": [],
     "initialized": true
@@ -1124,13 +1124,13 @@
     "initialized": true
   },
   "MRVL": {
-    "ath": 186.46499633789062,
+    "ath": 186.8000030517578,
     "ath_date": "2026-05-20",
     "ath_disarmed": [],
     "initialized": true
   },
   "MS": {
-    "ath": 197.69000244140625,
+    "ath": 197.77000427246094,
     "ath_date": "2026-05-20",
     "ath_disarmed": [],
     "initialized": true
@@ -1267,7 +1267,7 @@
     "initialized": true
   },
   "NXPI": {
-    "ath": 309.94000244140625,
+    "ath": 310.1499938964844,
     "ath_date": "2026-05-20",
     "ath_disarmed": [],
     "initialized": true
