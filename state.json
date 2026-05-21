@@ -1,7 +1,7 @@
 {
   "AAPL": {
-    "ath": 302.5299987792969,
-    "ath_date": "2026-05-15",
+    "ath": 304.6499938964844,
+    "ath_date": "2026-05-21",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -645,8 +645,8 @@
     "initialized": true
   },
   "ERIC-B.ST": {
-    "ath": 121.25,
-    "ath_date": "2026-05-20",
+    "ath": 123.30000305175781,
+    "ath_date": "2026-05-21",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -722,8 +722,8 @@
     "initialized": true
   },
   "GS": {
-    "ath": 982.1199951171875,
-    "ath_date": "2026-05-20",
+    "ath": 989.7650146484375,
+    "ath_date": "2026-05-21",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -844,8 +844,8 @@
     "initialized": true
   },
   "INGA.AS": {
-    "ath": 25.96500015258789,
-    "ath_date": "2026-05-20",
+    "ath": 26.145000457763672,
+    "ath_date": "2026-05-21",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -983,8 +983,8 @@
     "initialized": true
   },
   "LRCX": {
-    "ath": 299.55999755859375,
-    "ath_date": "2026-05-14",
+    "ath": 301.3999938964844,
+    "ath_date": "2026-05-21",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1124,14 +1124,14 @@
     "initialized": true
   },
   "MRVL": {
-    "ath": 186.8000030517578,
-    "ath_date": "2026-05-20",
+    "ath": 190.2949981689453,
+    "ath_date": "2026-05-21",
     "ath_disarmed": [],
     "initialized": true
   },
   "MS": {
-    "ath": 197.77000427246094,
-    "ath_date": "2026-05-20",
+    "ath": 200.64999389648438,
+    "ath_date": "2026-05-21",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1330,8 +1330,8 @@
     "initialized": true
   },
   "PANW": {
-    "ath": 247.5500030517578,
-    "ath_date": "2026-05-18",
+    "ath": 251.52000427246094,
+    "ath_date": "2026-05-21",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1675,7 +1675,7 @@
     "initialized": true
   },
   "STAN.L": {
-    "ath": 1928.0,
+    "ath": 1936.5,
     "ath_date": "2026-05-21",
     "ath_disarmed": [],
     "initialized": true
@@ -1829,8 +1829,8 @@
     "initialized": true
   },
   "UBSG.SW": {
-    "ath": 36.93870544433594,
-    "ath_date": "2026-01-05",
+    "ath": 37.08000183105469,
+    "ath_date": "2026-05-21",
     "ath_disarmed": [],
     "initialized": true
   },
