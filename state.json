@@ -152,7 +152,7 @@
     "initialized": true
   },
   "ASML.AS": {
-    "ath": 1424.4000244140625,
+    "ath": 1430.5999755859375,
     "ath_date": "2026-05-25",
     "ath_disarmed": [],
     "initialized": true
@@ -642,8 +642,8 @@
     "initialized": true
   },
   "ERIC-B.ST": {
-    "ath": 125.8499984741211,
-    "ath_date": "2026-05-22",
+    "ath": 125.9000015258789,
+    "ath_date": "2026-05-25",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -827,7 +827,7 @@
     "initialized": true
   },
   "IFX.DE": {
-    "ath": 75.22000122070312,
+    "ath": 76.7300033569336,
     "ath_date": "2026-05-25",
     "ath_disarmed": [],
     "initialized": true
@@ -1147,7 +1147,7 @@
     "initialized": true
   },
   "MT.AS": {
-    "ath": 58.15999984741211,
+    "ath": 58.2400016784668,
     "ath_date": "2026-05-25",
     "ath_disarmed": [],
     "initialized": true
@@ -1614,8 +1614,8 @@
     "initialized": true
   },
   "SIE.DE": {
-    "ath": 275.8999938964844,
-    "ath_date": "2026-05-14",
+    "ath": 276.75,
+    "ath_date": "2026-05-25",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1696,8 +1696,8 @@
     "initialized": true
   },
   "STMPA.PA": {
-    "ath": 57.93000030517578,
-    "ath_date": "2026-05-22",
+    "ath": 58.02000045776367,
+    "ath_date": "2026-05-25",
     "ath_disarmed": [],
     "initialized": true
   },
