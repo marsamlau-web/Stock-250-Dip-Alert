@@ -152,8 +152,8 @@
     "initialized": true
   },
   "ASML.AS": {
-    "ath": 1409.0,
-    "ath_date": "2026-05-22",
+    "ath": 1424.4000244140625,
+    "ath_date": "2026-05-25",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -506,7 +506,7 @@
     "initialized": true
   },
   "DHR": {
-    "ath": 288.1966857910156,
+    "ath": 288.19671630859375,
     "ath_date": "2021-09-03",
     "ath_disarmed": [
       15,
@@ -827,8 +827,8 @@
     "initialized": true
   },
   "IFX.DE": {
-    "ath": 73.41999816894531,
-    "ath_date": "2026-05-22",
+    "ath": 75.22000122070312,
+    "ath_date": "2026-05-25",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -841,8 +841,8 @@
     "initialized": true
   },
   "INGA.AS": {
-    "ath": 26.454999923706055,
-    "ath_date": "2026-05-22",
+    "ath": 27.165000915527344,
+    "ath_date": "2026-05-25",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1147,11 +1147,9 @@
     "initialized": true
   },
   "MT.AS": {
-    "ath": 56.91999816894531,
-    "ath_date": "2026-02-25",
-    "ath_disarmed": [
-      15
-    ],
+    "ath": 58.15999984741211,
+    "ath_date": "2026-05-25",
+    "ath_disarmed": [],
     "initialized": true
   },
   "MU": {
