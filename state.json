@@ -117,13 +117,13 @@
     "initialized": true
   },
   "AMAT": {
-    "ath": 453.8399963378906,
+    "ath": 454.8900146484375,
     "ath_date": "2026-05-26",
     "ath_disarmed": [],
     "initialized": true
   },
   "AMD": {
-    "ath": 503.5799865722656,
+    "ath": 503.8900146484375,
     "ath_date": "2026-05-26",
     "ath_disarmed": [],
     "initialized": true
@@ -922,7 +922,7 @@
     "initialized": true
   },
   "KLAC": {
-    "ath": 2010.9549560546875,
+    "ath": 2011.3900146484375,
     "ath_date": "2026-05-26",
     "ath_disarmed": [],
     "initialized": true
@@ -983,7 +983,7 @@
     "initialized": true
   },
   "LRCX": {
-    "ath": 322.2900085449219,
+    "ath": 322.67999267578125,
     "ath_date": "2026-05-26",
     "ath_disarmed": [],
     "initialized": true
@@ -1124,7 +1124,7 @@
     "initialized": true
   },
   "MRVL": {
-    "ath": 207.47999572753906,
+    "ath": 208.25999450683594,
     "ath_date": "2026-05-26",
     "ath_disarmed": [],
     "initialized": true
@@ -1263,7 +1263,7 @@
     "initialized": true
   },
   "NXPI": {
-    "ath": 331.5150146484375,
+    "ath": 332.6700134277344,
     "ath_date": "2026-05-26",
     "ath_disarmed": [],
     "initialized": true
@@ -1430,7 +1430,7 @@
     "initialized": true
   },
   "QCOM": {
-    "ath": 247.99000549316406,
+    "ath": 248.82000732421875,
     "ath_date": "2026-05-26",
     "ath_disarmed": [],
     "initialized": true
@@ -1808,7 +1808,7 @@
     "initialized": true
   },
   "TXN": {
-    "ath": 323.30999755859375,
+    "ath": 324.8900146484375,
     "ath_date": "2026-05-26",
     "ath_disarmed": [],
     "initialized": true
