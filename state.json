@@ -1,7 +1,7 @@
 {
   "AAPL": {
-    "ath": 309.4200134277344,
-    "ath_date": "2026-05-22",
+    "ath": 310.8500061035156,
+    "ath_date": "2026-05-27",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -294,7 +294,9 @@
   "BP.L": {
     "ath": 606.2999877929688,
     "ath_date": "2026-03-31",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "BRK-B": {
@@ -1089,8 +1091,8 @@
     "initialized": true
   },
   "MNST": {
-    "ath": 88.54000091552734,
-    "ath_date": "2026-05-18",
+    "ath": 89.23999786376953,
+    "ath_date": "2026-05-27",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1156,8 +1158,8 @@
     "initialized": true
   },
   "MU": {
-    "ath": 911.9600219726562,
-    "ath_date": "2026-05-26",
+    "ath": 928.4099731445312,
+    "ath_date": "2026-05-27",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1864,8 +1866,8 @@
     "initialized": true
   },
   "UNP": {
-    "ath": 275.1300048828125,
-    "ath_date": "2026-05-18",
+    "ath": 279.3900146484375,
+    "ath_date": "2026-05-27",
     "ath_disarmed": [],
     "initialized": true
   },
