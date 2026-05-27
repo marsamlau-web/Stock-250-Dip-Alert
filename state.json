@@ -785,8 +785,8 @@
     "initialized": true
   },
   "HSBA.L": {
-    "ath": 1397.6341552734375,
-    "ath_date": "2026-02-26",
+    "ath": 1406.5999755859375,
+    "ath_date": "2026-05-27",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -829,8 +829,8 @@
     "initialized": true
   },
   "IFX.DE": {
-    "ath": 77.55000305175781,
-    "ath_date": "2026-05-26",
+    "ath": 78.63999938964844,
+    "ath_date": "2026-05-27",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1332,7 +1332,7 @@
     "initialized": true
   },
   "PEP": {
-    "ath": 177.24974060058594,
+    "ath": 177.249755859375,
     "ath_date": "2023-05-12",
     "ath_disarmed": [
       15
@@ -1615,8 +1615,8 @@
     "initialized": true
   },
   "SIE.DE": {
-    "ath": 276.75,
-    "ath_date": "2026-05-25",
+    "ath": 277.70001220703125,
+    "ath_date": "2026-05-27",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1669,8 +1669,8 @@
     "initialized": true
   },
   "STAN.L": {
-    "ath": 1978.5,
-    "ath_date": "2026-05-26",
+    "ath": 2003.0,
+    "ath_date": "2026-05-27",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1697,8 +1697,8 @@
     "initialized": true
   },
   "STMPA.PA": {
-    "ath": 59.84000015258789,
-    "ath_date": "2026-05-26",
+    "ath": 61.150001525878906,
+    "ath_date": "2026-05-27",
     "ath_disarmed": [],
     "initialized": true
   },
