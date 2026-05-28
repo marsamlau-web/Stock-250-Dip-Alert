@@ -1,7 +1,7 @@
 {
   "AAPL": {
-    "ath": 310.8500061035156,
-    "ath_date": "2026-05-27",
+    "ath": 312.510009765625,
+    "ath_date": "2026-05-28",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -123,8 +123,8 @@
     "initialized": true
   },
   "AMD": {
-    "ath": 503.8900146484375,
-    "ath_date": "2026-05-26",
+    "ath": 518.0900268554688,
+    "ath_date": "2026-05-28",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -723,8 +723,8 @@
     "initialized": true
   },
   "GS": {
-    "ath": 1002.3798828125,
-    "ath_date": "2026-05-22",
+    "ath": 1008.3699951171875,
+    "ath_date": "2026-05-28",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -961,8 +961,8 @@
     "initialized": true
   },
   "LLY": {
-    "ath": 1108.0904541015625,
-    "ath_date": "2025-11-25",
+    "ath": 1126.800048828125,
+    "ath_date": "2026-05-28",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1063,7 +1063,8 @@
     "ath_date": "2021-09-08",
     "ath_disarmed": [
       15,
-      25
+      25,
+      35
     ],
     "initialized": true
   },
@@ -1132,8 +1133,8 @@
     "initialized": true
   },
   "MS": {
-    "ath": 202.4550018310547,
-    "ath_date": "2026-05-22",
+    "ath": 203.7899932861328,
+    "ath_date": "2026-05-28",
     "ath_disarmed": [],
     "initialized": true
   },
