@@ -170,8 +170,8 @@
     "initialized": true
   },
   "AVGO": {
-    "ath": 439.7900085449219,
-    "ath_date": "2026-05-14",
+    "ath": 446.7699890136719,
+    "ath_date": "2026-05-29",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -437,8 +437,8 @@
     "initialized": true
   },
   "CRWD": {
-    "ath": 674.760009765625,
-    "ath_date": "2026-05-26",
+    "ath": 731.0,
+    "ath_date": "2026-05-29",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -449,8 +449,8 @@
     "initialized": true
   },
   "CSCO": {
-    "ath": 120.41000366210938,
-    "ath_date": "2026-05-22",
+    "ath": 120.41999816894531,
+    "ath_date": "2026-05-29",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -723,8 +723,8 @@
     "initialized": true
   },
   "GS": {
-    "ath": 1008.3699951171875,
-    "ath_date": "2026-05-28",
+    "ath": 1025.56005859375,
+    "ath_date": "2026-05-29",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -831,7 +831,7 @@
     "initialized": true
   },
   "IFX.DE": {
-    "ath": 80.91000366210938,
+    "ath": 81.11000061035156,
     "ath_date": "2026-05-29",
     "ath_disarmed": [],
     "initialized": true
@@ -1133,8 +1133,8 @@
     "initialized": true
   },
   "MS": {
-    "ath": 203.7899932861328,
-    "ath_date": "2026-05-28",
+    "ath": 208.0,
+    "ath_date": "2026-05-29",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1159,8 +1159,8 @@
     "initialized": true
   },
   "MU": {
-    "ath": 928.4099731445312,
-    "ath_date": "2026-05-27",
+    "ath": 971.0,
+    "ath_date": "2026-05-29",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1329,8 +1329,8 @@
     "initialized": true
   },
   "PANW": {
-    "ath": 260.5799865722656,
-    "ath_date": "2026-05-22",
+    "ath": 281.69000244140625,
+    "ath_date": "2026-05-29",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1433,8 +1433,8 @@
     "initialized": true
   },
   "QCOM": {
-    "ath": 248.82000732421875,
-    "ath_date": "2026-05-26",
+    "ath": 251.02000427246094,
+    "ath_date": "2026-05-29",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1983,5 +1983,5 @@
     "ath_disarmed": [],
     "initialized": true
   },
-  "last_heartbeat_week": "2026-W21"
+  "last_heartbeat_week": "2026-W22"
 }
