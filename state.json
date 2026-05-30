@@ -499,7 +499,7 @@
     "initialized": true
   },
   "DGE.L": {
-    "ath": 4098.24267578125,
+    "ath": 4098.2431640625,
     "ath_date": "2022-01-04",
     "ath_disarmed": [
       15,
@@ -1596,13 +1596,12 @@
     "initialized": true
   },
   "SHL.DE": {
-    "ath": 61.2231559753418,
+    "ath": 61.22315979003906,
     "ath_date": "2021-12-09",
     "ath_disarmed": [
       15,
       25,
-      35,
-      45
+      35
     ],
     "initialized": true
   },
