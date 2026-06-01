@@ -233,7 +233,8 @@
     "ath_disarmed": [
       15,
       25,
-      35
+      35,
+      45
     ],
     "initialized": true
   },
@@ -831,8 +832,8 @@
     "initialized": true
   },
   "IFX.DE": {
-    "ath": 81.11000061035156,
-    "ath_date": "2026-05-29",
+    "ath": 83.86000061035156,
+    "ath_date": "2026-06-01",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1153,8 +1154,8 @@
     "initialized": true
   },
   "MT.AS": {
-    "ath": 59.34000015258789,
-    "ath_date": "2026-05-29",
+    "ath": 59.779998779296875,
+    "ath_date": "2026-06-01",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1671,8 +1672,8 @@
     "initialized": true
   },
   "STAN.L": {
-    "ath": 2003.0,
-    "ath_date": "2026-05-27",
+    "ath": 2008.0,
+    "ath_date": "2026-06-01",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1935,7 +1936,8 @@
     "ath": 1160.0,
     "ath_date": "2025-06-05",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
