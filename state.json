@@ -440,7 +440,7 @@
     "initialized": true
   },
   "CRWD": {
-    "ath": 761.9000244140625,
+    "ath": 782.1699829101562,
     "ath_date": "2026-06-01",
     "ath_disarmed": [],
     "initialized": true
@@ -452,7 +452,7 @@
     "initialized": true
   },
   "CSCO": {
-    "ath": 120.45999908447266,
+    "ath": 121.33000183105469,
     "ath_date": "2026-06-01",
     "ath_disarmed": [],
     "initialized": true
@@ -726,7 +726,7 @@
     "initialized": true
   },
   "GS": {
-    "ath": 1035.699951171875,
+    "ath": 1048.5799560546875,
     "ath_date": "2026-06-01",
     "ath_disarmed": [],
     "initialized": true
@@ -1133,14 +1133,14 @@
     "initialized": true
   },
   "MS": {
-    "ath": 209.27000427246094,
+    "ath": 211.00999450683594,
     "ath_date": "2026-06-01",
     "ath_disarmed": [],
     "initialized": true
   },
   "MSCI": {
-    "ath": 643.2034301757812,
-    "ath_date": "2021-11-16",
+    "ath": 643.8300170898438,
+    "ath_date": "2026-06-01",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1329,7 +1329,7 @@
     "initialized": true
   },
   "PANW": {
-    "ath": 293.5,
+    "ath": 300.4800109863281,
     "ath_date": "2026-06-01",
     "ath_disarmed": [],
     "initialized": true
