@@ -1,7 +1,7 @@
 {
   "AAPL": {
-    "ath": 312.510009765625,
-    "ath_date": "2026-05-28",
+    "ath": 315.20001220703125,
+    "ath_date": "2026-06-02",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -119,14 +119,14 @@
     "initialized": true
   },
   "AMAT": {
-    "ath": 482.7449951171875,
+    "ath": 490.04998779296875,
     "ath_date": "2026-06-02",
     "ath_disarmed": [],
     "initialized": true
   },
   "AMD": {
-    "ath": 518.0900268554688,
-    "ath_date": "2026-05-28",
+    "ath": 521.5399780273438,
+    "ath_date": "2026-06-02",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -454,7 +454,7 @@
     "initialized": true
   },
   "CSCO": {
-    "ath": 127.43000030517578,
+    "ath": 128.0,
     "ath_date": "2026-06-02",
     "ath_disarmed": [],
     "initialized": true
@@ -819,8 +819,8 @@
     "initialized": true
   },
   "IBM": {
-    "ath": 326.79998779296875,
-    "ath_date": "2026-06-01",
+    "ath": 329.2300109863281,
+    "ath_date": "2026-06-02",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -926,7 +926,7 @@
     "initialized": true
   },
   "KLAC": {
-    "ath": 2027.550048828125,
+    "ath": 2045.199951171875,
     "ath_date": "2026-06-02",
     "ath_disarmed": [],
     "initialized": true
@@ -987,7 +987,7 @@
     "initialized": true
   },
   "LRCX": {
-    "ath": 332.6600036621094,
+    "ath": 334.4100036621094,
     "ath_date": "2026-06-02",
     "ath_disarmed": [],
     "initialized": true
@@ -1129,7 +1129,7 @@
     "initialized": true
   },
   "MRVL": {
-    "ath": 284.1300048828125,
+    "ath": 290.7900085449219,
     "ath_date": "2026-06-02",
     "ath_disarmed": [],
     "initialized": true
@@ -1161,8 +1161,8 @@
     "initialized": true
   },
   "MU": {
-    "ath": 1043.81494140625,
-    "ath_date": "2026-06-01",
+    "ath": 1064.0999755859375,
+    "ath_date": "2026-06-02",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1574,7 +1574,9 @@
   "SBUX": {
     "ath": 112.83763122558594,
     "ath_date": "2021-07-26",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "SCHW": {
