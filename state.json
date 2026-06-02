@@ -48,7 +48,9 @@
   "AD.AS": {
     "ath": 41.765506744384766,
     "ath_date": "2026-03-17",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "ADBE": {
@@ -831,8 +833,8 @@
     "initialized": true
   },
   "IFX.DE": {
-    "ath": 83.86000061035156,
-    "ath_date": "2026-06-01",
+    "ath": 84.62000274658203,
+    "ath_date": "2026-06-02",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1153,8 +1155,8 @@
     "initialized": true
   },
   "MT.AS": {
-    "ath": 60.060001373291016,
-    "ath_date": "2026-06-01",
+    "ath": 61.34000015258789,
+    "ath_date": "2026-06-02",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1218,8 +1220,8 @@
     "initialized": true
   },
   "NOKIA.HE": {
-    "ath": 13.835000038146973,
-    "ath_date": "2026-05-26",
+    "ath": 14.289999961853027,
+    "ath_date": "2026-06-02",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1617,8 +1619,8 @@
     "initialized": true
   },
   "SIE.DE": {
-    "ath": 277.70001220703125,
-    "ath_date": "2026-05-27",
+    "ath": 279.1499938964844,
+    "ath_date": "2026-06-02",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1671,8 +1673,8 @@
     "initialized": true
   },
   "STAN.L": {
-    "ath": 2009.0,
-    "ath_date": "2026-06-01",
+    "ath": 2045.0,
+    "ath_date": "2026-06-02",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1699,8 +1701,8 @@
     "initialized": true
   },
   "STMPA.PA": {
-    "ath": 61.150001525878906,
-    "ath_date": "2026-05-27",
+    "ath": 63.849998474121094,
+    "ath_date": "2026-06-02",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1825,8 +1827,8 @@
     "initialized": true
   },
   "UBSG.SW": {
-    "ath": 37.54999923706055,
-    "ath_date": "2026-06-01",
+    "ath": 37.97999954223633,
+    "ath_date": "2026-06-02",
     "ath_disarmed": [],
     "initialized": true
   },
