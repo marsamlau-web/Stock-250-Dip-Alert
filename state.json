@@ -65,8 +65,8 @@
     "initialized": true
   },
   "ADI": {
-    "ath": 434.6700134277344,
-    "ath_date": "2026-05-13",
+    "ath": 437.6700134277344,
+    "ath_date": "2026-06-03",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -121,13 +121,13 @@
     "initialized": true
   },
   "AMAT": {
-    "ath": 498.9549865722656,
+    "ath": 500.7699890136719,
     "ath_date": "2026-06-03",
     "ath_disarmed": [],
     "initialized": true
   },
   "AMD": {
-    "ath": 532.8599853515625,
+    "ath": 542.52001953125,
     "ath_date": "2026-06-03",
     "ath_disarmed": [],
     "initialized": true
@@ -834,7 +834,8 @@
     "ath": 186.76258850097656,
     "ath_date": "2025-08-04",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
@@ -932,7 +933,7 @@
     "initialized": true
   },
   "KLAC": {
-    "ath": 2089.320068359375,
+    "ath": 2125.110107421875,
     "ath_date": "2026-06-03",
     "ath_disarmed": [],
     "initialized": true
@@ -993,7 +994,7 @@
     "initialized": true
   },
   "LRCX": {
-    "ath": 339.51409912109375,
+    "ath": 343.7099914550781,
     "ath_date": "2026-06-03",
     "ath_disarmed": [],
     "initialized": true
@@ -1167,8 +1168,8 @@
     "initialized": true
   },
   "MU": {
-    "ath": 1064.0999755859375,
-    "ath_date": "2026-06-02",
+    "ath": 1079.5699462890625,
+    "ath_date": "2026-06-03",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1288,7 +1289,7 @@
     "initialized": true
   },
   "ON": {
-    "ath": 133.11000061035156,
+    "ath": 133.92999267578125,
     "ath_date": "2026-06-03",
     "ath_disarmed": [],
     "initialized": true
