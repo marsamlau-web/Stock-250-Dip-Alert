@@ -154,8 +154,8 @@
     "initialized": true
   },
   "ASML.AS": {
-    "ath": 1461.800048828125,
-    "ath_date": "2026-06-02",
+    "ath": 1477.5999755859375,
+    "ath_date": "2026-06-03",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -188,7 +188,9 @@
   "AZN.L": {
     "ath": 15542.0,
     "ath_date": "2026-02-27",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "BA": {
@@ -651,8 +653,8 @@
     "initialized": true
   },
   "ERIC-B.ST": {
-    "ath": 127.3499984741211,
-    "ath_date": "2026-06-02",
+    "ath": 127.94999694824219,
+    "ath_date": "2026-06-03",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1220,8 +1222,8 @@
     "initialized": true
   },
   "NOKIA.HE": {
-    "ath": 14.460000038146973,
-    "ath_date": "2026-06-02",
+    "ath": 14.675000190734863,
+    "ath_date": "2026-06-03",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1605,7 +1607,8 @@
     "ath_disarmed": [
       15,
       25,
-      35
+      35,
+      45
     ],
     "initialized": true
   },
@@ -1703,8 +1706,8 @@
     "initialized": true
   },
   "STMPA.PA": {
-    "ath": 68.27999877929688,
-    "ath_date": "2026-06-02",
+    "ath": 68.33999633789062,
+    "ath_date": "2026-06-03",
     "ath_disarmed": [],
     "initialized": true
   },
