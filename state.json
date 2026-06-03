@@ -95,7 +95,9 @@
   "AIG": {
     "ath": 86.08223724365234,
     "ath_date": "2025-12-23",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "AIR.PA": {
@@ -119,14 +121,14 @@
     "initialized": true
   },
   "AMAT": {
-    "ath": 490.04998779296875,
-    "ath_date": "2026-06-02",
+    "ath": 498.9549865722656,
+    "ath_date": "2026-06-03",
     "ath_disarmed": [],
     "initialized": true
   },
   "AMD": {
-    "ath": 521.5399780273438,
-    "ath_date": "2026-06-02",
+    "ath": 532.8599853515625,
+    "ath_date": "2026-06-03",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -154,7 +156,7 @@
     "initialized": true
   },
   "ASML.AS": {
-    "ath": 1477.5999755859375,
+    "ath": 1485.199951171875,
     "ath_date": "2026-06-03",
     "ath_disarmed": [],
     "initialized": true
@@ -262,7 +264,9 @@
   "BLK": {
     "ath": 1190.13916015625,
     "ath_date": "2025-10-15",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "BMW.DE": {
@@ -336,8 +340,8 @@
     "initialized": true
   },
   "CAT": {
-    "ath": 927.260009765625,
-    "ath_date": "2026-05-11",
+    "ath": 927.8250122070312,
+    "ath_date": "2026-06-03",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -928,8 +932,8 @@
     "initialized": true
   },
   "KLAC": {
-    "ath": 2045.199951171875,
-    "ath_date": "2026-06-02",
+    "ath": 2089.320068359375,
+    "ath_date": "2026-06-03",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -989,8 +993,8 @@
     "initialized": true
   },
   "LRCX": {
-    "ath": 334.4100036621094,
-    "ath_date": "2026-06-02",
+    "ath": 339.51409912109375,
+    "ath_date": "2026-06-03",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1108,8 +1112,8 @@
     "initialized": true
   },
   "MPC": {
-    "ath": 263.614990234375,
-    "ath_date": "2026-06-02",
+    "ath": 271.989990234375,
+    "ath_date": "2026-06-03",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1131,8 +1135,8 @@
     "initialized": true
   },
   "MRVL": {
-    "ath": 290.7900085449219,
-    "ath_date": "2026-06-02",
+    "ath": 305.3550109863281,
+    "ath_date": "2026-06-03",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1222,7 +1226,7 @@
     "initialized": true
   },
   "NOKIA.HE": {
-    "ath": 14.675000190734863,
+    "ath": 14.805000305175781,
     "ath_date": "2026-06-03",
     "ath_disarmed": [],
     "initialized": true
@@ -1284,8 +1288,8 @@
     "initialized": true
   },
   "ON": {
-    "ath": 129.7050018310547,
-    "ath_date": "2026-06-02",
+    "ath": 133.11000061035156,
+    "ath_date": "2026-06-03",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1437,8 +1441,8 @@
     "initialized": true
   },
   "QCOM": {
-    "ath": 251.02000427246094,
-    "ath_date": "2026-05-29",
+    "ath": 253.8000030517578,
+    "ath_date": "2026-06-03",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1706,7 +1710,7 @@
     "initialized": true
   },
   "STMPA.PA": {
-    "ath": 68.33999633789062,
+    "ath": 68.48999786376953,
     "ath_date": "2026-06-03",
     "ath_disarmed": [],
     "initialized": true
