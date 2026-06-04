@@ -176,7 +176,9 @@
   "AVGO": {
     "ath": 485.1650085449219,
     "ath_date": "2026-06-02",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "AXP": {
@@ -970,8 +972,8 @@
     "initialized": true
   },
   "LLY": {
-    "ath": 1126.800048828125,
-    "ath_date": "2026-05-28",
+    "ath": 1127.27001953125,
+    "ath_date": "2026-06-04",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1101,8 +1103,8 @@
     "initialized": true
   },
   "MNST": {
-    "ath": 89.23999786376953,
-    "ath_date": "2026-05-27",
+    "ath": 90.01499938964844,
+    "ath_date": "2026-06-04",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1425,7 +1427,8 @@
     "ath_date": "2021-09-06",
     "ath_disarmed": [
       15,
-      25
+      25,
+      35
     ],
     "initialized": true
   },
