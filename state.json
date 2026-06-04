@@ -317,7 +317,7 @@
     "initialized": true
   },
   "C": {
-    "ath": 134.63009643554688,
+    "ath": 135.14999389648438,
     "ath_date": "2026-06-04",
     "ath_disarmed": [],
     "initialized": true
@@ -342,7 +342,7 @@
     "initialized": true
   },
   "CAT": {
-    "ath": 939.3200073242188,
+    "ath": 940.47998046875,
     "ath_date": "2026-06-04",
     "ath_disarmed": [],
     "initialized": true
@@ -462,7 +462,7 @@
     "initialized": true
   },
   "CSCO": {
-    "ath": 129.64999389648438,
+    "ath": 130.0,
     "ath_date": "2026-06-04",
     "ath_disarmed": [],
     "initialized": true
@@ -736,7 +736,7 @@
     "initialized": true
   },
   "GS": {
-    "ath": 1089.4100341796875,
+    "ath": 1092.6099853515625,
     "ath_date": "2026-06-04",
     "ath_disarmed": [],
     "initialized": true
@@ -1144,7 +1144,7 @@
     "initialized": true
   },
   "MS": {
-    "ath": 217.8000030517578,
+    "ath": 218.27000427246094,
     "ath_date": "2026-06-04",
     "ath_disarmed": [],
     "initialized": true
