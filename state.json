@@ -1172,7 +1172,9 @@
   "MU": {
     "ath": 1079.5699462890625,
     "ath_date": "2026-06-03",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "MUV2.DE": {
