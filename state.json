@@ -1140,7 +1140,9 @@
   "MRVL": {
     "ath": 318.139892578125,
     "ath_date": "2026-06-04",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "MS": {
@@ -2006,5 +2008,5 @@
     "ath_disarmed": [],
     "initialized": true
   },
-  "last_heartbeat_week": "2026-W22"
+  "last_heartbeat_week": "2026-W23"
 }
