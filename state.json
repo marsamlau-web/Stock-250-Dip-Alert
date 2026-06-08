@@ -156,8 +156,8 @@
     "initialized": true
   },
   "ASML.AS": {
-    "ath": 1498.0,
-    "ath_date": "2026-06-04",
+    "ath": 1530.4000244140625,
+    "ath_date": "2026-06-08",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -452,7 +452,9 @@
   "CRWD": {
     "ath": 782.1699829101562,
     "ath_date": "2026-06-01",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "CS.PA": {
@@ -677,7 +679,7 @@
     "initialized": true
   },
   "G.MI": {
-    "ath": 39.43000030517578,
+    "ath": 39.529998779296875,
     "ath_date": "2026-06-08",
     "ath_disarmed": [],
     "initialized": true
@@ -972,8 +974,8 @@
     "initialized": true
   },
   "LLY": {
-    "ath": 1155.1500244140625,
-    "ath_date": "2026-06-05",
+    "ath": 1165.050048828125,
+    "ath_date": "2026-06-08",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1089,7 +1091,8 @@
     "ath": 788.1489868164062,
     "ath_date": "2025-08-12",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
