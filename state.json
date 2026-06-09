@@ -129,7 +129,9 @@
   "AMD": {
     "ath": 542.52001953125,
     "ath_date": "2026-06-03",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "AMGN": {
@@ -831,7 +833,9 @@
   "IBM": {
     "ath": 329.2300109863281,
     "ath_date": "2026-06-02",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "ICE": {
@@ -1164,7 +1168,8 @@
     "ath": 539.8252563476562,
     "ath_date": "2025-10-28",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
@@ -1302,7 +1307,9 @@
   "ON": {
     "ath": 134.2100067138672,
     "ath_date": "2026-06-04",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "OR.PA": {
