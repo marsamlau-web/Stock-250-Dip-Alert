@@ -121,8 +121,8 @@
     "initialized": true
   },
   "AMAT": {
-    "ath": 506.0899963378906,
-    "ath_date": "2026-06-04",
+    "ath": 516.8099975585938,
+    "ath_date": "2026-06-09",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -156,7 +156,7 @@
     "initialized": true
   },
   "ASML.AS": {
-    "ath": 1532.4000244140625,
+    "ath": 1562.800048828125,
     "ath_date": "2026-06-09",
     "ath_disarmed": [],
     "initialized": true
@@ -679,7 +679,7 @@
     "initialized": true
   },
   "G.MI": {
-    "ath": 40.63999938964844,
+    "ath": 41.08000183105469,
     "ath_date": "2026-06-09",
     "ath_disarmed": [],
     "initialized": true
@@ -937,8 +937,8 @@
     "initialized": true
   },
   "KLAC": {
-    "ath": 2137.6201171875,
-    "ath_date": "2026-06-04",
+    "ath": 2216.5400390625,
+    "ath_date": "2026-06-09",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1082,8 +1082,8 @@
     "initialized": true
   },
   "MET": {
-    "ath": 85.16000366210938,
-    "ath_date": "2026-05-22",
+    "ath": 85.5,
+    "ath_date": "2026-06-09",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1238,7 +1238,9 @@
   "NOKIA.HE": {
     "ath": 14.805000305175781,
     "ath_date": "2026-06-03",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "NOVN.SW": {
@@ -1454,7 +1456,9 @@
   "QCOM": {
     "ath": 253.8000030517578,
     "ath_date": "2026-06-03",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "RACE.MI": {
@@ -1847,7 +1851,7 @@
     "initialized": true
   },
   "UBSG.SW": {
-    "ath": 38.560001373291016,
+    "ath": 38.720001220703125,
     "ath_date": "2026-06-09",
     "ath_disarmed": [],
     "initialized": true
