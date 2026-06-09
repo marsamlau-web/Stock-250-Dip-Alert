@@ -156,8 +156,8 @@
     "initialized": true
   },
   "ASML.AS": {
-    "ath": 1530.4000244140625,
-    "ath_date": "2026-06-08",
+    "ath": 1532.4000244140625,
+    "ath_date": "2026-06-09",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -679,8 +679,8 @@
     "initialized": true
   },
   "G.MI": {
-    "ath": 39.900001525878906,
-    "ath_date": "2026-06-08",
+    "ath": 40.459999084472656,
+    "ath_date": "2026-06-09",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1847,8 +1847,8 @@
     "initialized": true
   },
   "UBSG.SW": {
-    "ath": 37.9900016784668,
-    "ath_date": "2026-06-02",
+    "ath": 38.540000915527344,
+    "ath_date": "2026-06-09",
     "ath_disarmed": [],
     "initialized": true
   },
