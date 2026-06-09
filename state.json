@@ -1086,7 +1086,7 @@
     "initialized": true
   },
   "MET": {
-    "ath": 85.5,
+    "ath": 85.56999969482422,
     "ath_date": "2026-06-09",
     "ath_disarmed": [],
     "initialized": true
@@ -1110,8 +1110,8 @@
     "initialized": true
   },
   "MNST": {
-    "ath": 90.01499938964844,
-    "ath_date": "2026-06-04",
+    "ath": 90.1500015258789,
+    "ath_date": "2026-06-09",
     "ath_disarmed": [],
     "initialized": true
   },
