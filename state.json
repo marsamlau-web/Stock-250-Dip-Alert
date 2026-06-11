@@ -121,7 +121,7 @@
     "initialized": true
   },
   "AMAT": {
-    "ath": 540.7000122070312,
+    "ath": 552.6400146484375,
     "ath_date": "2026-06-11",
     "ath_disarmed": [],
     "initialized": true
@@ -320,7 +320,7 @@
     "initialized": true
   },
   "C": {
-    "ath": 137.19000244140625,
+    "ath": 138.07000732421875,
     "ath_date": "2026-06-11",
     "ath_disarmed": [],
     "initialized": true
@@ -942,7 +942,7 @@
     "initialized": true
   },
   "KLAC": {
-    "ath": 2363.405029296875,
+    "ath": 2411.639892578125,
     "ath_date": "2026-06-11",
     "ath_disarmed": [],
     "initialized": true
@@ -1003,7 +1003,7 @@
     "initialized": true
   },
   "LRCX": {
-    "ath": 354.1600036621094,
+    "ath": 362.5199890136719,
     "ath_date": "2026-06-11",
     "ath_disarmed": [],
     "initialized": true
@@ -1087,7 +1087,7 @@
     "initialized": true
   },
   "MET": {
-    "ath": 87.33999633789062,
+    "ath": 87.58000183105469,
     "ath_date": "2026-06-11",
     "ath_disarmed": [],
     "initialized": true
@@ -1545,7 +1545,7 @@
     "initialized": true
   },
   "ROST": {
-    "ath": 238.61500549316406,
+    "ath": 239.11000061035156,
     "ath_date": "2026-06-11",
     "ath_disarmed": [],
     "initialized": true
@@ -1792,7 +1792,7 @@
     "initialized": true
   },
   "TJX": {
-    "ath": 168.25,
+    "ath": 168.33999633789062,
     "ath_date": "2026-06-11",
     "ath_disarmed": [],
     "initialized": true
