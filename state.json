@@ -121,7 +121,7 @@
     "initialized": true
   },
   "AMAT": {
-    "ath": 532.3200073242188,
+    "ath": 540.7000122070312,
     "ath_date": "2026-06-11",
     "ath_disarmed": [],
     "initialized": true
@@ -320,7 +320,7 @@
     "initialized": true
   },
   "C": {
-    "ath": 135.24000549316406,
+    "ath": 137.19000244140625,
     "ath_date": "2026-06-11",
     "ath_disarmed": [],
     "initialized": true
@@ -942,7 +942,7 @@
     "initialized": true
   },
   "KLAC": {
-    "ath": 2316.497802734375,
+    "ath": 2363.405029296875,
     "ath_date": "2026-06-11",
     "ath_disarmed": [],
     "initialized": true
@@ -1003,7 +1003,7 @@
     "initialized": true
   },
   "LRCX": {
-    "ath": 348.364990234375,
+    "ath": 354.1600036621094,
     "ath_date": "2026-06-11",
     "ath_disarmed": [],
     "initialized": true
@@ -1087,8 +1087,8 @@
     "initialized": true
   },
   "MET": {
-    "ath": 87.05999755859375,
-    "ath_date": "2026-06-10",
+    "ath": 87.33999633789062,
+    "ath_date": "2026-06-11",
     "ath_disarmed": [],
     "initialized": true
   },
