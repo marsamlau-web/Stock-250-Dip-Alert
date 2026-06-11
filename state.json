@@ -278,7 +278,8 @@
     "ath_date": "2024-04-08",
     "ath_disarmed": [
       15,
-      25
+      25,
+      35
     ],
     "initialized": true
   },
