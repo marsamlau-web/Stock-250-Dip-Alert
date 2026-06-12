@@ -158,8 +158,8 @@
     "initialized": true
   },
   "ASML.AS": {
-    "ath": 1582.800048828125,
-    "ath_date": "2026-06-11",
+    "ath": 1602.199951171875,
+    "ath_date": "2026-06-12",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -682,8 +682,8 @@
     "initialized": true
   },
   "G.MI": {
-    "ath": 41.08000183105469,
-    "ath_date": "2026-06-09",
+    "ath": 41.400001525878906,
+    "ath_date": "2026-06-12",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -944,7 +944,12 @@
   "KLAC": {
     "ath": 2411.639892578125,
     "ath_date": "2026-06-11",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15,
+      25,
+      35,
+      45
+    ],
     "initialized": true
   },
   "KMB": {
