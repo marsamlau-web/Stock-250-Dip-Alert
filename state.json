@@ -1112,7 +1112,7 @@
     "initialized": true
   },
   "MNST": {
-    "ath": 92.83999633789062,
+    "ath": 93.2300033569336,
     "ath_date": "2026-06-15",
     "ath_disarmed": [],
     "initialized": true
@@ -1182,11 +1182,9 @@
     "initialized": true
   },
   "MU": {
-    "ath": 1079.5699462890625,
-    "ath_date": "2026-06-03",
-    "ath_disarmed": [
-      15
-    ],
+    "ath": 1087.989990234375,
+    "ath_date": "2026-06-15",
+    "ath_disarmed": [],
     "initialized": true
   },
   "MUV2.DE": {
