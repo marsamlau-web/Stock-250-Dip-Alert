@@ -115,8 +115,8 @@
     "initialized": true
   },
   "ALV.DE": {
-    "ath": 394.79998779296875,
-    "ath_date": "2026-04-21",
+    "ath": 397.1000061035156,
+    "ath_date": "2026-06-16",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -298,8 +298,8 @@
     "initialized": true
   },
   "BNP.PA": {
-    "ath": 98.6500015258789,
-    "ath_date": "2026-06-15",
+    "ath": 99.97000122070312,
+    "ath_date": "2026-06-16",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -680,8 +680,8 @@
     "initialized": true
   },
   "G.MI": {
-    "ath": 41.88999938964844,
-    "ath_date": "2026-06-15",
+    "ath": 42.52000045776367,
+    "ath_date": "2026-06-16",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -719,8 +719,8 @@
     "initialized": true
   },
   "GLE.PA": {
-    "ath": 76.5999984741211,
-    "ath_date": "2026-02-03",
+    "ath": 77.04000091552734,
+    "ath_date": "2026-06-16",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -818,8 +818,8 @@
     "initialized": true
   },
   "IBE.MC": {
-    "ath": 20.489999771118164,
-    "ath_date": "2026-06-15",
+    "ath": 20.610000610351562,
+    "ath_date": "2026-06-16",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1550,8 +1550,8 @@
     "initialized": true
   },
   "RR.L": {
-    "ath": 1367.800048828125,
-    "ath_date": "2026-06-15",
+    "ath": 1397.800048828125,
+    "ath_date": "2026-06-16",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1572,8 +1572,8 @@
     "initialized": true
   },
   "SAN.MC": {
-    "ath": 11.45199966430664,
-    "ath_date": "2026-06-15",
+    "ath": 11.54800033569336,
+    "ath_date": "2026-06-16",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1856,17 +1856,15 @@
     "initialized": true
   },
   "UBSG.SW": {
-    "ath": 39.5099983215332,
-    "ath_date": "2026-06-15",
+    "ath": 39.88999938964844,
+    "ath_date": "2026-06-16",
     "ath_disarmed": [],
     "initialized": true
   },
   "UCG.MI": {
-    "ath": 76.75553131103516,
-    "ath_date": "2026-02-09",
-    "ath_disarmed": [
-      15
-    ],
+    "ath": 77.33999633789062,
+    "ath_date": "2026-06-16",
+    "ath_disarmed": [],
     "initialized": true
   },
   "ULTA": {
@@ -2016,8 +2014,8 @@
     "initialized": true
   },
   "ZURN.SW": {
-    "ath": 575.0,
-    "ath_date": "2026-05-19",
+    "ath": 576.7999877929688,
+    "ath_date": "2026-06-16",
     "ath_disarmed": [],
     "initialized": true
   },
