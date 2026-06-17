@@ -298,8 +298,8 @@
     "initialized": true
   },
   "BNP.PA": {
-    "ath": 99.97000122070312,
-    "ath_date": "2026-06-16",
+    "ath": 100.04000091552734,
+    "ath_date": "2026-06-17",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -717,8 +717,8 @@
     "initialized": true
   },
   "GLE.PA": {
-    "ath": 77.18000030517578,
-    "ath_date": "2026-06-16",
+    "ath": 77.5999984741211,
+    "ath_date": "2026-06-17",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -801,8 +801,8 @@
     "initialized": true
   },
   "HSBA.L": {
-    "ath": 1409.800048828125,
-    "ath_date": "2026-06-02",
+    "ath": 1411.800048828125,
+    "ath_date": "2026-06-17",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1548,8 +1548,8 @@
     "initialized": true
   },
   "RR.L": {
-    "ath": 1397.800048828125,
-    "ath_date": "2026-06-16",
+    "ath": 1421.800048828125,
+    "ath_date": "2026-06-17",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1570,8 +1570,8 @@
     "initialized": true
   },
   "SAN.MC": {
-    "ath": 11.633999824523926,
-    "ath_date": "2026-06-16",
+    "ath": 11.666000366210938,
+    "ath_date": "2026-06-17",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1620,7 +1620,9 @@
   "SHEL.L": {
     "ath": 3583.0,
     "ath_date": "2026-03-31",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "SHL.DE": {
@@ -1860,8 +1862,8 @@
     "initialized": true
   },
   "UCG.MI": {
-    "ath": 77.68000030517578,
-    "ath_date": "2026-06-16",
+    "ath": 78.55000305175781,
+    "ath_date": "2026-06-17",
     "ath_disarmed": [],
     "initialized": true
   },
