@@ -115,7 +115,7 @@
     "initialized": true
   },
   "ALV.DE": {
-    "ath": 401.0,
+    "ath": 402.6000061035156,
     "ath_date": "2026-06-19",
     "ath_disarmed": [],
     "initialized": true
@@ -294,7 +294,7 @@
     "initialized": true
   },
   "BNP.PA": {
-    "ath": 101.22000122070312,
+    "ath": 101.72000122070312,
     "ath_date": "2026-06-19",
     "ath_disarmed": [],
     "initialized": true
@@ -718,8 +718,8 @@
     "initialized": true
   },
   "GLE.PA": {
-    "ath": 78.06999969482422,
-    "ath_date": "2026-06-18",
+    "ath": 78.0999984741211,
+    "ath_date": "2026-06-19",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -861,7 +861,7 @@
     "initialized": true
   },
   "INGA.AS": {
-    "ath": 27.684999465942383,
+    "ath": 27.889999389648438,
     "ath_date": "2026-06-19",
     "ath_disarmed": [],
     "initialized": true
@@ -1569,7 +1569,7 @@
     "initialized": true
   },
   "SAN.MC": {
-    "ath": 11.923999786376953,
+    "ath": 11.947999954223633,
     "ath_date": "2026-06-19",
     "ath_disarmed": [],
     "initialized": true
