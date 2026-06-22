@@ -65,7 +65,7 @@
     "initialized": true
   },
   "ADI": {
-    "ath": 442.1700134277344,
+    "ath": 445.4800109863281,
     "ath_date": "2026-06-22",
     "ath_disarmed": [],
     "initialized": true
@@ -121,14 +121,14 @@
     "initialized": true
   },
   "AMAT": {
-    "ath": 631.1749877929688,
-    "ath_date": "2026-06-18",
+    "ath": 640.1799926757812,
+    "ath_date": "2026-06-22",
     "ath_disarmed": [],
     "initialized": true
   },
   "AMD": {
-    "ath": 549.60498046875,
-    "ath_date": "2026-06-15",
+    "ath": 551.6300048828125,
+    "ath_date": "2026-06-22",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -341,7 +341,7 @@
     "initialized": true
   },
   "CAT": {
-    "ath": 1020.8599853515625,
+    "ath": 1022.280029296875,
     "ath_date": "2026-06-22",
     "ath_disarmed": [],
     "initialized": true
@@ -650,8 +650,8 @@
     "initialized": true
   },
   "EQIX": {
-    "ath": 1115.2900390625,
-    "ath_date": "2026-04-23",
+    "ath": 1115.93994140625,
+    "ath_date": "2026-06-22",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -671,7 +671,7 @@
     "initialized": true
   },
   "ETN": {
-    "ath": 433.3200988769531,
+    "ath": 435.7799987792969,
     "ath_date": "2026-06-22",
     "ath_disarmed": [],
     "initialized": true
@@ -869,7 +869,7 @@
     "initialized": true
   },
   "INTC": {
-    "ath": 139.4394989013672,
+    "ath": 140.94000244140625,
     "ath_date": "2026-06-22",
     "ath_disarmed": [],
     "initialized": true
@@ -1004,7 +1004,7 @@
     "initialized": true
   },
   "LRCX": {
-    "ath": 397.5199890136719,
+    "ath": 409.5400085449219,
     "ath_date": "2026-06-22",
     "ath_disarmed": [],
     "initialized": true
@@ -1181,7 +1181,7 @@
     "initialized": true
   },
   "MU": {
-    "ath": 1200.6600341796875,
+    "ath": 1211.3800048828125,
     "ath_date": "2026-06-22",
     "ath_disarmed": [],
     "initialized": true
@@ -1845,7 +1845,7 @@
     "initialized": true
   },
   "TXN": {
-    "ath": 329.2149963378906,
+    "ath": 332.2799987792969,
     "ath_date": "2026-06-22",
     "ath_disarmed": [],
     "initialized": true
