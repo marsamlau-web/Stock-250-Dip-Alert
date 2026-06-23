@@ -109,7 +109,7 @@
     "initialized": true
   },
   "ALL": {
-    "ath": 230.71339416503906,
+    "ath": 231.5500030517578,
     "ath_date": "2026-06-23",
     "ath_disarmed": [],
     "initialized": true
@@ -218,7 +218,7 @@
     "initialized": true
   },
   "BAC": {
-    "ath": 57.829898834228516,
+    "ath": 57.90999984741211,
     "ath_date": "2026-06-23",
     "ath_disarmed": [],
     "initialized": true
@@ -1113,7 +1113,7 @@
     "initialized": true
   },
   "MNST": {
-    "ath": 93.45999908447266,
+    "ath": 93.69000244140625,
     "ath_date": "2026-06-23",
     "ath_disarmed": [],
     "initialized": true
@@ -1279,7 +1279,9 @@
   "NVDA": {
     "ath": 235.74000549316406,
     "ath_date": "2026-05-14",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "NWG.L": {
@@ -1817,7 +1819,7 @@
     "initialized": true
   },
   "TRV": {
-    "ath": 315.0299987792969,
+    "ath": 316.9599914550781,
     "ath_date": "2026-06-23",
     "ath_disarmed": [],
     "initialized": true
