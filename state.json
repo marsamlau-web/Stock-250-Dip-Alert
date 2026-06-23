@@ -109,7 +109,7 @@
     "initialized": true
   },
   "ALL": {
-    "ath": 227.78500366210938,
+    "ath": 230.71339416503906,
     "ath_date": "2026-06-23",
     "ath_disarmed": [],
     "initialized": true
@@ -218,8 +218,8 @@
     "initialized": true
   },
   "BAC": {
-    "ath": 57.630001068115234,
-    "ath_date": "2026-06-17",
+    "ath": 57.829898834228516,
+    "ath_date": "2026-06-23",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -650,7 +650,7 @@
     "initialized": true
   },
   "EQIX": {
-    "ath": 1119.18994140625,
+    "ath": 1122.8499755859375,
     "ath_date": "2026-06-23",
     "ath_disarmed": [],
     "initialized": true
@@ -1817,7 +1817,7 @@
     "initialized": true
   },
   "TRV": {
-    "ath": 313.4700012207031,
+    "ath": 315.0299987792969,
     "ath_date": "2026-06-23",
     "ath_disarmed": [],
     "initialized": true
@@ -2018,8 +2018,8 @@
     "initialized": true
   },
   "ZURN.SW": {
-    "ath": 584.2000122070312,
-    "ath_date": "2026-06-22",
+    "ath": 584.7999877929688,
+    "ath_date": "2026-06-23",
     "ath_disarmed": [],
     "initialized": true
   },
