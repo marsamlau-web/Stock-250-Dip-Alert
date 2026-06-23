@@ -224,8 +224,8 @@
     "initialized": true
   },
   "BARC.L": {
-    "ath": 516.0,
-    "ath_date": "2026-06-22",
+    "ath": 516.9000244140625,
+    "ath_date": "2026-06-23",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -247,8 +247,8 @@
     "initialized": true
   },
   "BBVA.MC": {
-    "ath": 21.75,
-    "ath_date": "2026-06-22",
+    "ath": 21.799999237060547,
+    "ath_date": "2026-06-23",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -819,8 +819,8 @@
     "initialized": true
   },
   "IBE.MC": {
-    "ath": 21.190000534057617,
-    "ath_date": "2026-06-22",
+    "ath": 21.270000457763672,
+    "ath_date": "2026-06-23",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1706,8 +1706,8 @@
     "initialized": true
   },
   "STAN.L": {
-    "ath": 2071.0,
-    "ath_date": "2026-06-22",
+    "ath": 2076.0,
+    "ath_date": "2026-06-23",
     "ath_disarmed": [],
     "initialized": true
   },
