@@ -109,8 +109,8 @@
     "initialized": true
   },
   "ALL": {
-    "ath": 231.5500030517578,
-    "ath_date": "2026-06-23",
+    "ath": 233.27999877929688,
+    "ath_date": "2026-06-24",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -695,8 +695,8 @@
     "initialized": true
   },
   "GE": {
-    "ath": 360.1449890136719,
-    "ath_date": "2026-06-17",
+    "ath": 362.7900085449219,
+    "ath_date": "2026-06-24",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1113,8 +1113,8 @@
     "initialized": true
   },
   "MNST": {
-    "ath": 93.69000244140625,
-    "ath_date": "2026-06-23",
+    "ath": 95.08499908447266,
+    "ath_date": "2026-06-24",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1150,7 +1150,9 @@
   "MRVL": {
     "ath": 325.19500732421875,
     "ath_date": "2026-06-18",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "MS": {
@@ -1299,11 +1301,9 @@
     "initialized": true
   },
   "NXT.L": {
-    "ath": 14575.3525390625,
-    "ath_date": "2025-10-29",
-    "ath_disarmed": [
-      15
-    ],
+    "ath": 14610.0,
+    "ath_date": "2026-06-24",
+    "ath_disarmed": [],
     "initialized": true
   },
   "ON": {
@@ -1819,8 +1819,8 @@
     "initialized": true
   },
   "TRV": {
-    "ath": 316.9599914550781,
-    "ath_date": "2026-06-23",
+    "ath": 318.3500061035156,
+    "ath_date": "2026-06-24",
     "ath_disarmed": [],
     "initialized": true
   },
