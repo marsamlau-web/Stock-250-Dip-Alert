@@ -696,7 +696,7 @@
     "initialized": true
   },
   "GE": {
-    "ath": 365.7300109863281,
+    "ath": 365.8800048828125,
     "ath_date": "2026-06-24",
     "ath_disarmed": [],
     "initialized": true
@@ -1825,7 +1825,7 @@
     "initialized": true
   },
   "TRV": {
-    "ath": 320.1400146484375,
+    "ath": 320.739990234375,
     "ath_date": "2026-06-24",
     "ath_disarmed": [],
     "initialized": true
