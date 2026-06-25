@@ -296,8 +296,8 @@
     "initialized": true
   },
   "BNP.PA": {
-    "ath": 102.16000366210938,
-    "ath_date": "2026-06-24",
+    "ath": 102.22000122070312,
+    "ath_date": "2026-06-25",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -353,8 +353,8 @@
     "initialized": true
   },
   "CFR.SW": {
-    "ath": 185.5,
-    "ath_date": "2026-06-24",
+    "ath": 186.5,
+    "ath_date": "2026-06-25",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -820,8 +820,8 @@
     "initialized": true
   },
   "IBE.MC": {
-    "ath": 21.270000457763672,
-    "ath_date": "2026-06-23",
+    "ath": 21.40999984741211,
+    "ath_date": "2026-06-25",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1304,8 +1304,8 @@
     "initialized": true
   },
   "NXT.L": {
-    "ath": 14655.0,
-    "ath_date": "2026-06-24",
+    "ath": 14706.416015625,
+    "ath_date": "2026-06-25",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1558,8 +1558,8 @@
     "initialized": true
   },
   "RR.L": {
-    "ath": 1421.800048828125,
-    "ath_date": "2026-06-17",
+    "ath": 1425.199951171875,
+    "ath_date": "2026-06-25",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -2026,8 +2026,8 @@
     "initialized": true
   },
   "ZURN.SW": {
-    "ath": 585.2000122070312,
-    "ath_date": "2026-06-24",
+    "ath": 586.5999755859375,
+    "ath_date": "2026-06-25",
     "ath_disarmed": [],
     "initialized": true
   },
