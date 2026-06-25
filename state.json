@@ -119,7 +119,7 @@
     "initialized": true
   },
   "AMAT": {
-    "ath": 652.8499755859375,
+    "ath": 668.0,
     "ath_date": "2026-06-25",
     "ath_disarmed": [],
     "initialized": true
@@ -340,7 +340,7 @@
     "initialized": true
   },
   "CAT": {
-    "ath": 1047.5,
+    "ath": 1057.010009765625,
     "ath_date": "2026-06-25",
     "ath_disarmed": [],
     "initialized": true
@@ -1117,7 +1117,7 @@
     "initialized": true
   },
   "MNST": {
-    "ath": 95.69499969482422,
+    "ath": 95.83000183105469,
     "ath_date": "2026-06-25",
     "ath_disarmed": [],
     "initialized": true
@@ -1135,8 +1135,8 @@
     "initialized": true
   },
   "MRK": {
-    "ath": 125.3516845703125,
-    "ath_date": "2024-06-24",
+    "ath": 125.44999694824219,
+    "ath_date": "2026-06-25",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1168,7 +1168,9 @@
   "MSCI": {
     "ath": 643.8300170898438,
     "ath_date": "2026-06-01",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "MSFT": {
