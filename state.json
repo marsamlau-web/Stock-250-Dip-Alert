@@ -12,7 +12,7 @@
     "initialized": true
   },
   "ABBV": {
-    "ath": 240.93499755859375,
+    "ath": 243.1699981689453,
     "ath_date": "2026-06-25",
     "ath_disarmed": [],
     "initialized": true
@@ -113,14 +113,14 @@
     "initialized": true
   },
   "ALV.DE": {
-    "ath": 406.6000061035156,
-    "ath_date": "2026-06-22",
+    "ath": 407.1000061035156,
+    "ath_date": "2026-06-25",
     "ath_disarmed": [],
     "initialized": true
   },
   "AMAT": {
-    "ath": 640.1799926757812,
-    "ath_date": "2026-06-22",
+    "ath": 652.8499755859375,
+    "ath_date": "2026-06-25",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -143,7 +143,8 @@
     "ath_date": "2021-09-08",
     "ath_disarmed": [
       15,
-      25
+      25,
+      35
     ],
     "initialized": true
   },
@@ -222,7 +223,7 @@
     "initialized": true
   },
   "BARC.L": {
-    "ath": 518.2000122070312,
+    "ath": 521.2999877929688,
     "ath_date": "2026-06-25",
     "ath_disarmed": [],
     "initialized": true
@@ -294,7 +295,7 @@
     "initialized": true
   },
   "BNP.PA": {
-    "ath": 102.63999938964844,
+    "ath": 103.0,
     "ath_date": "2026-06-25",
     "ath_disarmed": [],
     "initialized": true
@@ -339,7 +340,7 @@
     "initialized": true
   },
   "CAT": {
-    "ath": 1037.83544921875,
+    "ath": 1047.5,
     "ath_date": "2026-06-25",
     "ath_disarmed": [],
     "initialized": true
@@ -1175,7 +1176,8 @@
     "ath_date": "2025-10-28",
     "ath_disarmed": [
       15,
-      25
+      25,
+      35
     ],
     "initialized": true
   },
@@ -1186,11 +1188,9 @@
     "initialized": true
   },
   "MU": {
-    "ath": 1211.3800048828125,
-    "ath_date": "2026-06-22",
-    "ath_disarmed": [
-      15
-    ],
+    "ath": 1230.3900146484375,
+    "ath_date": "2026-06-25",
+    "ath_disarmed": [],
     "initialized": true
   },
   "MUV2.DE": {
@@ -2030,7 +2030,7 @@
     "initialized": true
   },
   "ZURN.SW": {
-    "ath": 586.5999755859375,
+    "ath": 586.7999877929688,
     "ath_date": "2026-06-25",
     "ath_disarmed": [],
     "initialized": true
