@@ -296,7 +296,7 @@
     "initialized": true
   },
   "BNP.PA": {
-    "ath": 102.22000122070312,
+    "ath": 102.63999938964844,
     "ath_date": "2026-06-25",
     "ath_disarmed": [],
     "initialized": true
@@ -353,7 +353,7 @@
     "initialized": true
   },
   "CFR.SW": {
-    "ath": 186.5,
+    "ath": 188.3000030517578,
     "ath_date": "2026-06-25",
     "ath_disarmed": [],
     "initialized": true
@@ -820,7 +820,7 @@
     "initialized": true
   },
   "IBE.MC": {
-    "ath": 21.40999984741211,
+    "ath": 21.479999542236328,
     "ath_date": "2026-06-25",
     "ath_disarmed": [],
     "initialized": true
@@ -1304,7 +1304,7 @@
     "initialized": true
   },
   "NXT.L": {
-    "ath": 14706.416015625,
+    "ath": 14735.0,
     "ath_date": "2026-06-25",
     "ath_disarmed": [],
     "initialized": true
