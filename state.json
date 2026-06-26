@@ -352,8 +352,8 @@
     "initialized": true
   },
   "CFR.SW": {
-    "ath": 188.3000030517578,
-    "ath_date": "2026-06-25",
+    "ath": 188.60000610351562,
+    "ath_date": "2026-06-26",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -823,8 +823,8 @@
     "initialized": true
   },
   "IBE.MC": {
-    "ath": 21.540000915527344,
-    "ath_date": "2026-06-25",
+    "ath": 21.639999389648438,
+    "ath_date": "2026-06-26",
     "ath_disarmed": [],
     "initialized": true
   },
