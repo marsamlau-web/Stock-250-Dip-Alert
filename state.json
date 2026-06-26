@@ -113,8 +113,8 @@
     "initialized": true
   },
   "ALV.DE": {
-    "ath": 407.1000061035156,
-    "ath_date": "2026-06-25",
+    "ath": 408.1000061035156,
+    "ath_date": "2026-06-26",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -760,7 +760,9 @@
   "GTT.PA": {
     "ath": 212.60000610351562,
     "ath_date": "2026-05-05",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "HD": {
@@ -823,7 +825,7 @@
     "initialized": true
   },
   "IBE.MC": {
-    "ath": 21.639999389648438,
+    "ath": 21.709999084472656,
     "ath_date": "2026-06-26",
     "ath_disarmed": [],
     "initialized": true
@@ -2032,8 +2034,8 @@
     "initialized": true
   },
   "ZURN.SW": {
-    "ath": 586.7999877929688,
-    "ath_date": "2026-06-25",
+    "ath": 587.5999755859375,
+    "ath_date": "2026-06-26",
     "ath_disarmed": [],
     "initialized": true
   },
