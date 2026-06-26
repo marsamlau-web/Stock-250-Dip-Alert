@@ -12,7 +12,7 @@
     "initialized": true
   },
   "ABBV": {
-    "ath": 247.88999938964844,
+    "ath": 253.35000610351562,
     "ath_date": "2026-06-26",
     "ath_disarmed": [],
     "initialized": true
@@ -107,7 +107,7 @@
     "initialized": true
   },
   "ALL": {
-    "ath": 236.97999572753906,
+    "ath": 239.61000061035156,
     "ath_date": "2026-06-26",
     "ath_disarmed": [],
     "initialized": true
@@ -921,7 +921,7 @@
     "initialized": true
   },
   "JNJ": {
-    "ath": 253.47500610351562,
+    "ath": 254.66000366210938,
     "ath_date": "2026-06-26",
     "ath_disarmed": [],
     "initialized": true
@@ -986,7 +986,7 @@
     "initialized": true
   },
   "LLY": {
-    "ath": 1203.1500244140625,
+    "ath": 1208.1199951171875,
     "ath_date": "2026-06-26",
     "ath_disarmed": [],
     "initialized": true
@@ -1137,7 +1137,7 @@
     "initialized": true
   },
   "MRK": {
-    "ath": 127.86000061035156,
+    "ath": 128.66000366210938,
     "ath_date": "2026-06-26",
     "ath_disarmed": [],
     "initialized": true
@@ -1372,8 +1372,8 @@
     "initialized": true
   },
   "PANW": {
-    "ath": 300.4800109863281,
-    "ath_date": "2026-06-01",
+    "ath": 304.20001220703125,
+    "ath_date": "2026-06-26",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1481,7 +1481,8 @@
     "ath": 253.8000030517578,
     "ath_date": "2026-06-03",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
@@ -1836,7 +1837,7 @@
     "initialized": true
   },
   "TRV": {
-    "ath": 325.18499755859375,
+    "ath": 327.3699951171875,
     "ath_date": "2026-06-26",
     "ath_disarmed": [],
     "initialized": true
@@ -2044,5 +2045,5 @@
     "ath_disarmed": [],
     "initialized": true
   },
-  "last_heartbeat_week": "2026-W25"
+  "last_heartbeat_week": "2026-W26"
 }
