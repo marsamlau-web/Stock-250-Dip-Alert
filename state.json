@@ -802,11 +802,9 @@
     "initialized": true
   },
   "HON": {
-    "ath": 248.0399932861328,
-    "ath_date": "2026-03-02",
-    "ath_disarmed": [
-      15
-    ],
+    "ath": 464.4200134277344,
+    "ath_date": "2026-06-26",
+    "ath_disarmed": [],
     "initialized": true
   },
   "HSBA.L": {
