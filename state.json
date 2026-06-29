@@ -113,8 +113,8 @@
     "initialized": true
   },
   "ALV.DE": {
-    "ath": 408.1000061035156,
-    "ath_date": "2026-06-26",
+    "ath": 409.29998779296875,
+    "ath_date": "2026-06-29",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -457,8 +457,8 @@
     "initialized": true
   },
   "CS.PA": {
-    "ath": 43.40999984741211,
-    "ath_date": "2026-06-26",
+    "ath": 43.529998779296875,
+    "ath_date": "2026-06-29",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -2038,8 +2038,8 @@
     "initialized": true
   },
   "ZURN.SW": {
-    "ath": 589.0,
-    "ath_date": "2026-06-26",
+    "ath": 589.2000122070312,
+    "ath_date": "2026-06-29",
     "ath_disarmed": [],
     "initialized": true
   },
