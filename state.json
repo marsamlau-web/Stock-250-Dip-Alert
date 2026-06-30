@@ -119,14 +119,14 @@
     "initialized": true
   },
   "AMAT": {
-    "ath": 699.10498046875,
-    "ath_date": "2026-06-29",
+    "ath": 725.4197998046875,
+    "ath_date": "2026-06-30",
     "ath_disarmed": [],
     "initialized": true
   },
   "AMD": {
-    "ath": 551.6300048828125,
-    "ath_date": "2026-06-22",
+    "ath": 553.3643188476562,
+    "ath_date": "2026-06-30",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -157,8 +157,8 @@
     "initialized": true
   },
   "ASML.AS": {
-    "ath": 1682.5999755859375,
-    "ath_date": "2026-06-22",
+    "ath": 1701.0,
+    "ath_date": "2026-06-30",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1014,8 +1014,8 @@
     "initialized": true
   },
   "LRCX": {
-    "ath": 411.92999267578125,
-    "ath_date": "2026-06-29",
+    "ath": 432.79998779296875,
+    "ath_date": "2026-06-30",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1377,8 +1377,8 @@
     "initialized": true
   },
   "PANW": {
-    "ath": 332.0,
-    "ath_date": "2026-06-29",
+    "ath": 340.44500732421875,
+    "ath_date": "2026-06-30",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1844,8 +1844,8 @@
     "initialized": true
   },
   "TRV": {
-    "ath": 331.8800048828125,
-    "ath_date": "2026-06-29",
+    "ath": 332.1199951171875,
+    "ath_date": "2026-06-30",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1976,7 +1976,9 @@
   "VZ": {
     "ath": 50.618656158447266,
     "ath_date": "2026-03-13",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "WDAY": {
