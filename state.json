@@ -113,8 +113,8 @@
     "initialized": true
   },
   "ALV.DE": {
-    "ath": 409.3999938964844,
-    "ath_date": "2026-06-29",
+    "ath": 411.8999938964844,
+    "ath_date": "2026-06-30",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -829,8 +829,8 @@
     "initialized": true
   },
   "IBE.MC": {
-    "ath": 21.950000762939453,
-    "ath_date": "2026-06-29",
+    "ath": 22.049999237060547,
+    "ath_date": "2026-06-30",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1267,8 +1267,8 @@
     "initialized": true
   },
   "NOVN.SW": {
-    "ath": 126.64644622802734,
-    "ath_date": "2026-02-27",
+    "ath": 127.68000030517578,
+    "ath_date": "2026-06-30",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -2047,8 +2047,8 @@
     "initialized": true
   },
   "ZURN.SW": {
-    "ath": 592.5999755859375,
-    "ath_date": "2026-06-29",
+    "ath": 595.4000244140625,
+    "ath_date": "2026-06-30",
     "ath_disarmed": [],
     "initialized": true
   },
