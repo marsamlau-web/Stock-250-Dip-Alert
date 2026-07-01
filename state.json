@@ -107,7 +107,7 @@
     "initialized": true
   },
   "ALL": {
-    "ath": 241.72000122070312,
+    "ath": 242.94000244140625,
     "ath_date": "2026-07-01",
     "ath_disarmed": [],
     "initialized": true
@@ -246,8 +246,8 @@
     "initialized": true
   },
   "BBVA.MC": {
-    "ath": 21.8700008392334,
-    "ath_date": "2026-06-30",
+    "ath": 21.950000762939453,
+    "ath_date": "2026-07-01",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -346,7 +346,7 @@
     "initialized": true
   },
   "CB": {
-    "ath": 347.0150146484375,
+    "ath": 351.67999267578125,
     "ath_date": "2026-07-01",
     "ath_disarmed": [],
     "initialized": true
@@ -1125,8 +1125,8 @@
     "initialized": true
   },
   "MNST": {
-    "ath": 97.63999938964844,
-    "ath_date": "2026-06-29",
+    "ath": 97.77999877929688,
+    "ath_date": "2026-07-01",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1202,7 +1202,9 @@
   "MU": {
     "ath": 1230.3900146484375,
     "ath_date": "2026-06-25",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "MUV2.DE": {
@@ -1381,7 +1383,7 @@
     "initialized": true
   },
   "PANW": {
-    "ath": 350.2799987792969,
+    "ath": 354.69000244140625,
     "ath_date": "2026-07-01",
     "ath_disarmed": [],
     "initialized": true
@@ -1599,8 +1601,8 @@
     "initialized": true
   },
   "SAN.MC": {
-    "ath": 12.083999633789062,
-    "ath_date": "2026-06-30",
+    "ath": 12.116000175476074,
+    "ath_date": "2026-07-01",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1847,7 +1849,7 @@
     "initialized": true
   },
   "TRV": {
-    "ath": 334.1499938964844,
+    "ath": 336.95001220703125,
     "ath_date": "2026-07-01",
     "ath_disarmed": [],
     "initialized": true
@@ -2052,8 +2054,8 @@
     "initialized": true
   },
   "ZURN.SW": {
-    "ath": 598.7999877929688,
-    "ath_date": "2026-06-30",
+    "ath": 600.0,
+    "ath_date": "2026-07-01",
     "ath_disarmed": [],
     "initialized": true
   },
