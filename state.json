@@ -1575,8 +1575,8 @@
     "initialized": true
   },
   "RR.L": {
-    "ath": 1451.177978515625,
-    "ath_date": "2026-06-30",
+    "ath": 1461.800048828125,
+    "ath_date": "2026-07-01",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1589,11 +1589,9 @@
     "initialized": true
   },
   "SAF.PA": {
-    "ath": 347.20001220703125,
-    "ath_date": "2026-02-18",
-    "ath_disarmed": [
-      15
-    ],
+    "ath": 348.5,
+    "ath_date": "2026-07-01",
+    "ath_disarmed": [],
     "initialized": true
   },
   "SAN.MC": {
