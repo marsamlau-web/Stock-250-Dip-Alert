@@ -12,7 +12,7 @@
     "initialized": true
   },
   "ABBV": {
-    "ath": 258.79998779296875,
+    "ath": 261.07000732421875,
     "ath_date": "2026-07-02",
     "ath_disarmed": [],
     "initialized": true
@@ -109,7 +109,7 @@
     "initialized": true
   },
   "ALL": {
-    "ath": 248.92250061035156,
+    "ath": 250.3300018310547,
     "ath_date": "2026-07-02",
     "ath_disarmed": [],
     "initialized": true
@@ -352,7 +352,7 @@
     "initialized": true
   },
   "CB": {
-    "ath": 357.9800109863281,
+    "ath": 361.1700134277344,
     "ath_date": "2026-07-02",
     "ath_disarmed": [],
     "initialized": true
@@ -703,7 +703,7 @@
     "initialized": true
   },
   "GD": {
-    "ath": 369.69500732421875,
+    "ath": 373.5400085449219,
     "ath_date": "2026-07-02",
     "ath_disarmed": [],
     "initialized": true
@@ -938,7 +938,7 @@
     "initialized": true
   },
   "JNJ": {
-    "ath": 261.19000244140625,
+    "ath": 263.0400085449219,
     "ath_date": "2026-07-02",
     "ath_disarmed": [],
     "initialized": true
@@ -981,8 +981,8 @@
     "initialized": true
   },
   "KO": {
-    "ath": 83.58999633789062,
-    "ath_date": "2026-06-10",
+    "ath": 84.13999938964844,
+    "ath_date": "2026-07-02",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1114,8 +1114,8 @@
     "initialized": true
   },
   "MET": {
-    "ath": 88.97000122070312,
-    "ath_date": "2026-06-12",
+    "ath": 90.05999755859375,
+    "ath_date": "2026-07-02",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1156,8 +1156,8 @@
     "initialized": true
   },
   "MRK": {
-    "ath": 129.3800048828125,
-    "ath_date": "2026-06-29",
+    "ath": 129.55999755859375,
+    "ath_date": "2026-07-02",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1864,7 +1864,7 @@
     "initialized": true
   },
   "TRV": {
-    "ath": 340.17498779296875,
+    "ath": 342.30999755859375,
     "ath_date": "2026-07-02",
     "ath_disarmed": [],
     "initialized": true
@@ -1950,7 +1950,7 @@
     "initialized": true
   },
   "UNP": {
-    "ath": 280.4750061035156,
+    "ath": 282.25,
     "ath_date": "2026-07-02",
     "ath_disarmed": [],
     "initialized": true
@@ -1975,7 +1975,7 @@
     "initialized": true
   },
   "VRTX": {
-    "ath": 518.64501953125,
+    "ath": 528.0399780273438,
     "ath_date": "2026-07-02",
     "ath_disarmed": [],
     "initialized": true
