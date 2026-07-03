@@ -115,8 +115,8 @@
     "initialized": true
   },
   "ALV.DE": {
-    "ath": 418.3999938964844,
-    "ath_date": "2026-07-02",
+    "ath": 420.79998779296875,
+    "ath_date": "2026-07-03",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -251,7 +251,7 @@
     "initialized": true
   },
   "BBVA.MC": {
-    "ath": 22.6200008392334,
+    "ath": 22.649999618530273,
     "ath_date": "2026-07-03",
     "ath_disarmed": [],
     "initialized": true
@@ -642,7 +642,7 @@
     "initialized": true
   },
   "ENEL.MI": {
-    "ath": 10.206000328063965,
+    "ath": 10.279999732971191,
     "ath_date": "2026-07-03",
     "ath_disarmed": [],
     "initialized": true
@@ -1563,13 +1563,12 @@
     "initialized": true
   },
   "RKT.L": {
-    "ath": 8271.3505859375,
+    "ath": 8271.3515625,
     "ath_date": "2020-07-23",
     "ath_disarmed": [
       15,
       25,
-      35,
-      45
+      35
     ],
     "initialized": true
   },
@@ -1596,7 +1595,7 @@
     "initialized": true
   },
   "RR.L": {
-    "ath": 1489.5999755859375,
+    "ath": 1490.4000244140625,
     "ath_date": "2026-07-03",
     "ath_disarmed": [],
     "initialized": true
@@ -1610,13 +1609,13 @@
     "initialized": true
   },
   "SAF.PA": {
-    "ath": 356.3999938964844,
+    "ath": 358.0,
     "ath_date": "2026-07-03",
     "ath_disarmed": [],
     "initialized": true
   },
   "SAN.MC": {
-    "ath": 12.399999618530273,
+    "ath": 12.413999557495117,
     "ath_date": "2026-07-03",
     "ath_disarmed": [],
     "initialized": true
@@ -1694,7 +1693,7 @@
     "initialized": true
   },
   "SIE.DE": {
-    "ath": 282.3999938964844,
+    "ath": 283.45001220703125,
     "ath_date": "2026-07-03",
     "ath_disarmed": [],
     "initialized": true
@@ -1750,7 +1749,7 @@
     "initialized": true
   },
   "STAN.L": {
-    "ath": 2095.75,
+    "ath": 2104.0,
     "ath_date": "2026-07-03",
     "ath_disarmed": [],
     "initialized": true
@@ -2067,8 +2066,8 @@
     "initialized": true
   },
   "ZURN.SW": {
-    "ath": 606.7999877929688,
-    "ath_date": "2026-07-02",
+    "ath": 607.4000244140625,
+    "ath_date": "2026-07-03",
     "ath_disarmed": [],
     "initialized": true
   },
