@@ -228,8 +228,8 @@
     "initialized": true
   },
   "BARC.L": {
-    "ath": 522.0999755859375,
-    "ath_date": "2026-07-02",
+    "ath": 522.2999877929688,
+    "ath_date": "2026-07-03",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -251,7 +251,7 @@
     "initialized": true
   },
   "BBVA.MC": {
-    "ath": 22.649999618530273,
+    "ath": 22.739999771118164,
     "ath_date": "2026-07-03",
     "ath_disarmed": [],
     "initialized": true
@@ -884,8 +884,8 @@
     "initialized": true
   },
   "INGA.AS": {
-    "ath": 28.229999542236328,
-    "ath_date": "2026-07-02",
+    "ath": 28.290000915527344,
+    "ath_date": "2026-07-03",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -932,8 +932,8 @@
     "initialized": true
   },
   "ITX.MC": {
-    "ath": 57.060001373291016,
-    "ath_date": "2026-06-15",
+    "ath": 57.20000076293945,
+    "ath_date": "2026-07-03",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -995,8 +995,8 @@
     "initialized": true
   },
   "LLOY.L": {
-    "ath": 114.6500015258789,
-    "ath_date": "2026-07-02",
+    "ath": 115.05000305175781,
+    "ath_date": "2026-07-03",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1595,7 +1595,7 @@
     "initialized": true
   },
   "RR.L": {
-    "ath": 1490.4000244140625,
+    "ath": 1504.199951171875,
     "ath_date": "2026-07-03",
     "ath_disarmed": [],
     "initialized": true
@@ -1615,7 +1615,7 @@
     "initialized": true
   },
   "SAN.MC": {
-    "ath": 12.413999557495117,
+    "ath": 12.418000221252441,
     "ath_date": "2026-07-03",
     "ath_disarmed": [],
     "initialized": true
@@ -1693,7 +1693,7 @@
     "initialized": true
   },
   "SIE.DE": {
-    "ath": 283.45001220703125,
+    "ath": 284.1000061035156,
     "ath_date": "2026-07-03",
     "ath_disarmed": [],
     "initialized": true
@@ -1749,7 +1749,7 @@
     "initialized": true
   },
   "STAN.L": {
-    "ath": 2104.0,
+    "ath": 2122.0,
     "ath_date": "2026-07-03",
     "ath_disarmed": [],
     "initialized": true
@@ -2066,7 +2066,7 @@
     "initialized": true
   },
   "ZURN.SW": {
-    "ath": 607.4000244140625,
+    "ath": 607.5999755859375,
     "ath_date": "2026-07-03",
     "ath_disarmed": [],
     "initialized": true
