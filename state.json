@@ -222,7 +222,7 @@
     "initialized": true
   },
   "BAC": {
-    "ath": 59.81999969482422,
+    "ath": 59.900001525878906,
     "ath_date": "2026-07-06",
     "ath_disarmed": [],
     "initialized": true
@@ -703,7 +703,7 @@
     "initialized": true
   },
   "GD": {
-    "ath": 376.260009765625,
+    "ath": 376.8800048828125,
     "ath_date": "2026-07-06",
     "ath_disarmed": [],
     "initialized": true
@@ -1949,8 +1949,8 @@
     "initialized": true
   },
   "UNP": {
-    "ath": 282.25,
-    "ath_date": "2026-07-02",
+    "ath": 282.5899963378906,
+    "ath_date": "2026-07-06",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1974,7 +1974,7 @@
     "initialized": true
   },
   "VRTX": {
-    "ath": 528.3900146484375,
+    "ath": 529.5900268554688,
     "ath_date": "2026-07-06",
     "ath_disarmed": [],
     "initialized": true
