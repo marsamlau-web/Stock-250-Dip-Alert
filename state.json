@@ -222,13 +222,13 @@
     "initialized": true
   },
   "BAC": {
-    "ath": 59.505001068115234,
+    "ath": 59.81999969482422,
     "ath_date": "2026-07-06",
     "ath_disarmed": [],
     "initialized": true
   },
   "BARC.L": {
-    "ath": 528.9000244140625,
+    "ath": 529.5,
     "ath_date": "2026-07-06",
     "ath_disarmed": [],
     "initialized": true
@@ -300,7 +300,7 @@
     "initialized": true
   },
   "BNP.PA": {
-    "ath": 103.23999786376953,
+    "ath": 103.5999984741211,
     "ath_date": "2026-07-06",
     "ath_disarmed": [],
     "initialized": true
@@ -703,7 +703,7 @@
     "initialized": true
   },
   "GD": {
-    "ath": 374.239990234375,
+    "ath": 376.260009765625,
     "ath_date": "2026-07-06",
     "ath_disarmed": [],
     "initialized": true
@@ -884,7 +884,7 @@
     "initialized": true
   },
   "INGA.AS": {
-    "ath": 28.649999618530273,
+    "ath": 28.719999313354492,
     "ath_date": "2026-07-06",
     "ath_disarmed": [],
     "initialized": true
@@ -1615,7 +1615,7 @@
     "initialized": true
   },
   "SAN.MC": {
-    "ath": 12.486000061035156,
+    "ath": 12.508000373840332,
     "ath_date": "2026-07-06",
     "ath_disarmed": [],
     "initialized": true
@@ -1749,7 +1749,7 @@
     "initialized": true
   },
   "STAN.L": {
-    "ath": 2144.0,
+    "ath": 2150.0,
     "ath_date": "2026-07-06",
     "ath_disarmed": [],
     "initialized": true
@@ -1908,7 +1908,7 @@
     "initialized": true
   },
   "UBSG.SW": {
-    "ath": 41.790000915527344,
+    "ath": 41.900001525878906,
     "ath_date": "2026-07-06",
     "ath_disarmed": [],
     "initialized": true
@@ -1974,8 +1974,8 @@
     "initialized": true
   },
   "VRTX": {
-    "ath": 528.0399780273438,
-    "ath_date": "2026-07-02",
+    "ath": 528.3900146484375,
+    "ath_date": "2026-07-06",
     "ath_disarmed": [],
     "initialized": true
   },
