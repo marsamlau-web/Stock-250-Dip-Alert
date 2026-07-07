@@ -1784,7 +1784,9 @@
   "STMPA.PA": {
     "ath": 69.38999938964844,
     "ath_date": "2026-06-22",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "STZ": {
