@@ -251,8 +251,8 @@
     "initialized": true
   },
   "BBVA.MC": {
-    "ath": 22.81999969482422,
-    "ath_date": "2026-07-06",
+    "ath": 22.8799991607666,
+    "ath_date": "2026-07-07",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -468,8 +468,8 @@
     "initialized": true
   },
   "CS.PA": {
-    "ath": 44.18000030517578,
-    "ath_date": "2026-07-06",
+    "ath": 44.380001068115234,
+    "ath_date": "2026-07-07",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -872,7 +872,9 @@
   "IFX.DE": {
     "ath": 88.0,
     "ath_date": "2026-06-02",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "IMB.L": {
@@ -884,8 +886,8 @@
     "initialized": true
   },
   "INGA.AS": {
-    "ath": 28.719999313354492,
-    "ath_date": "2026-07-06",
+    "ath": 28.7450008392334,
+    "ath_date": "2026-07-07",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -909,8 +911,8 @@
     "initialized": true
   },
   "ISP.MI": {
-    "ath": 6.238999843597412,
-    "ath_date": "2026-07-06",
+    "ath": 6.25600004196167,
+    "ath_date": "2026-07-07",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1615,8 +1617,8 @@
     "initialized": true
   },
   "SAN.MC": {
-    "ath": 12.508000373840332,
-    "ath_date": "2026-07-06",
+    "ath": 12.557999610900879,
+    "ath_date": "2026-07-07",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1908,8 +1910,8 @@
     "initialized": true
   },
   "UBSG.SW": {
-    "ath": 41.900001525878906,
-    "ath_date": "2026-07-06",
+    "ath": 42.0,
+    "ath_date": "2026-07-07",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -2066,8 +2068,8 @@
     "initialized": true
   },
   "ZURN.SW": {
-    "ath": 611.5999755859375,
-    "ath_date": "2026-07-06",
+    "ath": 613.7999877929688,
+    "ath_date": "2026-07-07",
     "ath_disarmed": [],
     "initialized": true
   },
