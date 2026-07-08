@@ -724,7 +724,7 @@
     "initialized": true
   },
   "GIS": {
-    "ath": 79.69745635986328,
+    "ath": 79.69746398925781,
     "ath_date": "2023-05-12",
     "ath_disarmed": [
       15,
@@ -1154,7 +1154,7 @@
     "initialized": true
   },
   "MPC": {
-    "ath": 273.8550109863281,
+    "ath": 275.20001220703125,
     "ath_date": "2026-07-08",
     "ath_disarmed": [],
     "initialized": true
