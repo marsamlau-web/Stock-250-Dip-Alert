@@ -1499,7 +1499,9 @@
   "PRY.MI": {
     "ath": 156.89999389648438,
     "ath_date": "2026-05-11",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "PSX": {
