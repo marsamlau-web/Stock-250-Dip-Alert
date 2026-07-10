@@ -115,8 +115,8 @@
     "initialized": true
   },
   "ALV.DE": {
-    "ath": 423.3999938964844,
-    "ath_date": "2026-07-07",
+    "ath": 424.5,
+    "ath_date": "2026-07-10",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1917,8 +1917,8 @@
     "initialized": true
   },
   "UBSG.SW": {
-    "ath": 42.0,
-    "ath_date": "2026-07-07",
+    "ath": 42.0099983215332,
+    "ath_date": "2026-07-10",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -2075,8 +2075,8 @@
     "initialized": true
   },
   "ZURN.SW": {
-    "ath": 614.4000244140625,
-    "ath_date": "2026-07-07",
+    "ath": 616.2000122070312,
+    "ath_date": "2026-07-10",
     "ath_disarmed": [],
     "initialized": true
   },
