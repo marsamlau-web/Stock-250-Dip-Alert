@@ -1,7 +1,7 @@
 {
   "AAPL": {
-    "ath": 316.2200012207031,
-    "ath_date": "2026-07-09",
+    "ath": 321.27508544921875,
+    "ath_date": "2026-07-13",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -607,8 +607,8 @@
     "initialized": true
   },
   "EA": {
-    "ath": 206.55999755859375,
-    "ath_date": "2026-07-09",
+    "ath": 206.69500732421875,
+    "ath_date": "2026-07-13",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -896,7 +896,8 @@
     "ath": 141.97999572753906,
     "ath_date": "2026-06-30",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
@@ -912,7 +913,7 @@
     "initialized": true
   },
   "ISP.MI": {
-    "ath": 6.307000160217285,
+    "ath": 6.34499979019165,
     "ath_date": "2026-07-13",
     "ath_disarmed": [],
     "initialized": true
@@ -1118,8 +1119,8 @@
     "initialized": true
   },
   "MET": {
-    "ath": 92.0,
-    "ath_date": "2026-07-07",
+    "ath": 92.54499816894531,
+    "ath_date": "2026-07-13",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1154,8 +1155,8 @@
     "initialized": true
   },
   "MPC": {
-    "ath": 285.510009765625,
-    "ath_date": "2026-07-10",
+    "ath": 293.9150085449219,
+    "ath_date": "2026-07-13",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1505,8 +1506,8 @@
     "initialized": true
   },
   "PSX": {
-    "ath": 191.55999755859375,
-    "ath_date": "2026-07-10",
+    "ath": 194.73500061035156,
+    "ath_date": "2026-07-13",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1958,8 +1959,8 @@
     "initialized": true
   },
   "UNP": {
-    "ath": 288.20001220703125,
-    "ath_date": "2026-07-10",
+    "ath": 288.9800109863281,
+    "ath_date": "2026-07-13",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -2075,8 +2076,8 @@
     "initialized": true
   },
   "ZURN.SW": {
-    "ath": 616.5999755859375,
-    "ath_date": "2026-07-10",
+    "ath": 617.5999755859375,
+    "ath_date": "2026-07-13",
     "ath_disarmed": [],
     "initialized": true
   },
