@@ -109,7 +109,7 @@
     "initialized": true
   },
   "ALL": {
-    "ath": 255.47000122070312,
+    "ath": 256.45001220703125,
     "ath_date": "2026-07-13",
     "ath_disarmed": [],
     "initialized": true
@@ -1155,7 +1155,7 @@
     "initialized": true
   },
   "MPC": {
-    "ath": 296.0050048828125,
+    "ath": 296.8800048828125,
     "ath_date": "2026-07-13",
     "ath_disarmed": [],
     "initialized": true
@@ -1506,7 +1506,7 @@
     "initialized": true
   },
   "PSX": {
-    "ath": 196.83250427246094,
+    "ath": 198.2899932861328,
     "ath_date": "2026-07-13",
     "ath_disarmed": [],
     "initialized": true
