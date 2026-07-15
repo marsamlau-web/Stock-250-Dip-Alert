@@ -1,7 +1,7 @@
 {
   "AAPL": {
-    "ath": 321.27508544921875,
-    "ath_date": "2026-07-13",
+    "ath": 327.8599853515625,
+    "ath_date": "2026-07-15",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -223,8 +223,8 @@
     "initialized": true
   },
   "BAC": {
-    "ath": 60.63999938964844,
-    "ath_date": "2026-07-14",
+    "ath": 61.54999923706055,
+    "ath_date": "2026-07-15",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -349,7 +349,9 @@
   "CAT": {
     "ath": 1068.969970703125,
     "ath_date": "2026-06-30",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "CB": {
@@ -359,7 +361,7 @@
     "initialized": true
   },
   "CFR.SW": {
-    "ath": 193.85000610351562,
+    "ath": 195.60000610351562,
     "ath_date": "2026-07-15",
     "ath_disarmed": [],
     "initialized": true
@@ -607,8 +609,8 @@
     "initialized": true
   },
   "EA": {
-    "ath": 206.69500732421875,
-    "ath_date": "2026-07-13",
+    "ath": 207.22000122070312,
+    "ath_date": "2026-07-15",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -857,7 +859,8 @@
     "ath_date": "2026-06-02",
     "ath_disarmed": [
       15,
-      25
+      25,
+      35
     ],
     "initialized": true
   },
@@ -887,7 +890,7 @@
     "initialized": true
   },
   "INGA.AS": {
-    "ath": 28.940000534057617,
+    "ath": 28.975000381469727,
     "ath_date": "2026-07-15",
     "ath_disarmed": [],
     "initialized": true
@@ -949,8 +952,8 @@
     "initialized": true
   },
   "JPM": {
-    "ath": 342.8900146484375,
-    "ath_date": "2026-07-14",
+    "ath": 347.260009765625,
+    "ath_date": "2026-07-15",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1144,8 +1147,8 @@
     "initialized": true
   },
   "MNST": {
-    "ath": 98.51000213623047,
-    "ath_date": "2026-07-07",
+    "ath": 98.58000183105469,
+    "ath_date": "2026-07-15",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1183,7 +1186,8 @@
     "ath_date": "2026-06-18",
     "ath_disarmed": [
       15,
-      25
+      25,
+      35
     ],
     "initialized": true
   },
@@ -1919,7 +1923,7 @@
     "initialized": true
   },
   "UBSG.SW": {
-    "ath": 44.220001220703125,
+    "ath": 44.279998779296875,
     "ath_date": "2026-07-15",
     "ath_disarmed": [],
     "initialized": true
