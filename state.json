@@ -361,8 +361,8 @@
     "initialized": true
   },
   "CFR.SW": {
-    "ath": 195.60000610351562,
-    "ath_date": "2026-07-15",
+    "ath": 195.64999389648438,
+    "ath_date": "2026-07-16",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -877,7 +877,8 @@
     "ath": 88.0,
     "ath_date": "2026-06-02",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
@@ -916,8 +917,8 @@
     "initialized": true
   },
   "ISP.MI": {
-    "ath": 6.3460001945495605,
-    "ath_date": "2026-07-14",
+    "ath": 6.375,
+    "ath_date": "2026-07-16",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1292,7 +1293,8 @@
     "ath_date": "2026-06-03",
     "ath_disarmed": [
       15,
-      25
+      25,
+      35
     ],
     "initialized": true
   },
