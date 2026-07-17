@@ -471,7 +471,7 @@
     "initialized": true
   },
   "CS.PA": {
-    "ath": 44.529998779296875,
+    "ath": 44.58000183105469,
     "ath_date": "2026-07-17",
     "ath_disarmed": [],
     "initialized": true
@@ -2086,8 +2086,8 @@
     "initialized": true
   },
   "ZURN.SW": {
-    "ath": 618.0,
-    "ath_date": "2026-07-13",
+    "ath": 618.2000122070312,
+    "ath_date": "2026-07-17",
     "ath_disarmed": [],
     "initialized": true
   },
