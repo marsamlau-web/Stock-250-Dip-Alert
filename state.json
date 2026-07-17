@@ -471,7 +471,7 @@
     "initialized": true
   },
   "CS.PA": {
-    "ath": 44.58000183105469,
+    "ath": 44.79999923706055,
     "ath_date": "2026-07-17",
     "ath_disarmed": [],
     "initialized": true
@@ -611,8 +611,8 @@
     "initialized": true
   },
   "EA": {
-    "ath": 207.83999633789062,
-    "ath_date": "2026-07-16",
+    "ath": 208.91000366210938,
+    "ath_date": "2026-07-17",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1127,8 +1127,8 @@
     "initialized": true
   },
   "MET": {
-    "ath": 93.69999694824219,
-    "ath_date": "2026-07-16",
+    "ath": 93.97000122070312,
+    "ath_date": "2026-07-17",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1163,8 +1163,8 @@
     "initialized": true
   },
   "MPC": {
-    "ath": 305.9100036621094,
-    "ath_date": "2026-07-16",
+    "ath": 307.739990234375,
+    "ath_date": "2026-07-17",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1516,8 +1516,8 @@
     "initialized": true
   },
   "PSX": {
-    "ath": 201.4499969482422,
-    "ath_date": "2026-07-14",
+    "ath": 203.86500549316406,
+    "ath_date": "2026-07-17",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1883,8 +1883,8 @@
     "initialized": true
   },
   "TRV": {
-    "ath": 346.6600036621094,
-    "ath_date": "2026-07-07",
+    "ath": 363.489990234375,
+    "ath_date": "2026-07-17",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1969,8 +1969,8 @@
     "initialized": true
   },
   "UNP": {
-    "ath": 299.4200134277344,
-    "ath_date": "2026-07-16",
+    "ath": 300.2250061035156,
+    "ath_date": "2026-07-17",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -2086,7 +2086,7 @@
     "initialized": true
   },
   "ZURN.SW": {
-    "ath": 618.2000122070312,
+    "ath": 624.4000244140625,
     "ath_date": "2026-07-17",
     "ath_disarmed": [],
     "initialized": true
