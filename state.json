@@ -611,7 +611,7 @@
     "initialized": true
   },
   "EA": {
-    "ath": 209.02000427246094,
+    "ath": 209.0800018310547,
     "ath_date": "2026-07-20",
     "ath_disarmed": [],
     "initialized": true
@@ -1163,7 +1163,7 @@
     "initialized": true
   },
   "MPC": {
-    "ath": 316.2250061035156,
+    "ath": 318.28961181640625,
     "ath_date": "2026-07-20",
     "ath_disarmed": [],
     "initialized": true
@@ -1516,7 +1516,7 @@
     "initialized": true
   },
   "PSX": {
-    "ath": 207.77520751953125,
+    "ath": 210.2899932861328,
     "ath_date": "2026-07-20",
     "ath_disarmed": [],
     "initialized": true
@@ -1562,11 +1562,9 @@
     "initialized": true
   },
   "REP.MC": {
-    "ath": 24.790000915527344,
-    "ath_date": "2026-03-19",
-    "ath_disarmed": [
-      15
-    ],
+    "ath": 24.850000381469727,
+    "ath_date": "2026-07-20",
+    "ath_disarmed": [],
     "initialized": true
   },
   "RI.PA": {
