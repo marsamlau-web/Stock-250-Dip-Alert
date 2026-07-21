@@ -301,7 +301,7 @@
     "initialized": true
   },
   "BNP.PA": {
-    "ath": 104.0,
+    "ath": 104.26000213623047,
     "ath_date": "2026-07-21",
     "ath_disarmed": [],
     "initialized": true
@@ -831,8 +831,8 @@
     "initialized": true
   },
   "HSBA.L": {
-    "ath": 1493.800048828125,
-    "ath_date": "2026-07-16",
+    "ath": 1498.5999755859375,
+    "ath_date": "2026-07-21",
     "ath_disarmed": [],
     "initialized": true
   },
