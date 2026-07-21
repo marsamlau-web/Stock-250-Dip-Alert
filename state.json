@@ -301,8 +301,8 @@
     "initialized": true
   },
   "BNP.PA": {
-    "ath": 103.5999984741211,
-    "ath_date": "2026-07-06",
+    "ath": 104.0,
+    "ath_date": "2026-07-21",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -361,8 +361,8 @@
     "initialized": true
   },
   "CFR.SW": {
-    "ath": 197.39999389648438,
-    "ath_date": "2026-07-16",
+    "ath": 197.85000610351562,
+    "ath_date": "2026-07-21",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1563,8 +1563,8 @@
     "initialized": true
   },
   "REP.MC": {
-    "ath": 24.850000381469727,
-    "ath_date": "2026-07-20",
+    "ath": 24.969999313354492,
+    "ath_date": "2026-07-21",
     "ath_disarmed": [],
     "initialized": true
   },
