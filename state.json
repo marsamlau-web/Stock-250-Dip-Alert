@@ -168,8 +168,8 @@
     "initialized": true
   },
   "ATCO-A.ST": {
-    "ath": 197.44366455078125,
-    "ath_date": "2024-06-12",
+    "ath": 197.60000610351562,
+    "ath_date": "2026-07-21",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -301,7 +301,7 @@
     "initialized": true
   },
   "BNP.PA": {
-    "ath": 104.26000213623047,
+    "ath": 105.16000366210938,
     "ath_date": "2026-07-21",
     "ath_disarmed": [],
     "initialized": true
@@ -831,7 +831,7 @@
     "initialized": true
   },
   "HSBA.L": {
-    "ath": 1498.5999755859375,
+    "ath": 1509.4000244140625,
     "ath_date": "2026-07-21",
     "ath_disarmed": [],
     "initialized": true
@@ -894,8 +894,8 @@
     "initialized": true
   },
   "INGA.AS": {
-    "ath": 28.975000381469727,
-    "ath_date": "2026-07-15",
+    "ath": 29.059999465942383,
+    "ath_date": "2026-07-21",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1517,8 +1517,8 @@
     "initialized": true
   },
   "PSX": {
-    "ath": 210.2899932861328,
-    "ath_date": "2026-07-20",
+    "ath": 210.4949951171875,
+    "ath_date": "2026-07-21",
     "ath_disarmed": [],
     "initialized": true
   },
