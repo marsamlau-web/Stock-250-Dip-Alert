@@ -109,8 +109,8 @@
     "initialized": true
   },
   "ALL": {
-    "ath": 256.45001220703125,
-    "ath_date": "2026-07-13",
+    "ath": 258.489990234375,
+    "ath_date": "2026-07-24",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -223,8 +223,8 @@
     "initialized": true
   },
   "BAC": {
-    "ath": 61.755001068115234,
-    "ath_date": "2026-07-22",
+    "ath": 61.98500061035156,
+    "ath_date": "2026-07-24",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -709,8 +709,8 @@
     "initialized": true
   },
   "GD": {
-    "ath": 381.7900085449219,
-    "ath_date": "2026-07-23",
+    "ath": 385.8599853515625,
+    "ath_date": "2026-07-24",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -831,7 +831,7 @@
     "initialized": true
   },
   "HSBA.L": {
-    "ath": 1547.800048828125,
+    "ath": 1552.800048828125,
     "ath_date": "2026-07-24",
     "ath_disarmed": [],
     "initialized": true
@@ -957,8 +957,8 @@
     "initialized": true
   },
   "JPM": {
-    "ath": 349.8999938964844,
-    "ath_date": "2026-07-23",
+    "ath": 352.5249938964844,
+    "ath_date": "2026-07-24",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1170,8 +1170,8 @@
     "initialized": true
   },
   "MRK": {
-    "ath": 130.47999572753906,
-    "ath_date": "2026-07-23",
+    "ath": 131.19000244140625,
+    "ath_date": "2026-07-24",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1618,11 +1618,9 @@
     "initialized": true
   },
   "RTX": {
-    "ath": 212.16000366210938,
-    "ath_date": "2026-03-02",
-    "ath_disarmed": [
-      15
-    ],
+    "ath": 213.60000610351562,
+    "ath_date": "2026-07-24",
+    "ath_disarmed": [],
     "initialized": true
   },
   "SAF.PA": {
@@ -1883,8 +1881,8 @@
     "initialized": true
   },
   "TRV": {
-    "ath": 377.6000061035156,
-    "ath_date": "2026-07-23",
+    "ath": 386.30999755859375,
+    "ath_date": "2026-07-24",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1893,7 +1891,8 @@
     "ath_date": "2025-12-16",
     "ath_disarmed": [
       15,
-      25
+      25,
+      35
     ],
     "initialized": true
   },
@@ -1972,8 +1971,8 @@
     "initialized": true
   },
   "UNP": {
-    "ath": 305.0799865722656,
-    "ath_date": "2026-07-23",
+    "ath": 308.9800109863281,
+    "ath_date": "2026-07-24",
     "ath_disarmed": [],
     "initialized": true
   },
