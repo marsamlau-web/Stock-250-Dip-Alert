@@ -168,8 +168,8 @@
     "initialized": true
   },
   "ATCO-A.ST": {
-    "ath": 200.89999389648438,
-    "ath_date": "2026-07-22",
+    "ath": 203.8000030517578,
+    "ath_date": "2026-07-24",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -831,8 +831,8 @@
     "initialized": true
   },
   "HSBA.L": {
-    "ath": 1541.0,
-    "ath_date": "2026-07-22",
+    "ath": 1547.800048828125,
+    "ath_date": "2026-07-24",
     "ath_disarmed": [],
     "initialized": true
   },
