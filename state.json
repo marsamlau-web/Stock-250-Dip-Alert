@@ -109,7 +109,7 @@
     "initialized": true
   },
   "ALL": {
-    "ath": 258.489990234375,
+    "ath": 259.9700012207031,
     "ath_date": "2026-07-24",
     "ath_disarmed": [],
     "initialized": true
@@ -223,7 +223,7 @@
     "initialized": true
   },
   "BAC": {
-    "ath": 61.98500061035156,
+    "ath": 62.04999923706055,
     "ath_date": "2026-07-24",
     "ath_disarmed": [],
     "initialized": true
@@ -709,7 +709,7 @@
     "initialized": true
   },
   "GD": {
-    "ath": 385.8599853515625,
+    "ath": 386.75,
     "ath_date": "2026-07-24",
     "ath_disarmed": [],
     "initialized": true
@@ -957,7 +957,7 @@
     "initialized": true
   },
   "JPM": {
-    "ath": 352.5249938964844,
+    "ath": 353.2099914550781,
     "ath_date": "2026-07-24",
     "ath_disarmed": [],
     "initialized": true
@@ -1128,8 +1128,8 @@
     "initialized": true
   },
   "MET": {
-    "ath": 94.0,
-    "ath_date": "2026-07-17",
+    "ath": 94.83000183105469,
+    "ath_date": "2026-07-24",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1881,7 +1881,7 @@
     "initialized": true
   },
   "TRV": {
-    "ath": 386.30999755859375,
+    "ath": 387.260009765625,
     "ath_date": "2026-07-24",
     "ath_disarmed": [],
     "initialized": true
@@ -2093,5 +2093,5 @@
     "ath_disarmed": [],
     "initialized": true
   },
-  "last_heartbeat_week": "2026-W29"
+  "last_heartbeat_week": "2026-W30"
 }
