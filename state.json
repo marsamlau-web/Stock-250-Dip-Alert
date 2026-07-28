@@ -115,8 +115,8 @@
     "initialized": true
   },
   "ALV.DE": {
-    "ath": 431.0,
-    "ath_date": "2026-07-27",
+    "ath": 432.5,
+    "ath_date": "2026-07-28",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -178,8 +178,8 @@
     "initialized": true
   },
   "AV.L": {
-    "ath": 693.5999755859375,
-    "ath_date": "2026-07-27",
+    "ath": 693.7999877929688,
+    "ath_date": "2026-07-28",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -475,8 +475,8 @@
     "initialized": true
   },
   "CS.PA": {
-    "ath": 45.38999938964844,
-    "ath_date": "2026-07-22",
+    "ath": 45.47999954223633,
+    "ath_date": "2026-07-28",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -707,8 +707,8 @@
     "initialized": true
   },
   "G.MI": {
-    "ath": 43.58000183105469,
-    "ath_date": "2026-07-27",
+    "ath": 43.779998779296875,
+    "ath_date": "2026-07-28",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -923,8 +923,8 @@
     "initialized": true
   },
   "ISP.MI": {
-    "ath": 6.504000186920166,
-    "ath_date": "2026-07-27",
+    "ath": 6.543000221252441,
+    "ath_date": "2026-07-28",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1309,8 +1309,8 @@
     "initialized": true
   },
   "NOVN.SW": {
-    "ath": 128.6999969482422,
-    "ath_date": "2026-07-27",
+    "ath": 129.05999755859375,
+    "ath_date": "2026-07-28",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1361,8 +1361,8 @@
     "initialized": true
   },
   "NXT.L": {
-    "ath": 15045.0,
-    "ath_date": "2026-07-27",
+    "ath": 15205.0,
+    "ath_date": "2026-07-28",
     "ath_disarmed": [],
     "initialized": true
   },
