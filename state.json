@@ -1,7 +1,7 @@
 {
   "AAPL": {
-    "ath": 340.0799865722656,
-    "ath_date": "2026-07-28",
+    "ath": 342.4798889160156,
+    "ath_date": "2026-07-29",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -12,8 +12,8 @@
     "initialized": true
   },
   "ABBV": {
-    "ath": 265.44500732421875,
-    "ath_date": "2026-07-28",
+    "ath": 266.2298889160156,
+    "ath_date": "2026-07-29",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -109,8 +109,8 @@
     "initialized": true
   },
   "ALL": {
-    "ath": 272.4200134277344,
-    "ath_date": "2026-07-28",
+    "ath": 272.93499755859375,
+    "ath_date": "2026-07-29",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -139,8 +139,8 @@
     "initialized": true
   },
   "AMGN": {
-    "ath": 394.1199951171875,
-    "ath_date": "2026-07-28",
+    "ath": 395.7550048828125,
+    "ath_date": "2026-07-29",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -749,8 +749,8 @@
     "initialized": true
   },
   "GM": {
-    "ath": 90.70999908447266,
-    "ath_date": "2026-07-28",
+    "ath": 91.0,
+    "ath_date": "2026-07-29",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -882,7 +882,8 @@
     "ath_date": "2026-06-02",
     "ath_disarmed": [
       15,
-      25
+      25,
+      35
     ],
     "initialized": true
   },
@@ -994,8 +995,8 @@
     "initialized": true
   },
   "KO": {
-    "ath": 89.1500015258789,
-    "ath_date": "2026-07-28",
+    "ath": 90.36000061035156,
+    "ath_date": "2026-07-29",
     "ath_disarmed": [],
     "initialized": true
   },
