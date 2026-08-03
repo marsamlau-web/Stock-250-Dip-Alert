@@ -695,11 +695,9 @@
     "initialized": true
   },
   "ETN": {
-    "ath": 435.7799987792969,
-    "ath_date": "2026-06-22",
-    "ath_disarmed": [
-      15
-    ],
+    "ath": 438.2300109863281,
+    "ath_date": "2026-08-03",
+    "ath_disarmed": [],
     "initialized": true
   },
   "FAST": {
