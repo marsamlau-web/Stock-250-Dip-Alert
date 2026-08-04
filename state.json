@@ -707,8 +707,8 @@
     "initialized": true
   },
   "G.MI": {
-    "ath": 44.31999969482422,
-    "ath_date": "2026-08-03",
+    "ath": 44.459999084472656,
+    "ath_date": "2026-08-04",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -924,8 +924,8 @@
     "initialized": true
   },
   "ISP.MI": {
-    "ath": 6.696000099182129,
-    "ath_date": "2026-08-03",
+    "ath": 6.763999938964844,
+    "ath_date": "2026-08-04",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1010,8 +1010,8 @@
     "initialized": true
   },
   "LLOY.L": {
-    "ath": 116.5999984741211,
-    "ath_date": "2026-08-03",
+    "ath": 116.62580108642578,
+    "ath_date": "2026-08-04",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1226,8 +1226,8 @@
     "initialized": true
   },
   "MT.AS": {
-    "ath": 62.459999084472656,
-    "ath_date": "2026-08-03",
+    "ath": 63.0,
+    "ath_date": "2026-08-04",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1619,8 +1619,8 @@
     "initialized": true
   },
   "RR.L": {
-    "ath": 1516.5999755859375,
-    "ath_date": "2026-07-31",
+    "ath": 1526.199951171875,
+    "ath_date": "2026-08-04",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1637,8 +1637,8 @@
     "initialized": true
   },
   "SAN.MC": {
-    "ath": 12.571999549865723,
-    "ath_date": "2026-07-07",
+    "ath": 12.609999656677246,
+    "ath_date": "2026-08-04",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1679,8 +1679,8 @@
     "initialized": true
   },
   "SGSN.SW": {
-    "ath": 97.85121154785156,
-    "ath_date": "2021-12-29",
+    "ath": 98.0999984741211,
+    "ath_date": "2026-08-04",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1715,8 +1715,8 @@
     "initialized": true
   },
   "SIE.DE": {
-    "ath": 285.29998779296875,
-    "ath_date": "2026-08-03",
+    "ath": 286.29998779296875,
+    "ath_date": "2026-08-04",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1820,8 +1820,8 @@
     "initialized": true
   },
   "SU.PA": {
-    "ath": 293.75,
-    "ath_date": "2026-07-31",
+    "ath": 295.8500061035156,
+    "ath_date": "2026-08-04",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1944,8 +1944,8 @@
     "initialized": true
   },
   "UCG.MI": {
-    "ath": 83.80000305175781,
-    "ath_date": "2026-08-03",
+    "ath": 84.52999877929688,
+    "ath_date": "2026-08-04",
     "ath_disarmed": [],
     "initialized": true
   },
