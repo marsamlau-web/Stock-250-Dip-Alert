@@ -695,14 +695,14 @@
     "initialized": true
   },
   "ETN": {
-    "ath": 443.1650085449219,
+    "ath": 444.7699890136719,
     "ath_date": "2026-08-04",
     "ath_disarmed": [],
     "initialized": true
   },
   "FAST": {
-    "ath": 49.58934783935547,
-    "ath_date": "2025-08-22",
+    "ath": 49.709999084472656,
+    "ath_date": "2026-08-04",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1420,8 +1420,8 @@
     "initialized": true
   },
   "PANW": {
-    "ath": 363.29998779296875,
-    "ath_date": "2026-07-06",
+    "ath": 366.3399963378906,
+    "ath_date": "2026-08-04",
     "ath_disarmed": [],
     "initialized": true
   },
