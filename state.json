@@ -140,8 +140,8 @@
     "initialized": true
   },
   "AMGN": {
-    "ath": 395.7550048828125,
-    "ath_date": "2026-07-29",
+    "ath": 414.20001220703125,
+    "ath_date": "2026-08-05",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -176,8 +176,8 @@
     "initialized": true
   },
   "AV.L": {
-    "ath": 701.5999755859375,
-    "ath_date": "2026-08-03",
+    "ath": 701.7999877929688,
+    "ath_date": "2026-08-05",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -695,19 +695,19 @@
     "initialized": true
   },
   "ETN": {
-    "ath": 444.7699890136719,
-    "ath_date": "2026-08-04",
+    "ath": 447.5,
+    "ath_date": "2026-08-05",
     "ath_disarmed": [],
     "initialized": true
   },
   "FAST": {
-    "ath": 49.709999084472656,
-    "ath_date": "2026-08-04",
+    "ath": 50.025001525878906,
+    "ath_date": "2026-08-05",
     "ath_disarmed": [],
     "initialized": true
   },
   "G.MI": {
-    "ath": 44.95000076293945,
+    "ath": 44.9900016784668,
     "ath_date": "2026-08-05",
     "ath_disarmed": [],
     "initialized": true
@@ -719,8 +719,8 @@
     "initialized": true
   },
   "GE": {
-    "ath": 379.260009765625,
-    "ath_date": "2026-07-06",
+    "ath": 381.730712890625,
+    "ath_date": "2026-08-05",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -959,8 +959,8 @@
     "initialized": true
   },
   "JPM": {
-    "ath": 360.1400146484375,
-    "ath_date": "2026-08-04",
+    "ath": 360.635009765625,
+    "ath_date": "2026-08-05",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1420,8 +1420,8 @@
     "initialized": true
   },
   "PANW": {
-    "ath": 366.3399963378906,
-    "ath_date": "2026-08-04",
+    "ath": 374.1300048828125,
+    "ath_date": "2026-08-05",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1619,7 +1619,7 @@
     "initialized": true
   },
   "RR.L": {
-    "ath": 1549.800048828125,
+    "ath": 1574.199951171875,
     "ath_date": "2026-08-05",
     "ath_disarmed": [],
     "initialized": true
@@ -1671,15 +1671,13 @@
     "initialized": true
   },
   "SCHW": {
-    "ath": 106.84917449951172,
-    "ath_date": "2026-02-09",
-    "ath_disarmed": [
-      15
-    ],
+    "ath": 107.29499816894531,
+    "ath_date": "2026-08-05",
+    "ath_disarmed": [],
     "initialized": true
   },
   "SGSN.SW": {
-    "ath": 98.22000122070312,
+    "ath": 98.31999969482422,
     "ath_date": "2026-08-05",
     "ath_disarmed": [],
     "initialized": true
@@ -1820,8 +1818,8 @@
     "initialized": true
   },
   "SU.PA": {
-    "ath": 299.25,
-    "ath_date": "2026-08-04",
+    "ath": 300.1499938964844,
+    "ath_date": "2026-08-05",
     "ath_disarmed": [],
     "initialized": true
   },
