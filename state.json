@@ -699,8 +699,8 @@
     "initialized": true
   },
   "FAST": {
-    "ath": 50.209999084472656,
-    "ath_date": "2026-08-05",
+    "ath": 50.79999923706055,
+    "ath_date": "2026-08-06",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1130,8 +1130,8 @@
     "initialized": true
   },
   "MET": {
-    "ath": 97.48999786376953,
-    "ath_date": "2026-07-28",
+    "ath": 99.94999694824219,
+    "ath_date": "2026-08-06",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1457,11 +1457,9 @@
     "initialized": true
   },
   "PH": {
-    "ath": 1023.02001953125,
-    "ath_date": "2026-02-24",
-    "ath_disarmed": [
-      15
-    ],
+    "ath": 1069.800048828125,
+    "ath_date": "2026-08-06",
+    "ath_disarmed": [],
     "initialized": true
   },
   "PHIA.AS": {
@@ -1620,8 +1618,8 @@
     "initialized": true
   },
   "RTX": {
-    "ath": 222.30999755859375,
-    "ath_date": "2026-08-05",
+    "ath": 223.25,
+    "ath_date": "2026-08-06",
     "ath_disarmed": [],
     "initialized": true
   },
