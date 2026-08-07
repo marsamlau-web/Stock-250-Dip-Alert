@@ -176,8 +176,8 @@
     "initialized": true
   },
   "AV.L": {
-    "ath": 710.2000122070312,
-    "ath_date": "2026-08-06",
+    "ath": 716.2000122070312,
+    "ath_date": "2026-08-07",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -255,8 +255,8 @@
     "initialized": true
   },
   "BBVA.MC": {
-    "ath": 24.799999237060547,
-    "ath_date": "2026-08-06",
+    "ath": 24.81999969482422,
+    "ath_date": "2026-08-07",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -705,8 +705,8 @@
     "initialized": true
   },
   "G.MI": {
-    "ath": 45.27000045776367,
-    "ath_date": "2026-08-06",
+    "ath": 45.41999816894531,
+    "ath_date": "2026-08-07",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -922,7 +922,7 @@
     "initialized": true
   },
   "ISP.MI": {
-    "ath": 6.840000152587891,
+    "ath": 6.86299991607666,
     "ath_date": "2026-08-07",
     "ath_disarmed": [],
     "initialized": true
@@ -1630,8 +1630,8 @@
     "initialized": true
   },
   "SAN.MC": {
-    "ath": 12.968000411987305,
-    "ath_date": "2026-08-06",
+    "ath": 12.97599983215332,
+    "ath_date": "2026-08-07",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1811,7 +1811,7 @@
     "initialized": true
   },
   "SU.PA": {
-    "ath": 302.6499938964844,
+    "ath": 304.29998779296875,
     "ath_date": "2026-08-07",
     "ath_disarmed": [],
     "initialized": true
