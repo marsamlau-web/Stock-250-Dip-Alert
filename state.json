@@ -38,8 +38,8 @@
     "initialized": true
   },
   "ACA.PA": {
-    "ath": 19.59000015258789,
-    "ath_date": "2026-08-06",
+    "ath": 19.604999542236328,
+    "ath_date": "2026-08-07",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -693,14 +693,14 @@
     "initialized": true
   },
   "ETN": {
-    "ath": 449.32000732421875,
-    "ath_date": "2026-08-05",
+    "ath": 449.864990234375,
+    "ath_date": "2026-08-07",
     "ath_disarmed": [],
     "initialized": true
   },
   "FAST": {
-    "ath": 50.79999923706055,
-    "ath_date": "2026-08-06",
+    "ath": 51.39500045776367,
+    "ath_date": "2026-08-07",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1457,8 +1457,8 @@
     "initialized": true
   },
   "PH": {
-    "ath": 1069.800048828125,
-    "ath_date": "2026-08-06",
+    "ath": 1082.0699462890625,
+    "ath_date": "2026-08-07",
     "ath_disarmed": [],
     "initialized": true
   },
