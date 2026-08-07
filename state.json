@@ -699,7 +699,7 @@
     "initialized": true
   },
   "FAST": {
-    "ath": 51.39500045776367,
+    "ath": 51.84000015258789,
     "ath_date": "2026-08-07",
     "ath_disarmed": [],
     "initialized": true
@@ -2090,5 +2090,5 @@
     "ath_disarmed": [],
     "initialized": true
   },
-  "last_heartbeat_week": "2026-W31"
+  "last_heartbeat_week": "2026-W32"
 }
