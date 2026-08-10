@@ -38,7 +38,7 @@
     "initialized": true
   },
   "ACA.PA": {
-    "ath": 19.635000228881836,
+    "ath": 19.795000076293945,
     "ath_date": "2026-08-10",
     "ath_disarmed": [],
     "initialized": true
@@ -170,8 +170,8 @@
     "initialized": true
   },
   "ATCO-A.ST": {
-    "ath": 210.8000030517578,
-    "ath_date": "2026-08-06",
+    "ath": 211.0,
+    "ath_date": "2026-08-10",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -365,8 +365,8 @@
     "initialized": true
   },
   "CFR.SW": {
-    "ath": 198.6999969482422,
-    "ath_date": "2026-08-06",
+    "ath": 199.3000030517578,
+    "ath_date": "2026-08-10",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1811,8 +1811,8 @@
     "initialized": true
   },
   "SU.PA": {
-    "ath": 304.29998779296875,
-    "ath_date": "2026-08-07",
+    "ath": 304.8500061035156,
+    "ath_date": "2026-08-10",
     "ath_disarmed": [],
     "initialized": true
   },
