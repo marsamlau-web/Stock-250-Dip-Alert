@@ -1153,7 +1153,12 @@
   "MNST": {
     "ath": 99.94000244140625,
     "ath_date": "2026-07-16",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15,
+      25,
+      35,
+      45
+    ],
     "initialized": true
   },
   "MO": {
