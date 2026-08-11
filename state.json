@@ -255,7 +255,7 @@
     "initialized": true
   },
   "BBVA.MC": {
-    "ath": 24.860000610351562,
+    "ath": 24.93000030517578,
     "ath_date": "2026-08-11",
     "ath_disarmed": [],
     "initialized": true
@@ -365,8 +365,8 @@
     "initialized": true
   },
   "CFR.SW": {
-    "ath": 200.8000030517578,
-    "ath_date": "2026-08-10",
+    "ath": 201.3000030517578,
+    "ath_date": "2026-08-11",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -945,8 +945,8 @@
     "initialized": true
   },
   "ITX.MC": {
-    "ath": 59.18000030517578,
-    "ath_date": "2026-08-06",
+    "ath": 59.2400016784668,
+    "ath_date": "2026-08-11",
     "ath_disarmed": [],
     "initialized": true
   },
