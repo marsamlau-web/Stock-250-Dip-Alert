@@ -645,8 +645,8 @@
     "initialized": true
   },
   "EMR": {
-    "ath": 163.52000427246094,
-    "ath_date": "2026-08-05",
+    "ath": 164.3800048828125,
+    "ath_date": "2026-08-11",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -959,7 +959,7 @@
     "initialized": true
   },
   "JPM": {
-    "ath": 361.8399963378906,
+    "ath": 362.0400085449219,
     "ath_date": "2026-08-11",
     "ath_disarmed": [],
     "initialized": true
@@ -1170,7 +1170,7 @@
     "initialized": true
   },
   "MPC": {
-    "ath": 333.06500244140625,
+    "ath": 336.4200134277344,
     "ath_date": "2026-08-11",
     "ath_disarmed": [],
     "initialized": true
@@ -1522,7 +1522,7 @@
     "initialized": true
   },
   "PSX": {
-    "ath": 222.68499755859375,
+    "ath": 224.36000061035156,
     "ath_date": "2026-08-11",
     "ath_disarmed": [],
     "initialized": true
