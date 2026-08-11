@@ -170,8 +170,8 @@
     "initialized": true
   },
   "ATCO-A.ST": {
-    "ath": 211.0,
-    "ath_date": "2026-08-10",
+    "ath": 211.5,
+    "ath_date": "2026-08-11",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -226,8 +226,8 @@
     "initialized": true
   },
   "BAC": {
-    "ath": 63.86000061035156,
-    "ath_date": "2026-08-10",
+    "ath": 64.125,
+    "ath_date": "2026-08-11",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -240,7 +240,9 @@
   "BATS.L": {
     "ath": 4962.0,
     "ath_date": "2026-05-14",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "BAYN.DE": {
@@ -693,14 +695,14 @@
     "initialized": true
   },
   "ETN": {
-    "ath": 449.864990234375,
-    "ath_date": "2026-08-07",
+    "ath": 459.45001220703125,
+    "ath_date": "2026-08-11",
     "ath_disarmed": [],
     "initialized": true
   },
   "FAST": {
-    "ath": 52.150001525878906,
-    "ath_date": "2026-08-10",
+    "ath": 52.78450012207031,
+    "ath_date": "2026-08-11",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -957,8 +959,8 @@
     "initialized": true
   },
   "JPM": {
-    "ath": 360.635009765625,
-    "ath_date": "2026-08-05",
+    "ath": 361.8399963378906,
+    "ath_date": "2026-08-11",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1168,8 +1170,8 @@
     "initialized": true
   },
   "MPC": {
-    "ath": 320.32000732421875,
-    "ath_date": "2026-08-10",
+    "ath": 333.06500244140625,
+    "ath_date": "2026-08-11",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1520,8 +1522,8 @@
     "initialized": true
   },
   "PSX": {
-    "ath": 215.52000427246094,
-    "ath_date": "2026-08-10",
+    "ath": 222.68499755859375,
+    "ath_date": "2026-08-11",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1816,8 +1818,8 @@
     "initialized": true
   },
   "SU.PA": {
-    "ath": 304.8500061035156,
-    "ath_date": "2026-08-10",
+    "ath": 305.75,
+    "ath_date": "2026-08-11",
     "ath_disarmed": [],
     "initialized": true
   },
