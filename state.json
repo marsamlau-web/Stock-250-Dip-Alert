@@ -170,8 +170,8 @@
     "initialized": true
   },
   "ATCO-A.ST": {
-    "ath": 211.5,
-    "ath_date": "2026-08-11",
+    "ath": 211.8000030517578,
+    "ath_date": "2026-08-12",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1631,8 +1631,8 @@
     "initialized": true
   },
   "SAF.PA": {
-    "ath": 363.20001220703125,
-    "ath_date": "2026-08-10",
+    "ath": 364.79998779296875,
+    "ath_date": "2026-08-12",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1818,8 +1818,8 @@
     "initialized": true
   },
   "SU.PA": {
-    "ath": 305.75,
-    "ath_date": "2026-08-11",
+    "ath": 309.29998779296875,
+    "ath_date": "2026-08-12",
     "ath_disarmed": [],
     "initialized": true
   },
