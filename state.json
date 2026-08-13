@@ -1170,13 +1170,13 @@
     "initialized": true
   },
   "MPC": {
-    "ath": 350.54998779296875,
+    "ath": 356.3699951171875,
     "ath_date": "2026-08-13",
     "ath_disarmed": [],
     "initialized": true
   },
   "MRK": {
-    "ath": 134.6300048828125,
+    "ath": 135.5500030517578,
     "ath_date": "2026-08-13",
     "ath_disarmed": [],
     "initialized": true
@@ -1422,7 +1422,7 @@
     "initialized": true
   },
   "PANW": {
-    "ath": 391.2149963378906,
+    "ath": 396.0,
     "ath_date": "2026-08-13",
     "ath_disarmed": [],
     "initialized": true
@@ -1522,7 +1522,7 @@
     "initialized": true
   },
   "PSX": {
-    "ath": 229.0,
+    "ath": 232.61000061035156,
     "ath_date": "2026-08-13",
     "ath_disarmed": [],
     "initialized": true
@@ -1671,8 +1671,8 @@
     "initialized": true
   },
   "SCHW": {
-    "ath": 109.33999633789062,
-    "ath_date": "2026-08-12",
+    "ath": 110.05999755859375,
+    "ath_date": "2026-08-13",
     "ath_disarmed": [],
     "initialized": true
   },
