@@ -38,8 +38,8 @@
     "initialized": true
   },
   "ACA.PA": {
-    "ath": 20.170000076293945,
-    "ath_date": "2026-08-12",
+    "ath": 20.360000610351562,
+    "ath_date": "2026-08-13",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -257,8 +257,8 @@
     "initialized": true
   },
   "BBVA.MC": {
-    "ath": 24.989999771118164,
-    "ath_date": "2026-08-12",
+    "ath": 25.18000030517578,
+    "ath_date": "2026-08-13",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -306,8 +306,8 @@
     "initialized": true
   },
   "BNP.PA": {
-    "ath": 113.18000030517578,
-    "ath_date": "2026-08-06",
+    "ath": 113.4000015258789,
+    "ath_date": "2026-08-13",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -805,8 +805,8 @@
     "initialized": true
   },
   "HO.PA": {
-    "ath": 271.8999938964844,
-    "ath_date": "2026-08-12",
+    "ath": 273.8999938964844,
+    "ath_date": "2026-08-13",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -895,8 +895,8 @@
     "initialized": true
   },
   "INGA.AS": {
-    "ath": 31.040000915527344,
-    "ath_date": "2026-08-06",
+    "ath": 31.174999237060547,
+    "ath_date": "2026-08-13",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -922,8 +922,8 @@
     "initialized": true
   },
   "ISP.MI": {
-    "ath": 6.86299991607666,
-    "ath_date": "2026-08-07",
+    "ath": 6.9019999504089355,
+    "ath_date": "2026-08-13",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1637,8 +1637,8 @@
     "initialized": true
   },
   "SAN.MC": {
-    "ath": 12.97599983215332,
-    "ath_date": "2026-08-07",
+    "ath": 13.079999923706055,
+    "ath_date": "2026-08-13",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1769,8 +1769,8 @@
     "initialized": true
   },
   "STAN.L": {
-    "ath": 2248.0,
-    "ath_date": "2026-08-04",
+    "ath": 2250.0,
+    "ath_date": "2026-08-13",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1942,8 +1942,8 @@
     "initialized": true
   },
   "UCG.MI": {
-    "ath": 85.52999877929688,
-    "ath_date": "2026-08-06",
+    "ath": 85.69000244140625,
+    "ath_date": "2026-08-13",
     "ath_disarmed": [],
     "initialized": true
   },
