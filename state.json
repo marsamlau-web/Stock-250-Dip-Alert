@@ -115,8 +115,8 @@
     "initialized": true
   },
   "ALV.DE": {
-    "ath": 442.5,
-    "ath_date": "2026-08-06",
+    "ath": 442.70001220703125,
+    "ath_date": "2026-08-14",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -176,7 +176,7 @@
     "initialized": true
   },
   "AV.L": {
-    "ath": 722.5999755859375,
+    "ath": 726.5999755859375,
     "ath_date": "2026-08-14",
     "ath_disarmed": [],
     "initialized": true
@@ -922,7 +922,7 @@
     "initialized": true
   },
   "ISP.MI": {
-    "ath": 6.913000106811523,
+    "ath": 6.916999816894531,
     "ath_date": "2026-08-14",
     "ath_disarmed": [],
     "initialized": true
@@ -1523,8 +1523,8 @@
     "initialized": true
   },
   "PSX": {
-    "ath": 232.61000061035156,
-    "ath_date": "2026-08-13",
+    "ath": 232.88999938964844,
+    "ath_date": "2026-08-14",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1570,7 +1570,7 @@
     "initialized": true
   },
   "REP.MC": {
-    "ath": 26.739999771118164,
+    "ath": 26.790000915527344,
     "ath_date": "2026-08-14",
     "ath_disarmed": [],
     "initialized": true
@@ -1672,8 +1672,8 @@
     "initialized": true
   },
   "SCHW": {
-    "ath": 110.05999755859375,
-    "ath_date": "2026-08-13",
+    "ath": 110.74500274658203,
+    "ath_date": "2026-08-14",
     "ath_disarmed": [],
     "initialized": true
   },
