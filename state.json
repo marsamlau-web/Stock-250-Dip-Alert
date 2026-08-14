@@ -1176,8 +1176,8 @@
     "initialized": true
   },
   "MRK": {
-    "ath": 135.5500030517578,
-    "ath_date": "2026-08-13",
+    "ath": 135.83999633789062,
+    "ath_date": "2026-08-14",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1523,7 +1523,7 @@
     "initialized": true
   },
   "PSX": {
-    "ath": 232.88999938964844,
+    "ath": 233.61000061035156,
     "ath_date": "2026-08-14",
     "ath_disarmed": [],
     "initialized": true
@@ -1672,7 +1672,7 @@
     "initialized": true
   },
   "SCHW": {
-    "ath": 110.74500274658203,
+    "ath": 111.08999633789062,
     "ath_date": "2026-08-14",
     "ath_disarmed": [],
     "initialized": true
@@ -2098,5 +2098,5 @@
     "ath_disarmed": [],
     "initialized": true
   },
-  "last_heartbeat_week": "2026-W32"
+  "last_heartbeat_week": "2026-W33"
 }
