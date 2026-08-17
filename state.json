@@ -176,7 +176,7 @@
     "initialized": true
   },
   "AV.L": {
-    "ath": 729.2000122070312,
+    "ath": 729.760009765625,
     "ath_date": "2026-08-17",
     "ath_disarmed": [],
     "initialized": true
@@ -1570,7 +1570,7 @@
     "initialized": true
   },
   "REP.MC": {
-    "ath": 26.81999969482422,
+    "ath": 26.84000015258789,
     "ath_date": "2026-08-17",
     "ath_disarmed": [],
     "initialized": true
