@@ -140,8 +140,8 @@
     "initialized": true
   },
   "AMGN": {
-    "ath": 419.3800048828125,
-    "ath_date": "2026-08-17",
+    "ath": 425.8900146484375,
+    "ath_date": "2026-08-18",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -176,7 +176,7 @@
     "initialized": true
   },
   "AV.L": {
-    "ath": 734.7999877929688,
+    "ath": 737.0,
     "ath_date": "2026-08-18",
     "ath_disarmed": [],
     "initialized": true
@@ -1170,8 +1170,8 @@
     "initialized": true
   },
   "MPC": {
-    "ath": 362.6400146484375,
-    "ath_date": "2026-08-17",
+    "ath": 363.7349853515625,
+    "ath_date": "2026-08-18",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1672,8 +1672,8 @@
     "initialized": true
   },
   "SCHW": {
-    "ath": 111.26000213623047,
-    "ath_date": "2026-08-17",
+    "ath": 112.1395034790039,
+    "ath_date": "2026-08-18",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -2001,8 +2001,8 @@
     "initialized": true
   },
   "VRTX": {
-    "ath": 532.030029296875,
-    "ath_date": "2026-08-10",
+    "ath": 532.3599853515625,
+    "ath_date": "2026-08-18",
     "ath_disarmed": [],
     "initialized": true
   },
