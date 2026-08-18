@@ -176,8 +176,8 @@
     "initialized": true
   },
   "AV.L": {
-    "ath": 730.0,
-    "ath_date": "2026-08-17",
+    "ath": 734.7999877929688,
+    "ath_date": "2026-08-18",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -922,8 +922,8 @@
     "initialized": true
   },
   "ISP.MI": {
-    "ath": 6.916999816894531,
-    "ath_date": "2026-08-14",
+    "ath": 6.921000003814697,
+    "ath_date": "2026-08-18",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1570,7 +1570,7 @@
     "initialized": true
   },
   "REP.MC": {
-    "ath": 27.510000228881836,
+    "ath": 27.549999237060547,
     "ath_date": "2026-08-18",
     "ath_disarmed": [],
     "initialized": true
