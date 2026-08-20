@@ -47,7 +47,8 @@
     "ath": 41.765506744384766,
     "ath_date": "2026-03-17",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
@@ -1571,8 +1572,8 @@
     "initialized": true
   },
   "REP.MC": {
-    "ath": 27.719999313354492,
-    "ath_date": "2026-08-19",
+    "ath": 28.020000457763672,
+    "ath_date": "2026-08-20",
     "ath_disarmed": [],
     "initialized": true
   },
