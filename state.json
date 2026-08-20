@@ -890,7 +890,8 @@
     "ath": 3340.588134765625,
     "ath_date": "2026-02-06",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
