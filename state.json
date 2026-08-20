@@ -440,11 +440,9 @@
     "initialized": true
   },
   "COP": {
-    "ath": 133.8000030517578,
-    "ath_date": "2026-03-27",
-    "ath_disarmed": [
-      15
-    ],
+    "ath": 135.3000030517578,
+    "ath_date": "2026-08-20",
+    "ath_disarmed": [],
     "initialized": true
   },
   "COST": {
@@ -666,8 +664,8 @@
     "initialized": true
   },
   "EOG": {
-    "ath": 150.4600067138672,
-    "ath_date": "2026-08-19",
+    "ath": 152.9600067138672,
+    "ath_date": "2026-08-20",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -996,8 +994,8 @@
     "initialized": true
   },
   "KO": {
-    "ath": 90.36000061035156,
-    "ath_date": "2026-07-29",
+    "ath": 91.75,
+    "ath_date": "2026-08-20",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1525,8 +1523,8 @@
     "initialized": true
   },
   "PSX": {
-    "ath": 243.49000549316406,
-    "ath_date": "2026-08-18",
+    "ath": 245.17250061035156,
+    "ath_date": "2026-08-20",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1572,7 +1570,7 @@
     "initialized": true
   },
   "REP.MC": {
-    "ath": 28.020000457763672,
+    "ath": 28.139999389648438,
     "ath_date": "2026-08-20",
     "ath_disarmed": [],
     "initialized": true
@@ -1867,7 +1865,9 @@
   "TJX": {
     "ath": 168.4199981689453,
     "ath_date": "2026-06-12",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "TMO": {
