@@ -664,8 +664,8 @@
     "initialized": true
   },
   "EOG": {
-    "ath": 152.9600067138672,
-    "ath_date": "2026-08-20",
+    "ath": 153.0500030517578,
+    "ath_date": "2026-08-21",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1672,8 +1672,8 @@
     "initialized": true
   },
   "SCHW": {
-    "ath": 112.1395034790039,
-    "ath_date": "2026-08-18",
+    "ath": 112.30000305175781,
+    "ath_date": "2026-08-21",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -2100,5 +2100,5 @@
     "ath_disarmed": [],
     "initialized": true
   },
-  "last_heartbeat_week": "2026-W33"
+  "last_heartbeat_week": "2026-W34"
 }
