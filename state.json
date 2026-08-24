@@ -141,8 +141,8 @@
     "initialized": true
   },
   "AMGN": {
-    "ath": 442.3599853515625,
-    "ath_date": "2026-08-19",
+    "ath": 443.8399963378906,
+    "ath_date": "2026-08-24",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -994,7 +994,7 @@
     "initialized": true
   },
   "KO": {
-    "ath": 91.91000366210938,
+    "ath": 91.98999786376953,
     "ath_date": "2026-08-24",
     "ath_disarmed": [],
     "initialized": true
@@ -1059,11 +1059,9 @@
     "initialized": true
   },
   "MA": {
-    "ath": 596.24853515625,
-    "ath_date": "2025-08-22",
-    "ath_disarmed": [
-      15
-    ],
+    "ath": 599.8599853515625,
+    "ath_date": "2026-08-24",
+    "ath_disarmed": [],
     "initialized": true
   },
   "MBG.DE": {
@@ -1673,7 +1671,7 @@
     "initialized": true
   },
   "SCHW": {
-    "ath": 113.16999816894531,
+    "ath": 113.6500015258789,
     "ath_date": "2026-08-24",
     "ath_disarmed": [],
     "initialized": true
@@ -1981,13 +1979,13 @@
     "initialized": true
   },
   "UNP": {
-    "ath": 308.9800109863281,
-    "ath_date": "2026-07-24",
+    "ath": 309.8599853515625,
+    "ath_date": "2026-08-24",
     "ath_disarmed": [],
     "initialized": true
   },
   "V": {
-    "ath": 380.6549987792969,
+    "ath": 382.4100036621094,
     "ath_date": "2026-08-24",
     "ath_disarmed": [],
     "initialized": true
