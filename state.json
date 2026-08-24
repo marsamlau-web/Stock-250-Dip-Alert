@@ -116,7 +116,7 @@
     "initialized": true
   },
   "ALV.DE": {
-    "ath": 443.0,
+    "ath": 445.3999938964844,
     "ath_date": "2026-08-24",
     "ath_disarmed": [],
     "initialized": true
@@ -994,8 +994,8 @@
     "initialized": true
   },
   "KO": {
-    "ath": 91.75,
-    "ath_date": "2026-08-20",
+    "ath": 91.91000366210938,
+    "ath_date": "2026-08-24",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1372,7 +1372,8 @@
     "ath_disarmed": [
       15,
       25,
-      35
+      35,
+      45
     ],
     "initialized": true
   },
@@ -1672,8 +1673,8 @@
     "initialized": true
   },
   "SCHW": {
-    "ath": 112.30000305175781,
-    "ath_date": "2026-08-21",
+    "ath": 113.16999816894531,
+    "ath_date": "2026-08-24",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1986,8 +1987,8 @@
     "initialized": true
   },
   "V": {
-    "ath": 373.4049987792969,
-    "ath_date": "2026-07-29",
+    "ath": 380.6549987792969,
+    "ath_date": "2026-08-24",
     "ath_disarmed": [],
     "initialized": true
   },
