@@ -851,8 +851,8 @@
     "initialized": true
   },
   "IBKR": {
-    "ath": 97.43000030517578,
-    "ath_date": "2026-06-18",
+    "ath": 98.19000244140625,
+    "ath_date": "2026-08-25",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1174,7 +1174,7 @@
     "initialized": true
   },
   "MRK": {
-    "ath": 153.8699951171875,
+    "ath": 156.42999267578125,
     "ath_date": "2026-08-25",
     "ath_disarmed": [],
     "initialized": true
@@ -1985,8 +1985,8 @@
     "initialized": true
   },
   "V": {
-    "ath": 382.4100036621094,
-    "ath_date": "2026-08-24",
+    "ath": 384.1400146484375,
+    "ath_date": "2026-08-25",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -2002,7 +2002,7 @@
     "initialized": true
   },
   "VRTX": {
-    "ath": 552.594970703125,
+    "ath": 552.8499755859375,
     "ath_date": "2026-08-25",
     "ath_disarmed": [],
     "initialized": true
