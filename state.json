@@ -116,7 +116,7 @@
     "initialized": true
   },
   "ALV.DE": {
-    "ath": 452.1000061035156,
+    "ath": 452.5,
     "ath_date": "2026-08-26",
     "ath_disarmed": [],
     "initialized": true
@@ -509,7 +509,7 @@
     "initialized": true
   },
   "DBK.DE": {
-    "ath": 34.22999954223633,
+    "ath": 34.83000183105469,
     "ath_date": "2026-08-26",
     "ath_disarmed": [],
     "initialized": true
@@ -1224,8 +1224,8 @@
     "initialized": true
   },
   "MT.AS": {
-    "ath": 64.80000305175781,
-    "ath_date": "2026-08-12",
+    "ath": 65.0199966430664,
+    "ath_date": "2026-08-26",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1711,8 +1711,8 @@
     "initialized": true
   },
   "SIE.DE": {
-    "ath": 288.75,
-    "ath_date": "2026-08-04",
+    "ath": 289.70001220703125,
+    "ath_date": "2026-08-26",
     "ath_disarmed": [],
     "initialized": true
   },
