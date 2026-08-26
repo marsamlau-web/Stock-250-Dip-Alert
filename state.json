@@ -116,8 +116,8 @@
     "initialized": true
   },
   "ALV.DE": {
-    "ath": 450.5,
-    "ath_date": "2026-08-25",
+    "ath": 452.1000061035156,
+    "ath_date": "2026-08-26",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -509,11 +509,9 @@
     "initialized": true
   },
   "DBK.DE": {
-    "ath": 33.810001373291016,
-    "ath_date": "2026-01-05",
-    "ath_disarmed": [
-      15
-    ],
+    "ath": 34.22999954223633,
+    "ath_date": "2026-08-26",
+    "ath_disarmed": [],
     "initialized": true
   },
   "DE": {
