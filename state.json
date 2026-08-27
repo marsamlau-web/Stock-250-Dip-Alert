@@ -743,7 +743,9 @@
   "GLE.PA": {
     "ath": 84.69000244140625,
     "ath_date": "2026-08-06",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "GM": {
