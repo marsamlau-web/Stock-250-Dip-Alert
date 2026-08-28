@@ -116,8 +116,8 @@
     "initialized": true
   },
   "ALV.DE": {
-    "ath": 452.5,
-    "ath_date": "2026-08-26",
+    "ath": 453.20001220703125,
+    "ath_date": "2026-08-28",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -509,8 +509,8 @@
     "initialized": true
   },
   "DBK.DE": {
-    "ath": 34.83000183105469,
-    "ath_date": "2026-08-26",
+    "ath": 34.92499923706055,
+    "ath_date": "2026-08-28",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1168,8 +1168,8 @@
     "initialized": true
   },
   "MPC": {
-    "ath": 366.4599914550781,
-    "ath_date": "2026-08-18",
+    "ath": 367.1499938964844,
+    "ath_date": "2026-08-28",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1252,7 +1252,9 @@
   "NEE": {
     "ath": 97.87999725341797,
     "ath_date": "2026-04-30",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "NESN.SW": {
@@ -1713,8 +1715,8 @@
     "initialized": true
   },
   "SIE.DE": {
-    "ath": 289.70001220703125,
-    "ath_date": "2026-08-26",
+    "ath": 289.8999938964844,
+    "ath_date": "2026-08-28",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1938,8 +1940,8 @@
     "initialized": true
   },
   "UBSG.SW": {
-    "ath": 44.279998779296875,
-    "ath_date": "2026-07-15",
+    "ath": 44.529998779296875,
+    "ath_date": "2026-08-28",
     "ath_disarmed": [],
     "initialized": true
   },
