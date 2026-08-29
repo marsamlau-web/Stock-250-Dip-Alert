@@ -1168,7 +1168,7 @@
     "initialized": true
   },
   "MPC": {
-    "ath": 367.1499938964844,
+    "ath": 368.8299865722656,
     "ath_date": "2026-08-28",
     "ath_disarmed": [],
     "initialized": true
@@ -2101,5 +2101,5 @@
     "ath_disarmed": [],
     "initialized": true
   },
-  "last_heartbeat_week": "2026-W34"
+  "last_heartbeat_week": "2026-W35"
 }
