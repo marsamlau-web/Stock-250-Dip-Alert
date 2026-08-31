@@ -1168,8 +1168,8 @@
     "initialized": true
   },
   "MPC": {
-    "ath": 368.8299865722656,
-    "ath_date": "2026-08-28",
+    "ath": 370.17999267578125,
+    "ath_date": "2026-08-31",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1721,11 +1721,9 @@
     "initialized": true
   },
   "SLB": {
-    "ath": 58.4900016784668,
-    "ath_date": "2026-05-26",
-    "ath_disarmed": [
-      15
-    ],
+    "ath": 59.474998474121094,
+    "ath_date": "2026-08-31",
+    "ath_disarmed": [],
     "initialized": true
   },
   "SNOW": {
