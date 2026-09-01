@@ -440,7 +440,7 @@
     "initialized": true
   },
   "COP": {
-    "ath": 135.80499267578125,
+    "ath": 136.19000244140625,
     "ath_date": "2026-09-01",
     "ath_disarmed": [],
     "initialized": true
@@ -515,7 +515,7 @@
     "initialized": true
   },
   "DE": {
-    "ath": 673.0900268554688,
+    "ath": 676.0800170898438,
     "ath_date": "2026-09-01",
     "ath_disarmed": [],
     "initialized": true
@@ -1168,7 +1168,7 @@
     "initialized": true
   },
   "MPC": {
-    "ath": 377.92999267578125,
+    "ath": 383.0,
     "ath_date": "2026-09-01",
     "ath_disarmed": [],
     "initialized": true
@@ -1524,7 +1524,7 @@
     "initialized": true
   },
   "PSX": {
-    "ath": 249.6750030517578,
+    "ath": 252.02000427246094,
     "ath_date": "2026-09-01",
     "ath_disarmed": [],
     "initialized": true
