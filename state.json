@@ -515,11 +515,9 @@
     "initialized": true
   },
   "DE": {
-    "ath": 660.5579833984375,
-    "ath_date": "2026-02-20",
-    "ath_disarmed": [
-      15
-    ],
+    "ath": 671.0399780273438,
+    "ath_date": "2026-09-01",
+    "ath_disarmed": [],
     "initialized": true
   },
   "DG": {
@@ -694,7 +692,9 @@
   "ETN": {
     "ath": 463.7749938964844,
     "ath_date": "2026-08-12",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "FAST": {
@@ -1168,8 +1168,8 @@
     "initialized": true
   },
   "MPC": {
-    "ath": 373.32000732421875,
-    "ath_date": "2026-08-31",
+    "ath": 375.6400146484375,
+    "ath_date": "2026-09-01",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1310,8 +1310,8 @@
     "initialized": true
   },
   "NOVN.SW": {
-    "ath": 130.39999389648438,
-    "ath_date": "2026-07-28",
+    "ath": 130.9600067138672,
+    "ath_date": "2026-09-01",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1524,8 +1524,8 @@
     "initialized": true
   },
   "PSX": {
-    "ath": 246.5800018310547,
-    "ath_date": "2026-08-31",
+    "ath": 248.97000122070312,
+    "ath_date": "2026-09-01",
     "ath_disarmed": [],
     "initialized": true
   },
