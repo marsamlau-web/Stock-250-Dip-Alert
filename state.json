@@ -116,8 +116,8 @@
     "initialized": true
   },
   "ALV.DE": {
-    "ath": 453.20001220703125,
-    "ath_date": "2026-08-28",
+    "ath": 453.29998779296875,
+    "ath_date": "2026-09-03",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -258,7 +258,7 @@
     "initialized": true
   },
   "BBVA.MC": {
-    "ath": 25.329999923706055,
+    "ath": 25.399999618530273,
     "ath_date": "2026-09-03",
     "ath_disarmed": [],
     "initialized": true
@@ -507,7 +507,7 @@
     "initialized": true
   },
   "DBK.DE": {
-    "ath": 35.52000045776367,
+    "ath": 35.54999923706055,
     "ath_date": "2026-09-03",
     "ath_disarmed": [],
     "initialized": true
@@ -893,7 +893,7 @@
     "initialized": true
   },
   "INGA.AS": {
-    "ath": 31.71500015258789,
+    "ath": 31.75,
     "ath_date": "2026-09-03",
     "ath_disarmed": [],
     "initialized": true
@@ -949,7 +949,7 @@
     "initialized": true
   },
   "JNJ": {
-    "ath": 278.07000732421875,
+    "ath": 278.5299987792969,
     "ath_date": "2026-09-03",
     "ath_disarmed": [],
     "initialized": true
@@ -1224,7 +1224,7 @@
     "initialized": true
   },
   "MT.AS": {
-    "ath": 65.33999633789062,
+    "ath": 65.66000366210938,
     "ath_date": "2026-09-03",
     "ath_disarmed": [],
     "initialized": true
@@ -1571,8 +1571,8 @@
     "initialized": true
   },
   "REP.MC": {
-    "ath": 28.309999465942383,
-    "ath_date": "2026-08-21",
+    "ath": 28.34000015258789,
+    "ath_date": "2026-09-03",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -2019,8 +2019,8 @@
     "initialized": true
   },
   "VZ": {
-    "ath": 50.689998626708984,
-    "ath_date": "2026-09-02",
+    "ath": 50.71500015258789,
+    "ath_date": "2026-09-03",
     "ath_disarmed": [],
     "initialized": true
   },
