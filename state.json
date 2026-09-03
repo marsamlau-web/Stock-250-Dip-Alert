@@ -258,7 +258,7 @@
     "initialized": true
   },
   "BBVA.MC": {
-    "ath": 25.239999771118164,
+    "ath": 25.329999923706055,
     "ath_date": "2026-09-03",
     "ath_disarmed": [],
     "initialized": true
@@ -490,8 +490,8 @@
     "initialized": true
   },
   "CVX": {
-    "ath": 212.27000427246094,
-    "ath_date": "2026-09-02",
+    "ath": 212.75999450683594,
+    "ath_date": "2026-09-03",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -507,8 +507,8 @@
     "initialized": true
   },
   "DBK.DE": {
-    "ath": 35.125,
-    "ath_date": "2026-09-02",
+    "ath": 35.52000045776367,
+    "ath_date": "2026-09-03",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -893,7 +893,7 @@
     "initialized": true
   },
   "INGA.AS": {
-    "ath": 31.350000381469727,
+    "ath": 31.71500015258789,
     "ath_date": "2026-09-03",
     "ath_disarmed": [],
     "initialized": true
@@ -949,8 +949,8 @@
     "initialized": true
   },
   "JNJ": {
-    "ath": 275.2099914550781,
-    "ath_date": "2026-09-02",
+    "ath": 278.07000732421875,
+    "ath_date": "2026-09-03",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1166,8 +1166,8 @@
     "initialized": true
   },
   "MPC": {
-    "ath": 390.2300109863281,
-    "ath_date": "2026-09-02",
+    "ath": 396.1099853515625,
+    "ath_date": "2026-09-03",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1224,7 +1224,7 @@
     "initialized": true
   },
   "MT.AS": {
-    "ath": 65.30000305175781,
+    "ath": 65.33999633789062,
     "ath_date": "2026-09-03",
     "ath_disarmed": [],
     "initialized": true
@@ -1524,8 +1524,8 @@
     "initialized": true
   },
   "PSX": {
-    "ath": 257.2200012207031,
-    "ath_date": "2026-09-02",
+    "ath": 259.68499755859375,
+    "ath_date": "2026-09-03",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -2002,8 +2002,8 @@
     "initialized": true
   },
   "VRTX": {
-    "ath": 556.75,
-    "ath_date": "2026-09-02",
+    "ath": 558.3800048828125,
+    "ath_date": "2026-09-03",
     "ath_disarmed": [],
     "initialized": true
   },
