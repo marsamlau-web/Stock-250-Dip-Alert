@@ -891,7 +891,7 @@
     "initialized": true
   },
   "INGA.AS": {
-    "ath": 31.979999542236328,
+    "ath": 32.005001068115234,
     "ath_date": "2026-09-04",
     "ath_disarmed": [],
     "initialized": true
@@ -2095,5 +2095,5 @@
     "ath_disarmed": [],
     "initialized": true
   },
-  "last_heartbeat_week": "2026-W35"
+  "last_heartbeat_week": "2026-W36"
 }
