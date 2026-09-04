@@ -775,11 +775,9 @@
     "initialized": true
   },
   "GTT.PA": {
-    "ath": 212.60000610351562,
-    "ath_date": "2026-05-05",
-    "ath_disarmed": [
-      15
-    ],
+    "ath": 215.1999969482422,
+    "ath_date": "2026-09-04",
+    "ath_disarmed": [],
     "initialized": true
   },
   "HD": {
@@ -1224,8 +1222,8 @@
     "initialized": true
   },
   "MT.AS": {
-    "ath": 65.66000366210938,
-    "ath_date": "2026-09-03",
+    "ath": 66.05999755859375,
+    "ath_date": "2026-09-04",
     "ath_disarmed": [],
     "initialized": true
   },
