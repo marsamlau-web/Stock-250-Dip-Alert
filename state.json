@@ -775,7 +775,7 @@
     "initialized": true
   },
   "GTT.PA": {
-    "ath": 217.1999969482422,
+    "ath": 220.0,
     "ath_date": "2026-09-07",
     "ath_disarmed": [],
     "initialized": true
@@ -802,7 +802,9 @@
   "HO.PA": {
     "ath": 273.8999938964844,
     "ath_date": "2026-08-13",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "HOLN.SW": {
@@ -891,8 +893,8 @@
     "initialized": true
   },
   "INGA.AS": {
-    "ath": 32.005001068115234,
-    "ath_date": "2026-09-04",
+    "ath": 32.10499954223633,
+    "ath_date": "2026-09-07",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1767,7 +1769,7 @@
     "initialized": true
   },
   "STAN.L": {
-    "ath": 2254.0,
+    "ath": 2269.0,
     "ath_date": "2026-09-07",
     "ath_disarmed": [],
     "initialized": true
