@@ -507,7 +507,7 @@
     "initialized": true
   },
   "DBK.DE": {
-    "ath": 35.720001220703125,
+    "ath": 35.75,
     "ath_date": "2026-09-08",
     "ath_disarmed": [],
     "initialized": true
@@ -1166,7 +1166,7 @@
     "initialized": true
   },
   "MPC": {
-    "ath": 397.07501220703125,
+    "ath": 397.2336120605469,
     "ath_date": "2026-09-08",
     "ath_disarmed": [],
     "initialized": true
@@ -1310,7 +1310,9 @@
   "NOVN.SW": {
     "ath": 131.60000610351562,
     "ath_date": "2026-09-03",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "NOVO-B.CO": {
@@ -1769,7 +1771,7 @@
     "initialized": true
   },
   "STAN.L": {
-    "ath": 2291.449951171875,
+    "ath": 2292.0,
     "ath_date": "2026-09-08",
     "ath_disarmed": [],
     "initialized": true
