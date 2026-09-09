@@ -490,7 +490,7 @@
     "initialized": true
   },
   "CVX": {
-    "ath": 213.1649932861328,
+    "ath": 213.49000549316406,
     "ath_date": "2026-09-09",
     "ath_disarmed": [],
     "initialized": true
@@ -1529,7 +1529,7 @@
     "initialized": true
   },
   "PSX": {
-    "ath": 260.6700134277344,
+    "ath": 260.9150085449219,
     "ath_date": "2026-09-09",
     "ath_disarmed": [],
     "initialized": true
@@ -1870,7 +1870,8 @@
     "ath": 168.4199981689453,
     "ath_date": "2026-06-12",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
