@@ -258,8 +258,8 @@
     "initialized": true
   },
   "BBVA.MC": {
-    "ath": 25.399999618530273,
-    "ath_date": "2026-09-03",
+    "ath": 25.40999984741211,
+    "ath_date": "2026-09-11",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -490,8 +490,8 @@
     "initialized": true
   },
   "CVX": {
-    "ath": 213.80999755859375,
-    "ath_date": "2026-09-09",
+    "ath": 213.83999633789062,
+    "ath_date": "2026-09-11",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1774,8 +1774,8 @@
     "initialized": true
   },
   "STAN.L": {
-    "ath": 2292.0,
-    "ath_date": "2026-09-08",
+    "ath": 2298.0,
+    "ath_date": "2026-09-11",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -2105,5 +2105,5 @@
     "ath_disarmed": [],
     "initialized": true
   },
-  "last_heartbeat_week": "2026-W36"
+  "last_heartbeat_week": "2026-W37"
 }
