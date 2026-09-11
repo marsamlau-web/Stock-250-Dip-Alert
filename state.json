@@ -143,7 +143,9 @@
   "AMGN": {
     "ath": 444.5350036621094,
     "ath_date": "2026-08-25",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "AMT": {
@@ -490,7 +492,7 @@
     "initialized": true
   },
   "CVX": {
-    "ath": 213.83999633789062,
+    "ath": 214.05999755859375,
     "ath_date": "2026-09-11",
     "ath_disarmed": [],
     "initialized": true
