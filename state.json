@@ -442,8 +442,8 @@
     "initialized": true
   },
   "COP": {
-    "ath": 137.38499450683594,
-    "ath_date": "2026-09-09",
+    "ath": 137.6199951171875,
+    "ath_date": "2026-09-14",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -672,12 +672,9 @@
     "initialized": true
   },
   "EQNR.OL": {
-    "ath": 420.3999938964844,
-    "ath_date": "2026-03-31",
-    "ath_disarmed": [
-      15,
-      25
-    ],
+    "ath": 423.79998779296875,
+    "ath_date": "2026-09-14",
+    "ath_disarmed": [],
     "initialized": true
   },
   "ERIC-B.ST": {
@@ -2027,8 +2024,8 @@
     "initialized": true
   },
   "VZ": {
-    "ath": 50.71500015258789,
-    "ath_date": "2026-09-03",
+    "ath": 51.290000915527344,
+    "ath_date": "2026-09-14",
     "ath_disarmed": [],
     "initialized": true
   },
