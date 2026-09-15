@@ -444,8 +444,8 @@
     "initialized": true
   },
   "COP": {
-    "ath": 137.6199951171875,
-    "ath_date": "2026-09-14",
+    "ath": 140.4250030517578,
+    "ath_date": "2026-09-15",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -494,8 +494,8 @@
     "initialized": true
   },
   "CVX": {
-    "ath": 214.05999755859375,
-    "ath_date": "2026-09-11",
+    "ath": 216.5500030517578,
+    "ath_date": "2026-09-15",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -664,8 +664,8 @@
     "initialized": true
   },
   "EOG": {
-    "ath": 153.0500030517578,
-    "ath_date": "2026-08-21",
+    "ath": 153.25999450683594,
+    "ath_date": "2026-09-15",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -705,8 +705,8 @@
     "initialized": true
   },
   "G.MI": {
-    "ath": 45.41999816894531,
-    "ath_date": "2026-08-07",
+    "ath": 45.630001068115234,
+    "ath_date": "2026-09-15",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -768,7 +768,9 @@
   "GS": {
     "ath": 1152.0699462890625,
     "ath_date": "2026-07-15",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "GSK.L": {
@@ -1172,8 +1174,8 @@
     "initialized": true
   },
   "MPC": {
-    "ath": 405.739990234375,
-    "ath_date": "2026-09-11",
+    "ath": 408.30999755859375,
+    "ath_date": "2026-09-15",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1532,8 +1534,8 @@
     "initialized": true
   },
   "PSX": {
-    "ath": 262.8999938964844,
-    "ath_date": "2026-09-11",
+    "ath": 264.260009765625,
+    "ath_date": "2026-09-15",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1579,8 +1581,8 @@
     "initialized": true
   },
   "REP.MC": {
-    "ath": 29.219999313354492,
-    "ath_date": "2026-09-14",
+    "ath": 29.3799991607666,
+    "ath_date": "2026-09-15",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1693,7 +1695,7 @@
     "initialized": true
   },
   "SHEL.L": {
-    "ath": 3583.5,
+    "ath": 3652.5,
     "ath_date": "2026-09-15",
     "ath_disarmed": [],
     "initialized": true
@@ -2026,8 +2028,8 @@
     "initialized": true
   },
   "VZ": {
-    "ath": 51.290000915527344,
-    "ath_date": "2026-09-14",
+    "ath": 51.3650016784668,
+    "ath_date": "2026-09-15",
     "ath_disarmed": [],
     "initialized": true
   },
