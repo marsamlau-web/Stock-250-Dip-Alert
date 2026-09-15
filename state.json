@@ -372,7 +372,9 @@
   "CFR.SW": {
     "ath": 201.3000030517578,
     "ath_date": "2026-08-11",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "CHD": {
@@ -648,7 +650,9 @@
   "ENEL.MI": {
     "ath": 10.279999732971191,
     "ath_date": "2026-07-03",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "ENI.MI": {
@@ -1689,11 +1693,9 @@
     "initialized": true
   },
   "SHEL.L": {
-    "ath": 3583.0,
-    "ath_date": "2026-03-31",
-    "ath_disarmed": [
-      15
-    ],
+    "ath": 3583.5,
+    "ath_date": "2026-09-15",
+    "ath_disarmed": [],
     "initialized": true
   },
   "SHL.DE": {
