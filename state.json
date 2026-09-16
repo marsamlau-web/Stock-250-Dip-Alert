@@ -705,7 +705,7 @@
     "initialized": true
   },
   "G.MI": {
-    "ath": 45.86000061035156,
+    "ath": 45.880001068115234,
     "ath_date": "2026-09-16",
     "ath_disarmed": [],
     "initialized": true
@@ -1174,7 +1174,7 @@
     "initialized": true
   },
   "MPC": {
-    "ath": 412.8450012207031,
+    "ath": 412.8800048828125,
     "ath_date": "2026-09-16",
     "ath_disarmed": [],
     "initialized": true
@@ -1477,7 +1477,9 @@
   "PH": {
     "ath": 1082.0699462890625,
     "ath_date": "2026-08-07",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "PHIA.AS": {
