@@ -1174,8 +1174,8 @@
     "initialized": true
   },
   "MPC": {
-    "ath": 421.9700012207031,
-    "ath_date": "2026-09-17",
+    "ath": 426.32000732421875,
+    "ath_date": "2026-09-18",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1442,7 +1442,8 @@
     "ath": 177.249755859375,
     "ath_date": "2023-05-12",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
@@ -1536,8 +1537,8 @@
     "initialized": true
   },
   "PSX": {
-    "ath": 274.2099914550781,
-    "ath_date": "2026-09-17",
+    "ath": 276.31500244140625,
+    "ath_date": "2026-09-18",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1641,7 +1642,9 @@
   "RTX": {
     "ath": 225.4915008544922,
     "ath_date": "2026-08-18",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "SAF.PA": {
