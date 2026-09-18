@@ -1736,7 +1736,9 @@
   "SLB": {
     "ath": 60.099998474121094,
     "ath_date": "2026-08-31",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "SNOW": {
@@ -2113,5 +2115,5 @@
     "ath_disarmed": [],
     "initialized": true
   },
-  "last_heartbeat_week": "2026-W37"
+  "last_heartbeat_week": "2026-W38"
 }
