@@ -132,12 +132,9 @@
     "initialized": true
   },
   "AMD": {
-    "ath": 580.9099731445312,
-    "ath_date": "2026-06-30",
-    "ath_disarmed": [
-      15,
-      25
-    ],
+    "ath": 606.0601196289062,
+    "ath_date": "2026-09-21",
+    "ath_disarmed": [],
     "initialized": true
   },
   "AMGN": {
@@ -2071,7 +2068,9 @@
   "WM": {
     "ath": 245.53370666503906,
     "ath_date": "2026-03-09",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "WMT": {
