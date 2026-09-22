@@ -112,7 +112,9 @@
   "ALL": {
     "ath": 275.29998779296875,
     "ath_date": "2026-07-29",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "ALV.DE": {
@@ -132,8 +134,8 @@
     "initialized": true
   },
   "AMD": {
-    "ath": 615.52001953125,
-    "ath_date": "2026-09-21",
+    "ath": 617.6400146484375,
+    "ath_date": "2026-09-22",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1582,8 +1584,8 @@
     "initialized": true
   },
   "REP.MC": {
-    "ath": 29.760000228881836,
-    "ath_date": "2026-09-17",
+    "ath": 29.809999465942383,
+    "ath_date": "2026-09-22",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1884,12 +1886,9 @@
     "initialized": true
   },
   "TMO": {
-    "ath": 659.205078125,
-    "ath_date": "2021-12-31",
-    "ath_disarmed": [
-      15,
-      25
-    ],
+    "ath": 661.4299926757812,
+    "ath_date": "2026-09-22",
+    "ath_disarmed": [],
     "initialized": true
   },
   "TMUS": {
