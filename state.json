@@ -134,8 +134,8 @@
     "initialized": true
   },
   "AMD": {
-    "ath": 623.77001953125,
-    "ath_date": "2026-09-22",
+    "ath": 629.260009765625,
+    "ath_date": "2026-09-24",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -615,7 +615,9 @@
   "DUK": {
     "ath": 133.4600067138672,
     "ath_date": "2026-03-16",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "EA": {
@@ -718,7 +720,9 @@
   "GD": {
     "ath": 396.54998779296875,
     "ath_date": "2026-08-10",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "GE": {
@@ -1893,7 +1897,7 @@
     "initialized": true
   },
   "TMO": {
-    "ath": 667.8599853515625,
+    "ath": 678.3900146484375,
     "ath_date": "2026-09-24",
     "ath_disarmed": [],
     "initialized": true
