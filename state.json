@@ -236,7 +236,9 @@
   "BARC.L": {
     "ath": 537.2999877929688,
     "ath_date": "2026-07-27",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "BATS.L": {
@@ -391,7 +393,8 @@
     "ath": 355.9977722167969,
     "ath_date": "2024-09-16",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
@@ -1588,7 +1591,7 @@
     "initialized": true
   },
   "REP.MC": {
-    "ath": 31.469999313354492,
+    "ath": 31.540000915527344,
     "ath_date": "2026-09-24",
     "ath_disarmed": [],
     "initialized": true
@@ -1890,8 +1893,8 @@
     "initialized": true
   },
   "TMO": {
-    "ath": 665.2999877929688,
-    "ath_date": "2026-09-23",
+    "ath": 667.8599853515625,
+    "ath_date": "2026-09-24",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1922,11 +1925,9 @@
     "initialized": true
   },
   "TTE.PA": {
-    "ath": 80.91000366210938,
-    "ath_date": "2026-03-31",
-    "ath_disarmed": [
-      15
-    ],
+    "ath": 81.05000305175781,
+    "ath_date": "2026-09-24",
+    "ath_disarmed": [],
     "initialized": true
   },
   "TTWO": {
