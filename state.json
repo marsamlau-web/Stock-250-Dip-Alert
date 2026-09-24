@@ -287,7 +287,8 @@
     "ath_disarmed": [
       15,
       25,
-      35
+      35,
+      45
     ],
     "initialized": true
   },
@@ -310,7 +311,9 @@
   "BNP.PA": {
     "ath": 113.4000015258789,
     "ath_date": "2026-08-13",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "BP.L": {
@@ -1396,7 +1399,8 @@
     "ath": 18.739999771118164,
     "ath_date": "2026-05-19",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
@@ -1584,8 +1588,8 @@
     "initialized": true
   },
   "REP.MC": {
-    "ath": 30.809999465942383,
-    "ath_date": "2026-09-23",
+    "ath": 31.469999313354492,
+    "ath_date": "2026-09-24",
     "ath_disarmed": [],
     "initialized": true
   },
