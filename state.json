@@ -134,8 +134,8 @@
     "initialized": true
   },
   "AMD": {
-    "ath": 629.260009765625,
-    "ath_date": "2026-09-24",
+    "ath": 631.9249877929688,
+    "ath_date": "2026-09-25",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -306,7 +306,8 @@
     "ath": 79.5999984741211,
     "ath_date": "2025-11-13",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
