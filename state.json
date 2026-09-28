@@ -12,8 +12,8 @@
     "initialized": true
   },
   "ABBV": {
-    "ath": 266.375,
-    "ath_date": "2026-07-29",
+    "ath": 267.1199951171875,
+    "ath_date": "2026-09-28",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -215,7 +215,8 @@
     "ath_disarmed": [
       15,
       25,
-      35
+      35,
+      45
     ],
     "initialized": true
   },
@@ -855,7 +856,8 @@
     "ath_date": "2023-05-01",
     "ath_disarmed": [
       15,
-      25
+      25,
+      35
     ],
     "initialized": true
   },
@@ -1220,7 +1222,9 @@
   "MS": {
     "ath": 228.8300018310547,
     "ath_date": "2026-06-18",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "MSCI": {
@@ -1898,8 +1902,8 @@
     "initialized": true
   },
   "TMO": {
-    "ath": 678.3900146484375,
-    "ath_date": "2026-09-24",
+    "ath": 679.39501953125,
+    "ath_date": "2026-09-28",
     "ath_disarmed": [],
     "initialized": true
   },
