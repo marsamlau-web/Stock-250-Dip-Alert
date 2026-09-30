@@ -767,7 +767,9 @@
   "GM": {
     "ath": 91.0,
     "ath_date": "2026-07-29",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "GOOGL": {
@@ -1052,7 +1054,8 @@
     "ath_date": "2026-02-13",
     "ath_disarmed": [
       15,
-      25
+      25,
+      35
     ],
     "initialized": true
   },
@@ -1449,11 +1452,9 @@
     "initialized": true
   },
   "PANW": {
-    "ath": 396.0,
-    "ath_date": "2026-08-13",
-    "ath_disarmed": [
-      15
-    ],
+    "ath": 401.885009765625,
+    "ath_date": "2026-09-30",
+    "ath_disarmed": [],
     "initialized": true
   },
   "PEP": {
@@ -1904,8 +1905,8 @@
     "initialized": true
   },
   "TMO": {
-    "ath": 679.6099853515625,
-    "ath_date": "2026-09-29",
+    "ath": 682.22998046875,
+    "ath_date": "2026-09-30",
     "ath_disarmed": [],
     "initialized": true
   },
