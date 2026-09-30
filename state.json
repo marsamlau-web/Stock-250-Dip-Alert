@@ -1516,7 +1516,9 @@
   "PLD": {
     "ath": 152.9790496826172,
     "ath_date": "2022-04-28",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "PLTR": {
