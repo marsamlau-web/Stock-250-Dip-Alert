@@ -40,7 +40,9 @@
   "ACA.PA": {
     "ath": 20.360000610351562,
     "ath_date": "2026-08-13",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "AD.AS": {
