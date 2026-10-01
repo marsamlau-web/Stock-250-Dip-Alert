@@ -1255,7 +1255,9 @@
   "MT.AS": {
     "ath": 67.73999786376953,
     "ath_date": "2026-09-07",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "MU": {
