@@ -1093,7 +1093,8 @@
     "ath_date": "2024-04-08",
     "ath_disarmed": [
       15,
-      25
+      25,
+      35
     ],
     "initialized": true
   },
@@ -1456,8 +1457,8 @@
     "initialized": true
   },
   "PANW": {
-    "ath": 401.885009765625,
-    "ath_date": "2026-09-30",
+    "ath": 402.45001220703125,
+    "ath_date": "2026-10-02",
     "ath_disarmed": [],
     "initialized": true
   },
