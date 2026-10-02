@@ -136,8 +136,8 @@
     "initialized": true
   },
   "AMD": {
-    "ath": 631.9249877929688,
-    "ath_date": "2026-09-25",
+    "ath": 633.9099731445312,
+    "ath_date": "2026-10-02",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1457,7 +1457,7 @@
     "initialized": true
   },
   "PANW": {
-    "ath": 402.45001220703125,
+    "ath": 403.239990234375,
     "ath_date": "2026-10-02",
     "ath_disarmed": [],
     "initialized": true
@@ -2138,5 +2138,5 @@
     "ath_disarmed": [],
     "initialized": true
   },
-  "last_heartbeat_week": "2026-W39"
+  "last_heartbeat_week": "2026-W40"
 }
