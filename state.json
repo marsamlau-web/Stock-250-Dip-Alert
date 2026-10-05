@@ -1194,8 +1194,8 @@
     "initialized": true
   },
   "MPC": {
-    "ath": 426.32000732421875,
-    "ath_date": "2026-09-18",
+    "ath": 433.2699890136719,
+    "ath_date": "2026-10-05",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1370,11 +1370,9 @@
     "initialized": true
   },
   "NVDA": {
-    "ath": 235.74000549316406,
-    "ath_date": "2026-05-14",
-    "ath_disarmed": [
-      15
-    ],
+    "ath": 238.89999389648438,
+    "ath_date": "2026-10-05",
+    "ath_disarmed": [],
     "initialized": true
   },
   "NWG.L": {
@@ -1457,8 +1455,8 @@
     "initialized": true
   },
   "PANW": {
-    "ath": 403.239990234375,
-    "ath_date": "2026-10-02",
+    "ath": 406.760009765625,
+    "ath_date": "2026-10-05",
     "ath_disarmed": [],
     "initialized": true
   },
