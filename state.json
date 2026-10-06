@@ -12,8 +12,8 @@
     "initialized": true
   },
   "ABBV": {
-    "ath": 267.1199951171875,
-    "ath_date": "2026-09-28",
+    "ath": 267.3999938964844,
+    "ath_date": "2026-10-06",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -136,8 +136,8 @@
     "initialized": true
   },
   "AMD": {
-    "ath": 633.9099731445312,
-    "ath_date": "2026-10-02",
+    "ath": 654.97998046875,
+    "ath_date": "2026-10-06",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1194,8 +1194,8 @@
     "initialized": true
   },
   "MPC": {
-    "ath": 433.4700012207031,
-    "ath_date": "2026-10-05",
+    "ath": 434.55999755859375,
+    "ath_date": "2026-10-06",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1370,8 +1370,8 @@
     "initialized": true
   },
   "NVDA": {
-    "ath": 238.89999389648438,
-    "ath_date": "2026-10-05",
+    "ath": 239.875,
+    "ath_date": "2026-10-06",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1455,8 +1455,8 @@
     "initialized": true
   },
   "PANW": {
-    "ath": 406.760009765625,
-    "ath_date": "2026-10-05",
+    "ath": 417.5799865722656,
+    "ath_date": "2026-10-06",
     "ath_disarmed": [],
     "initialized": true
   },
