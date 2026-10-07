@@ -524,7 +524,9 @@
   "DBK.DE": {
     "ath": 35.75,
     "ath_date": "2026-09-08",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "DE": {
@@ -1724,8 +1726,8 @@
     "initialized": true
   },
   "SHEL.L": {
-    "ath": 3661.0,
-    "ath_date": "2026-09-28",
+    "ath": 3676.0,
+    "ath_date": "2026-10-07",
     "ath_disarmed": [],
     "initialized": true
   },
