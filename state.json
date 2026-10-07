@@ -12,8 +12,8 @@
     "initialized": true
   },
   "ABBV": {
-    "ath": 267.3999938964844,
-    "ath_date": "2026-10-06",
+    "ath": 272.7799987792969,
+    "ath_date": "2026-10-07",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -838,7 +838,8 @@
     "ath_date": "2025-03-06",
     "ath_disarmed": [
       15,
-      25
+      25,
+      35
     ],
     "initialized": true
   },
@@ -1196,8 +1197,8 @@
     "initialized": true
   },
   "MPC": {
-    "ath": 434.55999755859375,
-    "ath_date": "2026-10-06",
+    "ath": 440.7908935546875,
+    "ath_date": "2026-10-07",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1716,7 +1717,9 @@
   "SCHW": {
     "ath": 113.6500015258789,
     "ath_date": "2026-08-24",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "SGSN.SW": {
