@@ -1198,8 +1198,8 @@
     "initialized": true
   },
   "MPC": {
-    "ath": 442.260009765625,
-    "ath_date": "2026-10-07",
+    "ath": 464.57000732421875,
+    "ath_date": "2026-10-08",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1565,8 +1565,8 @@
     "initialized": true
   },
   "PSX": {
-    "ath": 276.31500244140625,
-    "ath_date": "2026-09-18",
+    "ath": 280.5950012207031,
+    "ath_date": "2026-10-08",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1732,7 +1732,7 @@
     "initialized": true
   },
   "SHEL.L": {
-    "ath": 3724.177001953125,
+    "ath": 3780.5,
     "ath_date": "2026-10-08",
     "ath_disarmed": [],
     "initialized": true
