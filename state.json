@@ -764,7 +764,8 @@
     "ath": 84.69000244140625,
     "ath_date": "2026-08-06",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
@@ -1677,7 +1678,9 @@
   "SAF.PA": {
     "ath": 364.79998779296875,
     "ath_date": "2026-08-12",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "SAN.MC": {
@@ -1729,8 +1732,8 @@
     "initialized": true
   },
   "SHEL.L": {
-    "ath": 3676.0,
-    "ath_date": "2026-10-07",
+    "ath": 3724.177001953125,
+    "ath_date": "2026-10-08",
     "ath_disarmed": [],
     "initialized": true
   },
