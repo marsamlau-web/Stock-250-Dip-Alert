@@ -671,11 +671,9 @@
     "initialized": true
   },
   "ENI.MI": {
-    "ath": 24.885000228881836,
-    "ath_date": "2026-04-07",
-    "ath_disarmed": [
-      15
-    ],
+    "ath": 24.915000915527344,
+    "ath_date": "2026-10-09",
+    "ath_disarmed": [],
     "initialized": true
   },
   "EOG": {
@@ -1565,7 +1563,7 @@
     "initialized": true
   },
   "PSX": {
-    "ath": 280.5950012207031,
+    "ath": 281.6000061035156,
     "ath_date": "2026-10-08",
     "ath_disarmed": [],
     "initialized": true
