@@ -1527,14 +1527,9 @@
     "initialized": true
   },
   "PLTR": {
-    "ath": 207.17999267578125,
-    "ath_date": "2025-11-03",
-    "ath_disarmed": [
-      15,
-      25,
-      35,
-      45
-    ],
+    "ath": 209.0500030517578,
+    "ath_date": "2026-10-09",
+    "ath_disarmed": [],
     "initialized": true
   },
   "PM": {
@@ -2028,7 +2023,7 @@
     "initialized": true
   },
   "V": {
-    "ath": 384.7900085449219,
+    "ath": 385.45001220703125,
     "ath_date": "2026-10-09",
     "ath_disarmed": [],
     "initialized": true
@@ -2146,5 +2141,5 @@
     "ath_disarmed": [],
     "initialized": true
   },
-  "last_heartbeat_week": "2026-W40"
+  "last_heartbeat_week": "2026-W41"
 }
