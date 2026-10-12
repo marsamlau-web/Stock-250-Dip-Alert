@@ -671,8 +671,8 @@
     "initialized": true
   },
   "ENI.MI": {
-    "ath": 25.209999084472656,
-    "ath_date": "2026-10-09",
+    "ath": 25.389999389648438,
+    "ath_date": "2026-10-12",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1725,8 +1725,8 @@
     "initialized": true
   },
   "SHEL.L": {
-    "ath": 3793.5,
-    "ath_date": "2026-10-09",
+    "ath": 3805.0048828125,
+    "ath_date": "2026-10-12",
     "ath_disarmed": [],
     "initialized": true
   },
