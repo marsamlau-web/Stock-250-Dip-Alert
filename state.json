@@ -12,8 +12,8 @@
     "initialized": true
   },
   "ABBV": {
-    "ath": 277.0,
-    "ath_date": "2026-10-09",
+    "ath": 281.1199951171875,
+    "ath_date": "2026-10-12",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -671,7 +671,7 @@
     "initialized": true
   },
   "ENI.MI": {
-    "ath": 25.389999389648438,
+    "ath": 25.405000686645508,
     "ath_date": "2026-10-12",
     "ath_disarmed": [],
     "initialized": true
@@ -1156,8 +1156,8 @@
     "initialized": true
   },
   "MET": {
-    "ath": 99.94999694824219,
-    "ath_date": "2026-08-06",
+    "ath": 100.16999816894531,
+    "ath_date": "2026-10-12",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1246,13 +1246,9 @@
     "initialized": true
   },
   "MSFT": {
-    "ath": 539.8252563476562,
-    "ath_date": "2025-10-28",
-    "ath_disarmed": [
-      15,
-      25,
-      35
-    ],
+    "ath": 541.1500244140625,
+    "ath_date": "2026-10-12",
+    "ath_disarmed": [],
     "initialized": true
   },
   "MT.AS": {
@@ -1725,7 +1721,7 @@
     "initialized": true
   },
   "SHEL.L": {
-    "ath": 3805.0048828125,
+    "ath": 3836.0,
     "ath_date": "2026-10-12",
     "ath_disarmed": [],
     "initialized": true
@@ -1742,14 +1738,9 @@
     "initialized": true
   },
   "SHOP": {
-    "ath": 179.00999450683594,
-    "ath_date": "2025-10-29",
-    "ath_disarmed": [
-      15,
-      25,
-      35,
-      45
-    ],
+    "ath": 179.22000122070312,
+    "ath_date": "2026-10-12",
+    "ath_disarmed": [],
     "initialized": true
   },
   "SIE.DE": {
@@ -2023,8 +2014,8 @@
     "initialized": true
   },
   "V": {
-    "ath": 385.45001220703125,
-    "ath_date": "2026-10-09",
+    "ath": 389.2699890136719,
+    "ath_date": "2026-10-12",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -2109,11 +2100,9 @@
     "initialized": true
   },
   "XOM": {
-    "ath": 171.47000122070312,
-    "ath_date": "2026-03-30",
-    "ath_disarmed": [
-      15
-    ],
+    "ath": 172.14999389648438,
+    "ath_date": "2026-10-12",
+    "ath_disarmed": [],
     "initialized": true
   },
   "XYZ": {
