@@ -454,7 +454,7 @@
     "initialized": true
   },
   "COP": {
-    "ath": 141.6699981689453,
+    "ath": 142.33999633789062,
     "ath_date": "2026-10-14",
     "ath_disarmed": [],
     "initialized": true
@@ -504,7 +504,7 @@
     "initialized": true
   },
   "CVX": {
-    "ath": 221.0500030517578,
+    "ath": 222.0399932861328,
     "ath_date": "2026-10-14",
     "ath_disarmed": [],
     "initialized": true
@@ -676,8 +676,8 @@
     "initialized": true
   },
   "EOG": {
-    "ath": 153.74000549316406,
-    "ath_date": "2026-09-15",
+    "ath": 154.19000244140625,
+    "ath_date": "2026-10-14",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1195,7 +1195,7 @@
     "initialized": true
   },
   "MPC": {
-    "ath": 478.42999267578125,
+    "ath": 484.9200134277344,
     "ath_date": "2026-10-14",
     "ath_disarmed": [],
     "initialized": true
@@ -1528,8 +1528,8 @@
     "initialized": true
   },
   "PM": {
-    "ath": 204.15499877929688,
-    "ath_date": "2026-07-28",
+    "ath": 205.5800018310547,
+    "ath_date": "2026-10-14",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1553,7 +1553,7 @@
     "initialized": true
   },
   "PSX": {
-    "ath": 293.79998779296875,
+    "ath": 297.2900085449219,
     "ath_date": "2026-10-14",
     "ath_disarmed": [],
     "initialized": true
@@ -2099,7 +2099,7 @@
     "initialized": true
   },
   "XOM": {
-    "ath": 176.38999938964844,
+    "ath": 177.00999450683594,
     "ath_date": "2026-10-14",
     "ath_disarmed": [],
     "initialized": true
