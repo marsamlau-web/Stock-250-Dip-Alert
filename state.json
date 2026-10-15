@@ -8,7 +8,9 @@
   "ABBN.SW": {
     "ath": 88.55999755859375,
     "ath_date": "2026-06-22",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "ABBV": {
@@ -1170,8 +1172,8 @@
     "initialized": true
   },
   "MKS.L": {
-    "ath": 412.5989990234375,
-    "ath_date": "2026-08-06",
+    "ath": 413.8999938964844,
+    "ath_date": "2026-10-15",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1714,8 +1716,8 @@
     "initialized": true
   },
   "SGSN.SW": {
-    "ath": 98.31999969482422,
-    "ath_date": "2026-08-05",
+    "ath": 98.66000366210938,
+    "ath_date": "2026-10-15",
     "ath_disarmed": [],
     "initialized": true
   },
