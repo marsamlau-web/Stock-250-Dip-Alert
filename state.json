@@ -458,7 +458,7 @@
     "initialized": true
   },
   "COP": {
-    "ath": 144.38009643554688,
+    "ath": 145.89999389648438,
     "ath_date": "2026-10-16",
     "ath_disarmed": [],
     "initialized": true
@@ -508,7 +508,7 @@
     "initialized": true
   },
   "CVX": {
-    "ath": 222.13009643554688,
+    "ath": 224.58999633789062,
     "ath_date": "2026-10-16",
     "ath_disarmed": [],
     "initialized": true
@@ -680,7 +680,7 @@
     "initialized": true
   },
   "EOG": {
-    "ath": 155.55999755859375,
+    "ath": 157.10000610351562,
     "ath_date": "2026-10-16",
     "ath_disarmed": [],
     "initialized": true
@@ -879,7 +879,9 @@
   "IBKR": {
     "ath": 98.19000244140625,
     "ath_date": "2026-08-25",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "IBM": {
@@ -2103,8 +2105,8 @@
     "initialized": true
   },
   "XOM": {
-    "ath": 177.00999450683594,
-    "ath_date": "2026-10-14",
+    "ath": 178.46499633789062,
+    "ath_date": "2026-10-16",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -2133,5 +2135,5 @@
     "ath_disarmed": [],
     "initialized": true
   },
-  "last_heartbeat_week": "2026-W41"
+  "last_heartbeat_week": "2026-W42"
 }
