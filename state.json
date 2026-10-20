@@ -43,7 +43,8 @@
     "ath": 20.360000610351562,
     "ath_date": "2026-08-13",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
@@ -674,8 +675,8 @@
     "initialized": true
   },
   "ENI.MI": {
-    "ath": 26.204999923706055,
-    "ath_date": "2026-10-19",
+    "ath": 26.354999542236328,
+    "ath_date": "2026-10-20",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -692,8 +693,8 @@
     "initialized": true
   },
   "EQNR.OL": {
-    "ath": 436.8999938964844,
-    "ath_date": "2026-10-19",
+    "ath": 437.3999938964844,
+    "ath_date": "2026-10-20",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1728,8 +1729,8 @@
     "initialized": true
   },
   "SHEL.L": {
-    "ath": 3941.281982421875,
-    "ath_date": "2026-10-19",
+    "ath": 3944.0,
+    "ath_date": "2026-10-20",
     "ath_disarmed": [],
     "initialized": true
   },
