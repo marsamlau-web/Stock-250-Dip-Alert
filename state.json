@@ -336,8 +336,8 @@
     "initialized": true
   },
   "BRK-B": {
-    "ath": 539.8200073242188,
-    "ath_date": "2026-10-20",
+    "ath": 542.72998046875,
+    "ath_date": "2026-10-21",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -509,8 +509,8 @@
     "initialized": true
   },
   "CVX": {
-    "ath": 225.7100067138672,
-    "ath_date": "2026-10-20",
+    "ath": 226.52999877929688,
+    "ath_date": "2026-10-21",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -675,14 +675,14 @@
     "initialized": true
   },
   "ENI.MI": {
-    "ath": 26.354999542236328,
-    "ath_date": "2026-10-20",
+    "ath": 26.399999618530273,
+    "ath_date": "2026-10-21",
     "ath_disarmed": [],
     "initialized": true
   },
   "EOG": {
-    "ath": 158.00999450683594,
-    "ath_date": "2026-10-16",
+    "ath": 158.0399932861328,
+    "ath_date": "2026-10-21",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1089,8 +1089,8 @@
     "initialized": true
   },
   "MA": {
-    "ath": 622.5999755859375,
-    "ath_date": "2026-10-20",
+    "ath": 623.52001953125,
+    "ath_date": "2026-10-21",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1160,8 +1160,8 @@
     "initialized": true
   },
   "MET": {
-    "ath": 102.0199966430664,
-    "ath_date": "2026-10-16",
+    "ath": 102.27999877929688,
+    "ath_date": "2026-10-21",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1175,8 +1175,8 @@
     "initialized": true
   },
   "MKS.L": {
-    "ath": 420.79998779296875,
-    "ath_date": "2026-10-20",
+    "ath": 422.1000061035156,
+    "ath_date": "2026-10-21",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1723,7 +1723,7 @@
     "initialized": true
   },
   "SGSN.SW": {
-    "ath": 99.66000366210938,
+    "ath": 100.44999694824219,
     "ath_date": "2026-10-21",
     "ath_disarmed": [],
     "initialized": true
@@ -1912,8 +1912,8 @@
     "initialized": true
   },
   "TMO": {
-    "ath": 698.844970703125,
-    "ath_date": "2026-10-15",
+    "ath": 702.2849731445312,
+    "ath_date": "2026-10-21",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -2022,8 +2022,8 @@
     "initialized": true
   },
   "V": {
-    "ath": 407.6000061035156,
-    "ath_date": "2026-10-20",
+    "ath": 409.2699890136719,
+    "ath_date": "2026-10-21",
     "ath_disarmed": [],
     "initialized": true
   },
