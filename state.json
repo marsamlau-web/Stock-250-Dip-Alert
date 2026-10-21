@@ -509,7 +509,7 @@
     "initialized": true
   },
   "CVX": {
-    "ath": 226.52999877929688,
+    "ath": 226.77999877929688,
     "ath_date": "2026-10-21",
     "ath_disarmed": [],
     "initialized": true
@@ -1928,8 +1928,8 @@
     "initialized": true
   },
   "TRV": {
-    "ath": 397.2200012207031,
-    "ath_date": "2026-07-28",
+    "ath": 398.95001220703125,
+    "ath_date": "2026-10-21",
     "ath_disarmed": [],
     "initialized": true
   },
