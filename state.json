@@ -325,13 +325,14 @@
     "ath": 113.4000015258789,
     "ath_date": "2026-08-13",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
   "BP.L": {
-    "ath": 619.0999755859375,
-    "ath_date": "2026-10-19",
+    "ath": 623.2999877929688,
+    "ath_date": "2026-10-22",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -675,8 +676,8 @@
     "initialized": true
   },
   "ENI.MI": {
-    "ath": 26.399999618530273,
-    "ath_date": "2026-10-21",
+    "ath": 26.434999465942383,
+    "ath_date": "2026-10-22",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1723,8 +1724,8 @@
     "initialized": true
   },
   "SGSN.SW": {
-    "ath": 100.44999694824219,
-    "ath_date": "2026-10-21",
+    "ath": 100.6500015258789,
+    "ath_date": "2026-10-22",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1944,8 +1945,8 @@
     "initialized": true
   },
   "TTE.PA": {
-    "ath": 81.05000305175781,
-    "ath_date": "2026-09-24",
+    "ath": 81.22000122070312,
+    "ath_date": "2026-10-22",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -2133,8 +2134,8 @@
     "initialized": true
   },
   "ZURN.SW": {
-    "ath": 625.2000122070312,
-    "ath_date": "2026-07-22",
+    "ath": 625.7999877929688,
+    "ath_date": "2026-10-22",
     "ath_disarmed": [],
     "initialized": true
   },
