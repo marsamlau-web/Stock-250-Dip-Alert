@@ -134,7 +134,8 @@
     "ath_disarmed": [
       15,
       25,
-      35
+      35,
+      45
     ],
     "initialized": true
   },
@@ -147,11 +148,9 @@
     "initialized": true
   },
   "AMGN": {
-    "ath": 444.5350036621094,
-    "ath_date": "2026-08-25",
-    "ath_disarmed": [
-      15
-    ],
+    "ath": 448.6000061035156,
+    "ath_date": "2026-10-22",
+    "ath_disarmed": [],
     "initialized": true
   },
   "AMT": {
@@ -181,7 +180,9 @@
   "ATCO-A.ST": {
     "ath": 213.5,
     "ath_date": "2026-10-06",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "AV.L": {
@@ -337,8 +338,8 @@
     "initialized": true
   },
   "BRK-B": {
-    "ath": 542.72998046875,
-    "ath_date": "2026-10-21",
+    "ath": 548.6699829101562,
+    "ath_date": "2026-10-22",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -690,7 +691,9 @@
   "EQIX": {
     "ath": 1122.8499755859375,
     "ath_date": "2026-06-23",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "EQNR.OL": {
@@ -954,7 +957,9 @@
   "ISP.MI": {
     "ath": 6.921000003814697,
     "ath_date": "2026-08-18",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "ISRG": {
@@ -1024,8 +1029,8 @@
     "initialized": true
   },
   "KO": {
-    "ath": 93.9000015258789,
-    "ath_date": "2026-10-16",
+    "ath": 94.73500061035156,
+    "ath_date": "2026-10-22",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1044,8 +1049,8 @@
     "initialized": true
   },
   "LLY": {
-    "ath": 1299.385009765625,
-    "ath_date": "2026-10-20",
+    "ath": 1314.1099853515625,
+    "ath_date": "2026-10-22",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1074,7 +1079,8 @@
     "ath_disarmed": [
       15,
       25,
-      35
+      35,
+      45
     ],
     "initialized": true
   },
@@ -1090,8 +1096,8 @@
     "initialized": true
   },
   "MA": {
-    "ath": 623.52001953125,
-    "ath_date": "2026-10-21",
+    "ath": 632.489990234375,
+    "ath_date": "2026-10-22",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1176,8 +1182,8 @@
     "initialized": true
   },
   "MKS.L": {
-    "ath": 422.1000061035156,
-    "ath_date": "2026-10-21",
+    "ath": 422.3999938964844,
+    "ath_date": "2026-10-22",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1556,7 +1562,8 @@
     "ath_date": "2026-05-11",
     "ath_disarmed": [
       15,
-      25
+      25,
+      35
     ],
     "initialized": true
   },
@@ -1724,7 +1731,7 @@
     "initialized": true
   },
   "SGSN.SW": {
-    "ath": 100.6500015258789,
+    "ath": 100.9000015258789,
     "ath_date": "2026-10-22",
     "ath_disarmed": [],
     "initialized": true
@@ -1811,7 +1818,9 @@
   "STAN.L": {
     "ath": 2338.0,
     "ath_date": "2026-09-17",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "STLAM.MI": {
@@ -1929,8 +1938,8 @@
     "initialized": true
   },
   "TRV": {
-    "ath": 398.95001220703125,
-    "ath_date": "2026-10-21",
+    "ath": 405.17498779296875,
+    "ath_date": "2026-10-22",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1984,7 +1993,9 @@
   "UCG.MI": {
     "ath": 86.1500015258789,
     "ath_date": "2026-08-26",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "ULTA": {
@@ -2023,8 +2034,8 @@
     "initialized": true
   },
   "V": {
-    "ath": 409.2699890136719,
-    "ath_date": "2026-10-21",
+    "ath": 413.7699890136719,
+    "ath_date": "2026-10-22",
     "ath_disarmed": [],
     "initialized": true
   },
