@@ -1,7 +1,7 @@
 {
   "AAPL": {
-    "ath": 346.07000732421875,
-    "ath_date": "2026-10-13",
+    "ath": 348.2200012207031,
+    "ath_date": "2026-10-22",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1029,7 +1029,7 @@
     "initialized": true
   },
   "KO": {
-    "ath": 94.73500061035156,
+    "ath": 95.33999633789062,
     "ath_date": "2026-10-22",
     "ath_disarmed": [],
     "initialized": true
@@ -1096,7 +1096,7 @@
     "initialized": true
   },
   "MA": {
-    "ath": 632.489990234375,
+    "ath": 633.2100219726562,
     "ath_date": "2026-10-22",
     "ath_disarmed": [],
     "initialized": true
@@ -1167,8 +1167,8 @@
     "initialized": true
   },
   "MET": {
-    "ath": 102.27999877929688,
-    "ath_date": "2026-10-21",
+    "ath": 103.56999969482422,
+    "ath_date": "2026-10-22",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1199,11 +1199,9 @@
     "initialized": true
   },
   "MO": {
-    "ath": 75.82009887695312,
-    "ath_date": "2026-07-28",
-    "ath_disarmed": [
-      15
-    ],
+    "ath": 76.06999969482422,
+    "ath_date": "2026-10-22",
+    "ath_disarmed": [],
     "initialized": true
   },
   "MPC": {
@@ -1938,7 +1936,7 @@
     "initialized": true
   },
   "TRV": {
-    "ath": 405.17498779296875,
+    "ath": 405.44000244140625,
     "ath_date": "2026-10-22",
     "ath_disarmed": [],
     "initialized": true
@@ -2034,7 +2032,7 @@
     "initialized": true
   },
   "V": {
-    "ath": 413.7699890136719,
+    "ath": 414.3399963378906,
     "ath_date": "2026-10-22",
     "ath_disarmed": [],
     "initialized": true
