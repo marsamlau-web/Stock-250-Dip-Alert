@@ -677,8 +677,8 @@
     "initialized": true
   },
   "ENI.MI": {
-    "ath": 26.434999465942383,
-    "ath_date": "2026-10-22",
+    "ath": 27.06999969482422,
+    "ath_date": "2026-10-23",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -862,7 +862,9 @@
   "HSBA.L": {
     "ath": 1597.4000244140625,
     "ath_date": "2026-08-03",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "HSY": {
