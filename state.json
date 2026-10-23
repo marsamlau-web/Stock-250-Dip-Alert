@@ -512,7 +512,7 @@
     "initialized": true
   },
   "CVX": {
-    "ath": 232.65499877929688,
+    "ath": 233.2100067138672,
     "ath_date": "2026-10-23",
     "ath_disarmed": [],
     "initialized": true
@@ -744,7 +744,8 @@
     "ath": 381.730712890625,
     "ath_date": "2026-08-05",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
@@ -1937,7 +1938,8 @@
     "ath_disarmed": [
       15,
       25,
-      35
+      35,
+      45
     ],
     "initialized": true
   },
@@ -2124,7 +2126,7 @@
     "initialized": true
   },
   "XOM": {
-    "ath": 182.7949981689453,
+    "ath": 183.2100067138672,
     "ath_date": "2026-10-23",
     "ath_disarmed": [],
     "initialized": true
@@ -2154,5 +2156,5 @@
     "ath_disarmed": [],
     "initialized": true
   },
-  "last_heartbeat_week": "2026-W42"
+  "last_heartbeat_week": "2026-W43"
 }
