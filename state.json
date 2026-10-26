@@ -810,7 +810,9 @@
   "GTT.PA": {
     "ath": 227.0,
     "ath_date": "2026-09-17",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "HD": {
@@ -1695,7 +1697,9 @@
   "SAN.MC": {
     "ath": 13.079999923706055,
     "ath_date": "2026-08-13",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "SAN.PA": {
@@ -1735,8 +1739,8 @@
     "initialized": true
   },
   "SGSN.SW": {
-    "ath": 102.75,
-    "ath_date": "2026-10-23",
+    "ath": 103.1500015258789,
+    "ath_date": "2026-10-26",
     "ath_disarmed": [],
     "initialized": true
   },
