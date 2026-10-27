@@ -282,7 +282,8 @@
     "ath_date": "2025-07-07",
     "ath_disarmed": [
       15,
-      25
+      25,
+      35
     ],
     "initialized": true
   },
@@ -664,8 +665,8 @@
     "initialized": true
   },
   "EMR": {
-    "ath": 164.625,
-    "ath_date": "2026-08-12",
+    "ath": 166.27000427246094,
+    "ath_date": "2026-10-27",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -750,8 +751,8 @@
     "initialized": true
   },
   "GILD": {
-    "ath": 158.7100067138672,
-    "ath_date": "2026-10-15",
+    "ath": 159.0800018310547,
+    "ath_date": "2026-10-27",
     "ath_disarmed": [],
     "initialized": true
   },
