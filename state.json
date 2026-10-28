@@ -1998,7 +1998,9 @@
   "UBSG.SW": {
     "ath": 45.0,
     "ath_date": "2026-09-08",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "UCG.MI": {
