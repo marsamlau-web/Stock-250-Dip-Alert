@@ -148,7 +148,7 @@
     "initialized": true
   },
   "AMGN": {
-    "ath": 450.05499267578125,
+    "ath": 451.8299865722656,
     "ath_date": "2026-10-28",
     "ath_disarmed": [],
     "initialized": true
@@ -665,7 +665,7 @@
     "initialized": true
   },
   "EMR": {
-    "ath": 166.85499572753906,
+    "ath": 167.7100067138672,
     "ath_date": "2026-10-28",
     "ath_disarmed": [],
     "initialized": true
@@ -1932,7 +1932,7 @@
     "initialized": true
   },
   "TMO": {
-    "ath": 703.635009765625,
+    "ath": 704.1500244140625,
     "ath_date": "2026-10-28",
     "ath_disarmed": [],
     "initialized": true
@@ -1974,7 +1974,8 @@
     "ath": 262.2900085449219,
     "ath_date": "2025-10-20",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
