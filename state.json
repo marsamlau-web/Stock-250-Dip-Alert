@@ -274,7 +274,9 @@
   "BBVA.MC": {
     "ath": 25.469999313354492,
     "ath_date": "2026-09-29",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "BKNG": {
@@ -883,8 +885,8 @@
     "initialized": true
   },
   "IBE.MC": {
-    "ath": 22.049999237060547,
-    "ath_date": "2026-06-30",
+    "ath": 22.1299991607666,
+    "ath_date": "2026-10-29",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1052,7 +1054,9 @@
   "LLOY.L": {
     "ath": 117.0999984741211,
     "ath_date": "2026-08-05",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "LLY": {
@@ -1354,11 +1358,9 @@
     "initialized": true
   },
   "NOVN.SW": {
-    "ath": 131.60000610351562,
-    "ath_date": "2026-09-03",
-    "ath_disarmed": [
-      15
-    ],
+    "ath": 132.60000610351562,
+    "ath_date": "2026-10-29",
+    "ath_disarmed": [],
     "initialized": true
   },
   "NOVO-B.CO": {
@@ -1746,8 +1748,8 @@
     "initialized": true
   },
   "SHEL.L": {
-    "ath": 4033.0,
-    "ath_date": "2026-10-23",
+    "ath": 4099.0,
+    "ath_date": "2026-10-29",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1965,8 +1967,8 @@
     "initialized": true
   },
   "TTE.PA": {
-    "ath": 83.83999633789062,
-    "ath_date": "2026-10-26",
+    "ath": 85.01000213623047,
+    "ath_date": "2026-10-29",
     "ath_disarmed": [],
     "initialized": true
   },
