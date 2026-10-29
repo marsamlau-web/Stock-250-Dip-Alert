@@ -14,8 +14,8 @@
     "initialized": true
   },
   "ABBV": {
-    "ath": 289.3999938964844,
-    "ath_date": "2026-10-20",
+    "ath": 290.7900085449219,
+    "ath_date": "2026-10-29",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -148,7 +148,7 @@
     "initialized": true
   },
   "AMGN": {
-    "ath": 457.5,
+    "ath": 460.7300109863281,
     "ath_date": "2026-10-29",
     "ath_disarmed": [],
     "initialized": true
@@ -667,7 +667,7 @@
     "initialized": true
   },
   "EMR": {
-    "ath": 169.86000061035156,
+    "ath": 170.74000549316406,
     "ath_date": "2026-10-29",
     "ath_disarmed": [],
     "initialized": true
@@ -753,7 +753,7 @@
     "initialized": true
   },
   "GILD": {
-    "ath": 161.11000061035156,
+    "ath": 165.61000061035156,
     "ath_date": "2026-10-29",
     "ath_disarmed": [],
     "initialized": true
@@ -1061,7 +1061,7 @@
     "initialized": true
   },
   "LLY": {
-    "ath": 1360.6943359375,
+    "ath": 1373.699951171875,
     "ath_date": "2026-10-29",
     "ath_disarmed": [],
     "initialized": true
@@ -1108,7 +1108,7 @@
     "initialized": true
   },
   "MA": {
-    "ath": 635.510009765625,
+    "ath": 635.7000122070312,
     "ath_date": "2026-10-29",
     "ath_disarmed": [],
     "initialized": true
@@ -1211,8 +1211,8 @@
     "initialized": true
   },
   "MO": {
-    "ath": 76.06999969482422,
-    "ath_date": "2026-10-22",
+    "ath": 76.75,
+    "ath_date": "2026-10-29",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1550,7 +1550,7 @@
     "initialized": true
   },
   "PM": {
-    "ath": 206.4149932861328,
+    "ath": 208.5,
     "ath_date": "2026-10-29",
     "ath_disarmed": [],
     "initialized": true
@@ -1935,7 +1935,7 @@
     "initialized": true
   },
   "TMO": {
-    "ath": 705.2999877929688,
+    "ath": 709.1799926757812,
     "ath_date": "2026-10-29",
     "ath_disarmed": [],
     "initialized": true
