@@ -467,7 +467,7 @@
     "initialized": true
   },
   "COP": {
-    "ath": 153.66000366210938,
+    "ath": 154.02999877929688,
     "ath_date": "2026-10-30",
     "ath_disarmed": [],
     "initialized": true
@@ -2076,8 +2076,8 @@
     "initialized": true
   },
   "VRTX": {
-    "ath": 558.3800048828125,
-    "ath_date": "2026-09-03",
+    "ath": 558.8800048828125,
+    "ath_date": "2026-10-30",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -2175,5 +2175,5 @@
     "ath_disarmed": [],
     "initialized": true
   },
-  "last_heartbeat_week": "2026-W43"
+  "last_heartbeat_week": "2026-W44"
 }
