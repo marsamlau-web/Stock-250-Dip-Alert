@@ -886,8 +886,8 @@
     "initialized": true
   },
   "IBE.MC": {
-    "ath": 22.1299991607666,
-    "ath_date": "2026-10-29",
+    "ath": 22.139999389648438,
+    "ath_date": "2026-10-30",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1359,8 +1359,8 @@
     "initialized": true
   },
   "NOVN.SW": {
-    "ath": 132.60000610351562,
-    "ath_date": "2026-10-29",
+    "ath": 133.5399932861328,
+    "ath_date": "2026-10-30",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1395,7 +1395,9 @@
   "NWG.L": {
     "ath": 723.4000244140625,
     "ath_date": "2026-08-03",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "NXPI": {
@@ -1968,8 +1970,8 @@
     "initialized": true
   },
   "TTE.PA": {
-    "ath": 85.01000213623047,
-    "ath_date": "2026-10-29",
+    "ath": 85.4000015258789,
+    "ath_date": "2026-10-30",
     "ath_disarmed": [],
     "initialized": true
   },
