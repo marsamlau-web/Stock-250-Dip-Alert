@@ -149,7 +149,7 @@
     "initialized": true
   },
   "AMGN": {
-    "ath": 477.57000732421875,
+    "ath": 478.4800109863281,
     "ath_date": "2026-11-04",
     "ath_disarmed": [],
     "initialized": true
@@ -342,7 +342,7 @@
     "initialized": true
   },
   "BRK-B": {
-    "ath": 575.1300048828125,
+    "ath": 579.0900268554688,
     "ath_date": "2026-11-04",
     "ath_disarmed": [],
     "initialized": true
@@ -386,7 +386,7 @@
     "initialized": true
   },
   "CB": {
-    "ath": 371.8299865722656,
+    "ath": 374.1700134277344,
     "ath_date": "2026-11-04",
     "ath_disarmed": [],
     "initialized": true
@@ -1107,7 +1107,7 @@
     "initialized": true
   },
   "MA": {
-    "ath": 669.469970703125,
+    "ath": 672.6799926757812,
     "ath_date": "2026-11-04",
     "ath_disarmed": [],
     "initialized": true
@@ -1266,7 +1266,7 @@
     "initialized": true
   },
   "MSFT": {
-    "ath": 555.2899780273438,
+    "ath": 555.7999877929688,
     "ath_date": "2026-11-04",
     "ath_disarmed": [],
     "initialized": true
@@ -1955,7 +1955,7 @@
     "initialized": true
   },
   "TRV": {
-    "ath": 406.0849914550781,
+    "ath": 409.25,
     "ath_date": "2026-11-04",
     "ath_disarmed": [],
     "initialized": true
@@ -2055,7 +2055,7 @@
     "initialized": true
   },
   "V": {
-    "ath": 433.739990234375,
+    "ath": 436.57000732421875,
     "ath_date": "2026-11-04",
     "ath_disarmed": [],
     "initialized": true
