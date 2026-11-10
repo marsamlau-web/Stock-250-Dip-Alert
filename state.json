@@ -345,7 +345,7 @@
     "initialized": true
   },
   "BRK-B": {
-    "ath": 579.239990234375,
+    "ath": 583.3400268554688,
     "ath_date": "2026-11-10",
     "ath_disarmed": [],
     "initialized": true
@@ -731,8 +731,8 @@
     "initialized": true
   },
   "FAST": {
-    "ath": 54.56999969482422,
-    "ath_date": "2026-11-09",
+    "ath": 54.84000015258789,
+    "ath_date": "2026-11-10",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1047,8 +1047,8 @@
     "initialized": true
   },
   "KO": {
-    "ath": 96.30999755859375,
-    "ath_date": "2026-11-04",
+    "ath": 96.91000366210938,
+    "ath_date": "2026-11-10",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1069,8 +1069,8 @@
     "initialized": true
   },
   "LLY": {
-    "ath": 1425.5899658203125,
-    "ath_date": "2026-11-04",
+    "ath": 1432.2900390625,
+    "ath_date": "2026-11-10",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1203,7 +1203,7 @@
     "initialized": true
   },
   "MKS.L": {
-    "ath": 453.8999938964844,
+    "ath": 455.3999938964844,
     "ath_date": "2026-11-10",
     "ath_disarmed": [],
     "initialized": true
