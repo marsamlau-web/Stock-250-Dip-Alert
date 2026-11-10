@@ -123,8 +123,8 @@
     "initialized": true
   },
   "ALV.DE": {
-    "ath": 465.1000061035156,
-    "ath_date": "2026-11-05",
+    "ath": 465.79998779296875,
+    "ath_date": "2026-11-10",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -345,8 +345,8 @@
     "initialized": true
   },
   "BRK-B": {
-    "ath": 579.0900268554688,
-    "ath_date": "2026-11-04",
+    "ath": 579.239990234375,
+    "ath_date": "2026-11-10",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -504,8 +504,8 @@
     "initialized": true
   },
   "CS.PA": {
-    "ath": 45.849998474121094,
-    "ath_date": "2026-11-05",
+    "ath": 46.33000183105469,
+    "ath_date": "2026-11-10",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -707,7 +707,9 @@
   "EQNR.OL": {
     "ath": 453.79998779296875,
     "ath_date": "2026-10-23",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "ERIC-B.ST": {
@@ -889,8 +891,8 @@
     "initialized": true
   },
   "IBE.MC": {
-    "ath": 22.950000762939453,
-    "ath_date": "2026-11-09",
+    "ath": 23.06999969482422,
+    "ath_date": "2026-11-10",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -996,8 +998,8 @@
     "initialized": true
   },
   "ITX.MC": {
-    "ath": 60.13999938964844,
-    "ath_date": "2026-11-05",
+    "ath": 60.36000061035156,
+    "ath_date": "2026-11-10",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1201,8 +1203,8 @@
     "initialized": true
   },
   "MKS.L": {
-    "ath": 448.70001220703125,
-    "ath_date": "2026-11-05",
+    "ath": 453.8999938964844,
+    "ath_date": "2026-11-10",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1365,8 +1367,8 @@
     "initialized": true
   },
   "NOVN.SW": {
-    "ath": 134.44000244140625,
-    "ath_date": "2026-11-09",
+    "ath": 134.72000122070312,
+    "ath_date": "2026-11-10",
     "ath_disarmed": [],
     "initialized": true
   },
