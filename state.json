@@ -1,7 +1,7 @@
 {
   "AAPL": {
-    "ath": 352.3800048828125,
-    "ath_date": "2026-11-04",
+    "ath": 355.0799865722656,
+    "ath_date": "2026-11-11",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -296,8 +296,8 @@
     "initialized": true
   },
   "BLK": {
-    "ath": 1225.255126953125,
-    "ath_date": "2026-11-04",
+    "ath": 1233.3900146484375,
+    "ath_date": "2026-11-11",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -731,8 +731,8 @@
     "initialized": true
   },
   "FAST": {
-    "ath": 54.84000015258789,
-    "ath_date": "2026-11-10",
+    "ath": 55.38999938964844,
+    "ath_date": "2026-11-11",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -891,7 +891,7 @@
     "initialized": true
   },
   "IBE.MC": {
-    "ath": 23.1299991607666,
+    "ath": 23.200000762939453,
     "ath_date": "2026-11-11",
     "ath_disarmed": [],
     "initialized": true
@@ -1047,8 +1047,8 @@
     "initialized": true
   },
   "KO": {
-    "ath": 96.91000366210938,
-    "ath_date": "2026-11-10",
+    "ath": 97.1050033569336,
+    "ath_date": "2026-11-11",
     "ath_disarmed": [],
     "initialized": true
   },
