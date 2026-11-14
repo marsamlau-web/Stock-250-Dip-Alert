@@ -345,7 +345,7 @@
     "initialized": true
   },
   "BRK-B": {
-    "ath": 592.1500244140625,
+    "ath": 592.9400024414062,
     "ath_date": "2026-11-13",
     "ath_disarmed": [],
     "initialized": true
@@ -389,7 +389,7 @@
     "initialized": true
   },
   "CB": {
-    "ath": 374.6000061035156,
+    "ath": 375.739990234375,
     "ath_date": "2026-11-13",
     "ath_disarmed": [],
     "initialized": true
@@ -403,7 +403,7 @@
     "initialized": true
   },
   "CHD": {
-    "ath": 112.73500061035156,
+    "ath": 113.0,
     "ath_date": "2026-11-13",
     "ath_disarmed": [],
     "initialized": true
@@ -474,7 +474,7 @@
     "initialized": true
   },
   "COST": {
-    "ath": 1102.64501953125,
+    "ath": 1106.2099609375,
     "ath_date": "2026-11-13",
     "ath_disarmed": [],
     "initialized": true
@@ -1218,7 +1218,7 @@
     "initialized": true
   },
   "MO": {
-    "ath": 78.62000274658203,
+    "ath": 78.63999938964844,
     "ath_date": "2026-11-13",
     "ath_disarmed": [],
     "initialized": true
