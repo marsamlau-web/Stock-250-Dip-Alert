@@ -191,8 +191,8 @@
     "initialized": true
   },
   "AV.L": {
-    "ath": 764.7999877929688,
-    "ath_date": "2026-11-13",
+    "ath": 765.4000244140625,
+    "ath_date": "2026-11-16",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -996,8 +996,8 @@
     "initialized": true
   },
   "ITX.MC": {
-    "ath": 60.36000061035156,
-    "ath_date": "2026-11-10",
+    "ath": 60.68000030517578,
+    "ath_date": "2026-11-16",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1201,8 +1201,8 @@
     "initialized": true
   },
   "MKS.L": {
-    "ath": 465.79998779296875,
-    "ath_date": "2026-11-13",
+    "ath": 472.6000061035156,
+    "ath_date": "2026-11-16",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1365,8 +1365,8 @@
     "initialized": true
   },
   "NOVN.SW": {
-    "ath": 134.72000122070312,
-    "ath_date": "2026-11-10",
+    "ath": 135.6999969482422,
+    "ath_date": "2026-11-16",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1419,8 +1419,8 @@
     "initialized": true
   },
   "NXT.L": {
-    "ath": 16082.0048828125,
-    "ath_date": "2026-11-12",
+    "ath": 16105.0,
+    "ath_date": "2026-11-16",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -2181,8 +2181,8 @@
     "initialized": true
   },
   "ZURN.SW": {
-    "ath": 655.4000244140625,
-    "ath_date": "2026-11-13",
+    "ath": 659.0,
+    "ath_date": "2026-11-16",
     "ath_disarmed": [],
     "initialized": true
   },
