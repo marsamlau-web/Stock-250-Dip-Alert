@@ -471,8 +471,8 @@
     "initialized": true
   },
   "COST": {
-    "ath": 1113.739990234375,
-    "ath_date": "2026-11-16",
+    "ath": 1114.130126953125,
+    "ath_date": "2026-11-17",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -1394,7 +1394,8 @@
     "ath_date": "2026-10-06",
     "ath_disarmed": [
       15,
-      25
+      25,
+      35
     ],
     "initialized": true
   },
@@ -1507,8 +1508,8 @@
     "initialized": true
   },
   "PG": {
-    "ath": 173.02000427246094,
-    "ath_date": "2026-11-16",
+    "ath": 173.1999969482422,
+    "ath_date": "2026-11-17",
     "ath_disarmed": [],
     "initialized": true
   },
