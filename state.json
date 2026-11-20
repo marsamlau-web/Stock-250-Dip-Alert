@@ -1158,7 +1158,8 @@
     "ath_disarmed": [
       15,
       25,
-      35
+      35,
+      45
     ],
     "initialized": true
   },
@@ -1268,7 +1269,8 @@
     "ath": 228.8300018310547,
     "ath_date": "2026-06-18",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
@@ -1403,7 +1405,8 @@
     "ath_disarmed": [
       15,
       25,
-      35
+      35,
+      45
     ],
     "initialized": true
   },
@@ -1688,7 +1691,9 @@
   "ROST": {
     "ath": 255.88999938964844,
     "ath_date": "2026-08-03",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "RR.L": {
@@ -2194,5 +2199,5 @@
     "ath_disarmed": [],
     "initialized": true
   },
-  "last_heartbeat_week": "2026-W46"
+  "last_heartbeat_week": "2026-W47"
 }
