@@ -9,7 +9,8 @@
     "ath": 88.55999755859375,
     "ath_date": "2026-06-22",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
@@ -246,7 +247,8 @@
     "ath": 64.83499908447266,
     "ath_date": "2026-08-17",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
@@ -254,7 +256,8 @@
     "ath": 537.2999877929688,
     "ath_date": "2026-07-27",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
@@ -943,7 +946,9 @@
   "INGA.AS": {
     "ath": 32.310001373291016,
     "ath_date": "2026-09-17",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "INTC": {
@@ -1232,7 +1237,9 @@
   "MRK": {
     "ath": 156.4499969482422,
     "ath_date": "2026-08-25",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "MRK.DE": {
@@ -1781,7 +1788,8 @@
     "ath": 179.22000122070312,
     "ath_date": "2026-10-12",
     "ath_disarmed": [
-      15
+      15,
+      25
     ],
     "initialized": true
   },
@@ -2156,7 +2164,9 @@
   "XOM": {
     "ath": 187.41000366210938,
     "ath_date": "2026-10-30",
-    "ath_disarmed": [],
+    "ath_disarmed": [
+      15
+    ],
     "initialized": true
   },
   "XYZ": {
