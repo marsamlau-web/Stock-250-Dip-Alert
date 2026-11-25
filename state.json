@@ -1522,8 +1522,8 @@
     "initialized": true
   },
   "PG": {
-    "ath": 173.1999969482422,
-    "ath_date": "2026-11-17",
+    "ath": 173.22999572753906,
+    "ath_date": "2026-11-25",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -2101,8 +2101,8 @@
     "initialized": true
   },
   "VRTX": {
-    "ath": 563.9199829101562,
-    "ath_date": "2026-11-24",
+    "ath": 564.1199951171875,
+    "ath_date": "2026-11-25",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -2154,11 +2154,9 @@
     "initialized": true
   },
   "WM": {
-    "ath": 245.53370666503906,
-    "ath_date": "2026-03-09",
-    "ath_disarmed": [
-      15
-    ],
+    "ath": 247.2899932861328,
+    "ath_date": "2026-11-25",
+    "ath_disarmed": [],
     "initialized": true
   },
   "WMT": {
