@@ -936,12 +936,9 @@
     "initialized": true
   },
   "IMB.L": {
-    "ath": 3340.588134765625,
-    "ath_date": "2026-02-06",
-    "ath_disarmed": [
-      15,
-      25
-    ],
+    "ath": 3432.0,
+    "ath_date": "2026-11-26",
+    "ath_disarmed": [],
     "initialized": true
   },
   "INGA.AS": {
