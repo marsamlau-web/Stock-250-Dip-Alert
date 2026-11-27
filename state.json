@@ -1,7 +1,7 @@
 {
   "AAPL": {
-    "ath": 358.4079895019531,
-    "ath_date": "2026-11-13",
+    "ath": 358.5400085449219,
+    "ath_date": "2026-11-27",
     "ath_disarmed": [],
     "initialized": true
   },
@@ -936,7 +936,7 @@
     "initialized": true
   },
   "IMB.L": {
-    "ath": 3459.0,
+    "ath": 3495.0,
     "ath_date": "2026-11-27",
     "ath_disarmed": [],
     "initialized": true
@@ -2199,5 +2199,5 @@
     "ath_disarmed": [],
     "initialized": true
   },
-  "last_heartbeat_week": "2026-W47"
+  "last_heartbeat_week": "2026-W48"
 }
